@@ -1,0 +1,65 @@
+StartChar: asterisk
+Encoding: 42 42 13
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 21
+ 244
+ 7
+ 1
+ 7
+ 5
+ 9
+ 7
+ 4
+ 10
+ 3
+ 11
+ 1
+ 13
+ 2
+ 12
+ 11
+ 8
+ 6
+ 6
+ 0
+ 0
+SVTCA[y-axis]
+MIAP[rnd]
+SHP[rp2]
+MDAP[rnd]
+SHP[rp1]
+SLOOP
+IP
+SVTCA[x-axis]
+RTHG
+MDAP[rnd]
+DELTAP1
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+SplineSet
+715 1556 m 1,0,-1
+ 672 1163 l 1,1,-1
+ 1069 1274 l 1,2,-1
+ 1096 1081 l 1,3,-1
+ 717 1053 l 1,4,-1
+ 963 727 l 1,5,-1
+ 784 631 l 1,6,-1
+ 608 989 l 1,7,-1
+ 451 631 l 1,8,-1
+ 266 727 l 1,9,-1
+ 508 1053 l 1,10,-1
+ 133 1081 l 1,11,-1
+ 162 1274 l 1,12,-1
+ 553 1163 l 1,13,-1
+ 510 1556 l 1,14,-1
+ 715 1556 l 1,0,-1
+EndSplineSet
+EndChar

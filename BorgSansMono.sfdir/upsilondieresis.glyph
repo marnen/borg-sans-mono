@@ -1,0 +1,37 @@
+StartChar: upsilondieresis
+Encoding: 971 971 421
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_7
+ 2
+ 1
+ 22
+ 17
+ 38
+ 2
+ 1
+PUSHW_1
+ -8
+PUSHB_5
+ 24
+ 28
+ 0
+ 12
+ 37
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SHC[rp1]
+SVTCA[y-axis]
+CALL
+SHC[rp1]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 415 965 N 1 0 0 1 0 0 3
+Refer: 106 168 N 1 0 0 1 0 0 2
+EndChar

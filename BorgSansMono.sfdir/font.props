@@ -1,0 +1,2762 @@
+SplineFontDB: 3.0
+FontName: BorgSansMono
+FullName: Borg Sans Mono
+FamilyName: Borg Sans Mono
+Weight: Book
+Copyright: Digitized data copyright (c) 2007, Google Corporation.\nSlashed Zero Modification (c) 2009, cosmix.org\nLigatures copyright (c) 2016, Marnen E. Laibow-Koser
+Version: 0.0.0
+ItalicAngle: 0
+UnderlinePosition: -103
+UnderlineWidth: 102
+Ascent: 1638
+Descent: 410
+InvalidEm: 0
+sfntRevision: 0x00010000
+LayerCount: 2
+Layer: 0 1 "Back" 1
+Layer: 1 1 "Fore" 0
+XUID: [1021 694 -826351690 10591638]
+FSType: 8
+OS2Version: 3
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1168259284
+ModificationTime: 1453412371
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 0
+VLineGap: 0
+Panose: 2 11 6 9 3 8 4 2 2 4
+OS2TypoAscent: 1567
+OS2TypoAOffset: 0
+OS2TypoDescent: -492
+OS2TypoDOffset: 0
+OS2TypoLinegap: 132
+OS2WinAscent: 1901
+OS2WinAOffset: 0
+OS2WinDescent: 483
+OS2WinDOffset: 0
+HheadAscent: 1901
+HheadAOffset: 0
+HheadDescent: -483
+HheadDOffset: 0
+OS2SubXSize: 1434
+OS2SubYSize: 1331
+OS2SubXOff: 0
+OS2SubYOff: 286
+OS2SupXSize: 1434
+OS2SupYSize: 1331
+OS2SupXOff: 0
+OS2SupYOff: 976
+OS2StrikeYSize: 102
+OS2StrikeYPos: 498
+OS2CapHeight: 0
+OS2XHeight: 0
+OS2Vendor: '1ASC'
+OS2CodePages: 2000019f.00000000
+OS2UnicodeRanges: e00002ef.4000205b.00000028.00000000
+Lookup: 4 0 1 "'liga' Standard Ligatures lookup 0" { "'liga' Standard Ligatures lookup 0-1"  } ['liga' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+MarkAttachClasses: 1
+DEI: 91125
+TtTable: prep
+NPUSHB
+ 21
+ 248
+ 3
+ 255
+ 31
+ 241
+ 111
+ 26
+ 31
+ 47
+ 239
+ 111
+ 239
+ 2
+ 230
+ 228
+ 51
+ 31
+ 229
+ 228
+ 25
+ 31
+PUSHW_1
+ 256
+NPUSHB
+ 16
+ 51
+ 255
+ 85
+ 223
+ 51
+ 221
+ 85
+ 222
+ 51
+ 3
+ 85
+ 176
+ 255
+ 208
+ 255
+ 2
+PUSHW_1
+ -64
+NPUSHB
+ 104
+ 255
+ 9
+ 17
+ 70
+ 0
+ 221
+ 32
+ 221
+ 112
+ 221
+ 3
+ 221
+ 1
+ 3
+ 85
+ 220
+ 3
+ 255
+ 31
+ 214
+ 213
+ 51
+ 31
+ 211
+ 210
+ 25
+ 31
+ 135
+ 210
+ 1
+ 254
+ 194
+ 25
+ 31
+ 6
+ 186
+ 22
+ 186
+ 230
+ 186
+ 246
+ 186
+ 4
+ 15
+ 178
+ 31
+ 178
+ 47
+ 178
+ 3
+ 64
+ 178
+ 15
+ 19
+ 70
+ 167
+ 177
+ 1
+ 175
+ 83
+ 25
+ 31
+ 174
+ 173
+ 25
+ 31
+ 172
+ 74
+ 25
+ 31
+ 171
+ 170
+ 25
+ 31
+ 169
+ 3
+ 255
+ 31
+ 158
+ 157
+ 25
+ 31
+ 31
+ 157
+ 1
+ 112
+ 156
+ 128
+ 156
+ 144
+ 156
+ 208
+ 156
+ 224
+ 156
+ 240
+ 156
+ 6
+ 15
+ 153
+ 1
+ 151
+ 152
+ 1
+PUSHW_1
+ -8
+NPUSHB
+ 56
+ 152
+ 9
+ 15
+ 70
+ 32
+ 151
+ 128
+ 151
+ 144
+ 151
+ 240
+ 151
+ 4
+ 169
+ 150
+ 185
+ 150
+ 2
+ 56
+ 150
+ 1
+ 240
+ 149
+ 1
+ 191
+ 149
+ 1
+ 32
+ 149
+ 48
+ 149
+ 64
+ 149
+ 128
+ 149
+ 144
+ 149
+ 160
+ 149
+ 6
+ 148
+ 146
+ 25
+ 31
+ 147
+ 83
+ 25
+ 31
+ 15
+ 146
+ 1
+ 133
+ 71
+ 25
+ 31
+ 197
+PUSHW_6
+ 263
+ 1
+ 166
+ 263
+ 182
+ 263
+PUSHB_3
+ 2
+ 3
+ 128
+PUSHW_3
+ 263
+ 144
+ 263
+NPUSHB
+ 168
+ 2
+ 118
+ 117
+ 25
+ 31
+ 116
+ 80
+ 25
+ 31
+ 115
+ 80
+ 25
+ 31
+ 111
+ 72
+ 25
+ 31
+ 110
+ 71
+ 25
+ 31
+ 26
+ 1
+ 24
+ 85
+ 25
+ 19
+ 255
+ 31
+ 7
+ 4
+ 255
+ 31
+ 6
+ 3
+ 255
+ 31
+ 97
+ 96
+ 25
+ 31
+ 101
+ 96
+ 1
+ 100
+ 95
+ 1
+ 255
+ 251
+ 1
+ 239
+ 251
+ 1
+ 121
+ 251
+ 1
+ 63
+ 251
+ 79
+ 251
+ 2
+ 24
+ 250
+ 18
+ 24
+ 70
+ 79
+ 250
+ 95
+ 250
+ 111
+ 250
+ 3
+ 212
+ 91
+ 228
+ 91
+ 2
+ 91
+ 90
+ 16
+ 31
+ 57
+ 90
+ 1
+ 6
+ 90
+ 1
+ 6
+ 19
+ 51
+ 18
+ 85
+ 5
+ 1
+ 3
+ 85
+ 4
+ 51
+ 3
+ 85
+ 15
+ 3
+ 127
+ 3
+ 239
+ 3
+ 3
+ 224
+ 253
+ 1
+ 223
+ 253
+ 1
+ 81
+ 80
+ 25
+ 31
+ 15
+ 252
+ 191
+ 252
+ 207
+ 252
+ 223
+ 252
+ 4
+ 3
+ 64
+ 252
+ 12
+ 16
+ 70
+ 73
+ 70
+ 25
+ 31
+ 96
+ 72
+ 1
+ 59
+ 71
+ 1
+ 6
+ 28
+ 27
+ 255
+ 31
+ 22
+ 51
+ 21
+ 85
+ 17
+ 1
+ 15
+ 85
+ 16
+ 51
+ 15
+ 85
+ 2
+ 1
+ 0
+ 85
+ 1
+ 71
+ 0
+ 85
+PUSHW_1
+ 262
+NPUSHB
+ 30
+ 27
+ 18
+ 31
+ 159
+ 15
+ 223
+ 15
+ 2
+ 207
+ 15
+ 239
+ 15
+ 2
+ 111
+ 0
+ 127
+ 0
+ 175
+ 0
+ 239
+ 0
+ 4
+ 16
+ 0
+ 1
+ 128
+ 22
+ 1
+ 5
+ 1
+PUSHW_1
+ 400
+PUSHB_2
+ 84
+ 83
+CALL
+CALL
+MPPEM
+PUSHW_1
+ 2047
+GT
+MPPEM
+PUSHB_1
+ 9
+LT
+OR
+PUSHB_1
+ 1
+GETINFO
+PUSHB_1
+ 37
+GTEQ
+PUSHB_1
+ 1
+GETINFO
+PUSHB_1
+ 64
+LTEQ
+AND
+PUSHB_1
+ 6
+GETINFO
+PUSHB_1
+ 0
+NEQ
+AND
+OR
+IF
+PUSHB_2
+ 1
+ 1
+INSTCTRL
+EIF
+SCANCTRL
+SCANTYPE
+SCANTYPE
+SVTCA[y-axis]
+WS
+SCVTCI
+MPPEM
+PUSHB_1
+ 50
+GTEQ
+IF
+PUSHB_1
+ 96
+SCVTCI
+EIF
+MPPEM
+PUSHB_1
+ 100
+GTEQ
+IF
+PUSHB_1
+ 64
+SCVTCI
+EIF
+MPPEM
+PUSHB_1
+ 128
+GTEQ
+IF
+PUSHB_1
+ 16
+SCVTCI
+PUSHB_2
+ 22
+ 0
+WS
+EIF
+DELTAC1
+DELTAC1
+DELTAC1
+DELTAC2
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+SVTCA[x-axis]
+SDS
+DELTAC1
+DELTAC1
+CALL
+CALL
+SDS
+DELTAC1
+SVTCA[y-axis]
+CALL
+DELTAC1
+DELTAC1
+DELTAC1
+CALL
+CALL
+CALL
+SVTCA[x-axis]
+SDS
+DELTAC1
+DELTAC1
+CALL
+DELTAC1
+DELTAC1
+CALL
+DELTAC1
+DELTAC1
+DELTAC1
+DELTAC1
+SVTCA[y-axis]
+DELTAC1
+DELTAC1
+CALL
+CALL
+CALL
+CALL
+CALL
+SVTCA[x-axis]
+CALL
+CALL
+SVTCA[y-axis]
+CALL
+CALL
+CALL
+DELTAC1
+SDS
+DELTAC1
+DELTAC1
+SVTCA[x-axis]
+CALL
+SVTCA[y-axis]
+DELTAC1
+CALL
+CALL
+SVTCA[x-axis]
+DELTAC1
+DELTAC1
+DELTAC1
+DELTAC1
+DELTAC1
+DELTAC1
+CALL
+DELTAC1
+DELTAC1
+SVTCA[y-axis]
+DELTAC1
+DELTAC1
+CALL
+CALL
+SVTCA[x-axis]
+CALL
+CALL
+SVTCA[y-axis]
+CALL
+CALL
+SVTCA[x-axis]
+DELTAC1
+SVTCA[y-axis]
+CALL
+DELTAC1
+DELTAC1
+CALL
+SVTCA[x-axis]
+DELTAC1
+CALL
+SVTCA[y-axis]
+CALL
+CALL
+CALL
+DELTAC1
+CALL
+DELTAC1
+CALL
+CALL
+CALL
+CALL
+CALL
+DELTAC1
+SVTCA[x-axis]
+CALL
+SVTCA[y-axis]
+CALL
+RTG
+EndTTInstrs
+TtTable: fpgm
+NPUSHB
+ 69
+ 89
+ 88
+ 85
+ 84
+ 83
+ 82
+ 81
+ 80
+ 79
+ 78
+ 77
+ 76
+ 75
+ 74
+ 73
+ 72
+ 71
+ 70
+ 69
+ 68
+ 67
+ 66
+ 65
+ 64
+ 63
+ 62
+ 61
+ 60
+ 59
+ 58
+ 57
+ 56
+ 55
+ 54
+ 53
+ 49
+ 48
+ 47
+ 46
+ 45
+ 44
+ 40
+ 39
+ 38
+ 37
+ 36
+ 35
+ 34
+ 33
+ 31
+ 24
+ 20
+ 17
+ 16
+ 15
+ 14
+ 13
+ 11
+ 10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+ 0
+FDEF
+RCVT
+SWAP
+GC[cur]
+ADD
+DUP
+PUSHB_1
+ 38
+ADD
+PUSHB_1
+ 4
+MINDEX
+SWAP
+SCFS
+SCFS
+ENDF
+FDEF
+RCVT
+SWAP
+GC[cur]
+SWAP
+SUB
+DUP
+PUSHB_1
+ 38
+SUB
+PUSHB_1
+ 4
+MINDEX
+SWAP
+SCFS
+SCFS
+ENDF
+FDEF
+RCVT
+SWAP
+GC[cur]
+ADD
+PUSHB_1
+ 32
+SUB
+DUP
+PUSHB_1
+ 70
+ADD
+PUSHB_1
+ 4
+MINDEX
+SWAP
+SCFS
+SCFS
+ENDF
+FDEF
+RCVT
+SWAP
+GC[cur]
+SWAP
+SUB
+PUSHB_1
+ 32
+ADD
+DUP
+PUSHB_1
+ 38
+SUB
+PUSHB_1
+ 32
+SUB
+PUSHB_1
+ 4
+MINDEX
+SWAP
+SCFS
+SCFS
+ENDF
+FDEF
+RCVT
+SWAP
+GC[cur]
+ADD
+PUSHB_1
+ 64
+SUB
+DUP
+PUSHB_1
+ 102
+ADD
+PUSHB_1
+ 4
+MINDEX
+SWAP
+SCFS
+SCFS
+ENDF
+FDEF
+RCVT
+SWAP
+GC[cur]
+SWAP
+SUB
+PUSHB_1
+ 64
+ADD
+DUP
+PUSHB_1
+ 38
+SUB
+PUSHB_1
+ 64
+SUB
+PUSHB_1
+ 4
+MINDEX
+SWAP
+SCFS
+SCFS
+ENDF
+FDEF
+SVTCA[x-axis]
+SRP0
+DUP
+ALIGNRP
+SVTCA[y-axis]
+ALIGNRP
+ENDF
+FDEF
+DUP
+RCVT
+SWAP
+DUP
+PUSHB_1
+ 205
+WCVTP
+SWAP
+DUP
+PUSHW_1
+ 346
+LTEQ
+IF
+SWAP
+DUP
+PUSHB_1
+ 141
+WCVTP
+SWAP
+EIF
+DUP
+PUSHB_1
+ 237
+LTEQ
+IF
+SWAP
+DUP
+PUSHB_1
+ 77
+WCVTP
+SWAP
+EIF
+DUP
+PUSHB_1
+ 4
+MINDEX
+LTEQ
+IF
+SWAP
+DUP
+PUSHB_1
+ 13
+WCVTP
+SWAP
+EIF
+POP
+POP
+ENDF
+FDEF
+DUP
+DUP
+RCVT
+RTG
+ROUND[Grey]
+WCVTP
+DUP
+PUSHB_1
+ 1
+ADD
+DUP
+RCVT
+PUSHB_1
+ 70
+SROUND
+ROUND[Grey]
+ROLL
+RCVT
+ADD
+WCVTP
+ENDF
+FDEF
+SVTCA[x-axis]
+PUSHB_2
+ 11
+ 10
+RS
+SWAP
+RS
+NEG
+SPVFS
+ENDF
+FDEF
+SVTCA[y-axis]
+PUSHB_2
+ 10
+ 11
+RS
+SWAP
+RS
+SFVFS
+ENDF
+FDEF
+SVTCA[y-axis]
+PUSHB_1
+ 40
+SWAP
+WCVTF
+PUSHB_2
+ 1
+ 40
+MIAP[no-rnd]
+SVTCA[x-axis]
+PUSHB_1
+ 40
+SWAP
+WCVTF
+PUSHB_2
+ 2
+ 40
+RCVT
+MSIRP[no-rp0]
+PUSHB_2
+ 2
+ 0
+SFVTL[parallel]
+GFV
+ENDF
+FDEF
+DUP
+RCVT
+PUSHB_1
+ 3
+CINDEX
+RCVT
+SUB
+ABS
+PUSHB_1
+ 80
+LTEQ
+IF
+RCVT
+WCVTP
+ELSE
+POP
+POP
+EIF
+ENDF
+FDEF
+MD[grid]
+PUSHB_1
+ 14
+SWAP
+WCVTP
+ENDF
+FDEF
+DUP
+RCVT
+PUSHB_1
+ 0
+RS
+ADD
+WCVTP
+ENDF
+FDEF
+SVTCA[x-axis]
+PUSHB_1
+ 6
+RS
+PUSHB_1
+ 7
+RS
+NEG
+SPVFS
+ENDF
+FDEF
+DUP
+ROUND[Black]
+PUSHB_1
+ 64
+SUB
+PUSHB_1
+ 0
+MAX
+DUP
+PUSHB_2
+ 44
+ 192
+ROLL
+MIN
+PUSHW_1
+ 4096
+DIV
+ADD
+CALL
+GPV
+ABS
+SWAP
+ABS
+SUB
+NOT
+IF
+PUSHB_1
+ 3
+SUB
+EIF
+ENDF
+FDEF
+ROLL
+SPVTCA[x-axis]
+RCVT
+ROLL
+ROLL
+SDPVTL[orthog]
+PUSHB_1
+ 17
+CALL
+PUSHB_1
+ 41
+SWAP
+WCVTP
+PUSHB_1
+ 41
+ROFF
+MIRP[rnd,grey]
+RTG
+ENDF
+FDEF
+RCVT
+NEG
+PUSHB_1
+ 44
+SWAP
+WCVTP
+RCVT
+PUSHB_1
+ 43
+SWAP
+WCVTP
+ENDF
+FDEF
+MPPEM
+GT
+IF
+RCVT
+WCVTP
+ELSE
+POP
+POP
+EIF
+ENDF
+FDEF
+MPPEM
+LTEQ
+IF
+RCVT
+WCVTP
+ELSE
+POP
+POP
+EIF
+ENDF
+FDEF
+SVTCA[x-axis]
+PUSHB_1
+ 5
+CINDEX
+SRP0
+SWAP
+DUP
+ROLL
+MIRP[rp0,rnd,black]
+SVTCA[y-axis]
+PUSHB_1
+ 1
+ADD
+SWAP
+MIRP[min,rnd,black]
+MIRP[min,rnd,grey]
+ENDF
+FDEF
+SVTCA[x-axis]
+PUSHB_1
+ 5
+CINDEX
+SRP0
+SWAP
+DUP
+ROLL
+MIRP[rp0,rnd,black]
+SVTCA[y-axis]
+PUSHB_1
+ 1
+SUB
+SWAP
+MIRP[min,rnd,black]
+MIRP[min,rnd,grey]
+ENDF
+FDEF
+SVTCA[x-axis]
+PUSHB_1
+ 6
+CINDEX
+SRP0
+MIRP[rp0,rnd,black]
+SVTCA[y-axis]
+MIRP[min,rnd,black]
+MIRP[min,rnd,grey]
+ENDF
+FDEF
+GC[cur]
+SWAP
+GC[cur]
+ADD
+ROLL
+ROLL
+GC[cur]
+SWAP
+DUP
+GC[cur]
+ROLL
+ADD
+ROLL
+SUB
+PUSHW_1
+ -128
+DIV
+SWAP
+DUP
+SRP0
+SWAP
+ROLL
+PUSHB_2
+ 12
+ 12
+ROLL
+WCVTF
+RCVT
+ADD
+DUP
+PUSHB_1
+ 0
+LT
+IF
+PUSHB_1
+ 1
+SUB
+PUSHW_1
+ -70
+MAX
+ELSE
+PUSHB_1
+ 70
+MIN
+EIF
+PUSHB_1
+ 16
+ADD
+ROUND[Grey]
+SVTCA[x-axis]
+MSIRP[no-rp0]
+ENDF
+FDEF
+DUP
+RCVT
+PUSHB_1
+ 3
+CINDEX
+GC[cur]
+GT
+MPPEM
+PUSHB_1
+ 19
+LTEQ
+OR
+IF
+PUSHB_1
+ 2
+CINDEX
+GC[cur]
+DUP
+ROUND[Grey]
+SUB
+PUSHB_1
+ 3
+CINDEX
+PUSHB_1
+ 3
+CINDEX
+MIAP[rnd]
+SWAP
+POP
+SHPIX
+ELSE
+POP
+SRP1
+EIF
+ENDF
+FDEF
+DUP
+RCVT
+PUSHB_1
+ 3
+CINDEX
+GC[cur]
+LT
+IF
+PUSHB_1
+ 2
+CINDEX
+GC[cur]
+DUP
+ROUND[Grey]
+SUB
+PUSHB_1
+ 3
+CINDEX
+PUSHB_1
+ 3
+CINDEX
+MIAP[rnd]
+SWAP
+POP
+SHPIX
+ELSE
+POP
+SRP1
+EIF
+ENDF
+FDEF
+SVTCA[y-axis]
+PUSHB_1
+ 7
+RS
+PUSHB_1
+ 6
+RS
+SFVFS
+ENDF
+FDEF
+POP
+POP
+GPV
+ABS
+SWAP
+ABS
+MAX
+PUSHW_1
+ 16384
+DIV
+ENDF
+FDEF
+POP
+PUSHB_1
+ 128
+LTEQ
+IF
+GPV
+ABS
+SWAP
+ABS
+MAX
+PUSHW_1
+ 8192
+DIV
+ELSE
+PUSHB_3
+ 0
+ 64
+ 47
+CALL
+EIF
+PUSHB_1
+ 2
+ADD
+ENDF
+FDEF
+POP
+PUSHB_1
+ 192
+LTEQ
+IF
+GPV
+ABS
+SWAP
+ABS
+MAX
+PUSHW_1
+ 5461
+DIV
+ELSE
+PUSHB_3
+ 0
+ 128
+ 47
+CALL
+EIF
+PUSHB_1
+ 2
+ADD
+ENDF
+FDEF
+GPV
+ABS
+SWAP
+ABS
+MAX
+PUSHW_1
+ 16384
+DIV
+ADD
+SWAP
+POP
+ENDF
+FDEF
+MPPEM
+GTEQ
+IF
+ROLL
+PUSHB_1
+ 4
+CINDEX
+MD[grid]
+ABS
+SWAP
+RCVT
+ROUND[Black]
+PUSHB_1
+ 64
+MAX
+SUB
+PUSHB_1
+ 128
+DIV
+PUSHB_1
+ 32
+SUB
+ROUND[White]
+PUSHB_1
+ 14
+SWAP
+WCVTP
+SWAP
+SRP0
+PUSHB_1
+ 14
+MIRP[rp0,rnd,white]
+ELSE
+POP
+SWAP
+ROLL
+SRP2
+SRP1
+DUP
+IP
+MDAP[rnd]
+EIF
+ENDF
+FDEF
+MPPEM
+GTEQ
+IF
+DUP
+PUSHB_1
+ 3
+CINDEX
+MD[grid]
+ABS
+ROUND[Black]
+DUP
+PUSHB_1
+ 5
+MINDEX
+PUSHB_1
+ 6
+CINDEX
+MD[grid]
+ABS
+SWAP
+SUB
+PUSHB_1
+ 128
+DIV
+PUSHB_1
+ 32
+SUB
+ROUND[White]
+PUSHB_1
+ 14
+SWAP
+WCVTP
+PUSHB_1
+ 4
+MINDEX
+SRP0
+PUSHB_1
+ 14
+MIRP[rp0,rnd,white]
+ROLL
+SRP0
+PUSHB_1
+ 14
+SWAP
+WCVTP
+PUSHB_1
+ 14
+MIRP[rp0,rnd,white]
+PUSHB_1
+ 14
+SWAP
+WCVTP
+PUSHB_1
+ 14
+MIRP[min,rnd,black]
+ELSE
+ROLL
+PUSHB_1
+ 4
+MINDEX
+SRP1
+SRP2
+DUP
+IP
+SWAP
+DUP
+IP
+MDAP[rnd]
+MDAP[rnd]
+EIF
+ENDF
+FDEF
+RCVT
+SWAP
+RCVT
+ADD
+SWAP
+RCVT
+ADD
+SWAP
+RCVT
+ADD
+SWAP
+SROUND
+ROUND[Grey]
+RTG
+PUSHB_1
+ 128
+DIV
+DUP
+ENDF
+FDEF
+PUSHB_1
+ 72
+CALL
+ENDF
+FDEF
+DUP
+RCVT
+PUSHB_1
+ 0
+EQ
+IF
+PUSHB_1
+ 64
+WCVTP
+DUP
+RCVT
+PUSHB_1
+ 64
+SUB
+WCVTP
+ELSE
+POP
+POP
+EIF
+ENDF
+FDEF
+RCVT
+PUSHB_2
+ 48
+ 47
+RCVT
+SWAP
+RCVT
+SUB
+ADD
+PUSHB_1
+ 1
+ADD
+ROUND[Black]
+WCVTP
+ENDF
+FDEF
+MPPEM
+LTEQ
+IF
+PUSHB_1
+ 47
+SWAP
+WCVTF
+PUSHB_1
+ 20
+SWAP
+WS
+ELSE
+POP
+POP
+EIF
+ENDF
+FDEF
+MPPEM
+LTEQ
+IF
+DUP
+PUSHB_1
+ 3
+CINDEX
+RCVT
+ROUND[Black]
+GTEQ
+IF
+WCVTP
+ELSE
+POP
+POP
+EIF
+ELSE
+POP
+POP
+EIF
+ENDF
+FDEF
+RCVT
+PUSHB_1
+ 20
+RS
+PUSHB_1
+ 0
+ADD
+MUL
+PUSHB_1
+ 1
+ADD
+ROUND[Black]
+WCVTP
+ENDF
+FDEF
+PUSHB_1
+ 47
+RCVT
+WCVTP
+ENDF
+FDEF
+RCVT
+SWAP
+DUP
+RCVT
+ROLL
+ADD
+WCVTP
+ENDF
+FDEF
+RCVT
+SWAP
+RCVT
+ADD
+WCVTP
+ENDF
+FDEF
+MPPEM
+SWAP
+LTEQ
+IF
+PUSHW_2
+ 51
+ -32
+PUSHB_2
+ 52
+ 32
+ELSE
+PUSHB_4
+ 51
+ 0
+ 52
+ 0
+EIF
+WCVTP
+WCVTP
+ENDF
+FDEF
+PUSHB_1
+ 22
+RS
+IF
+PUSHB_1
+ 3
+MINDEX
+RCVT
+ROLL
+IF
+ABS
+FLOOR
+PUSHB_1
+ 31
+ADD
+ELSE
+ABS
+PUSHB_1
+ 32
+ADD
+FLOOR
+DUP
+IF
+ELSE
+POP
+PUSHB_1
+ 64
+EIF
+PUSHB_1
+ 1
+SUB
+EIF
+SWAP
+IF
+NEG
+EIF
+PUSHB_1
+ 41
+SWAP
+WCVTP
+SWAP
+SRP0
+PUSHB_1
+ 41
+MIRP[grey]
+ELSE
+POP
+POP
+POP
+POP
+POP
+EIF
+ENDF
+FDEF
+PUSHB_1
+ 2
+RS
+EQ
+IF
+MPPEM
+GTEQ
+SWAP
+MPPEM
+LTEQ
+AND
+IF
+SHPIX
+ELSE
+POP
+POP
+EIF
+ELSE
+POP
+POP
+POP
+POP
+EIF
+ENDF
+FDEF
+PUSHB_1
+ 22
+RS
+IF
+PUSHB_1
+ 4
+CINDEX
+RCVT
+ABS
+PUSHB_1
+ 32
+ADD
+FLOOR
+DUP
+IF
+ELSE
+POP
+PUSHB_1
+ 64
+EIF
+PUSHB_1
+ 1
+SUB
+SWAP
+IF
+ELSE
+NEG
+EIF
+PUSHB_1
+ 41
+SWAP
+WCVTP
+PUSHB_1
+ 5
+CINDEX
+PUSHB_1
+ 8
+CINDEX
+SFVTL[parallel]
+DUP
+IF
+SPVTCA[y-axis]
+ELSE
+SPVTCA[x-axis]
+EIF
+PUSHB_1
+ 4
+CINDEX
+SRP0
+PUSHB_1
+ 5
+CINDEX
+DUP
+GC[cur]
+PUSHB_1
+ 4
+CINDEX
+SWAP
+WS
+ALIGNRP
+PUSHB_1
+ 4
+CINDEX
+PUSHB_1
+ 7
+CINDEX
+SFVTL[parallel]
+PUSHB_1
+ 7
+CINDEX
+SRP0
+PUSHB_1
+ 6
+CINDEX
+DUP
+GC[cur]
+PUSHB_1
+ 4
+CINDEX
+PUSHB_1
+ 1
+ADD
+SWAP
+WS
+ALIGNRP
+DUP
+IF
+SVTCA[x-axis]
+ELSE
+SVTCA[y-axis]
+EIF
+PUSHB_1
+ 4
+CINDEX
+SRP0
+PUSHB_1
+ 5
+CINDEX
+PUSHB_1
+ 41
+MIRP[grey]
+PUSHB_1
+ 41
+DUP
+RCVT
+NEG
+WCVTP
+PUSHB_1
+ 7
+CINDEX
+SRP0
+PUSHB_1
+ 6
+CINDEX
+PUSHB_1
+ 41
+MIRP[grey]
+PUSHB_1
+ 5
+CINDEX
+PUSHB_1
+ 8
+CINDEX
+SFVTL[parallel]
+DUP
+IF
+SPVTCA[y-axis]
+ELSE
+SPVTCA[x-axis]
+EIF
+PUSHB_1
+ 5
+CINDEX
+PUSHB_1
+ 3
+CINDEX
+RS
+SCFS
+PUSHB_1
+ 4
+CINDEX
+PUSHB_1
+ 7
+CINDEX
+SFVTL[parallel]
+PUSHB_1
+ 6
+CINDEX
+PUSHB_1
+ 3
+CINDEX
+PUSHB_1
+ 1
+ADD
+RS
+SCFS
+ELSE
+POP
+EIF
+POP
+POP
+POP
+POP
+POP
+POP
+POP
+ENDF
+FDEF
+SPVTCA[y-axis]
+PUSHB_1
+ 4
+CINDEX
+DUP
+DUP
+GC[cur]
+PUSHB_1
+ 4
+CINDEX
+SWAP
+WS
+PUSHB_1
+ 5
+CINDEX
+SFVTL[parallel]
+PUSHB_1
+ 3
+CINDEX
+RCVT
+SCFS
+POP
+POP
+POP
+POP
+ENDF
+FDEF
+SPVTCA[y-axis]
+PUSHB_1
+ 3
+CINDEX
+DUP
+PUSHB_1
+ 4
+CINDEX
+SFVTL[parallel]
+PUSHB_1
+ 2
+CINDEX
+RS
+SCFS
+POP
+POP
+POP
+ENDF
+FDEF
+RCVT
+SWAP
+DUP
+RCVT
+RTG
+DUP
+PUSHB_1
+ 0
+LT
+DUP
+IF
+SWAP
+NEG
+SWAP
+EIF
+SWAP
+ROUND[Grey]
+DUP
+PUSHB_1
+ 64
+LT
+IF
+POP
+PUSHB_1
+ 64
+EIF
+SWAP
+IF
+NEG
+EIF
+ROLL
+ADD
+WCVTP
+ENDF
+FDEF
+MPPEM
+GTEQ
+SWAP
+MPPEM
+LTEQ
+AND
+IF
+DUP
+RCVT
+ROLL
+ADD
+WCVTP
+ELSE
+POP
+POP
+EIF
+ENDF
+FDEF
+MPPEM
+EQ
+IF
+DUP
+RCVT
+ROLL
+ADD
+WCVTP
+ELSE
+POP
+POP
+EIF
+ENDF
+FDEF
+MPPEM
+GTEQ
+SWAP
+MPPEM
+LTEQ
+AND
+IF
+SHPIX
+ELSE
+POP
+POP
+EIF
+ENDF
+FDEF
+PUSHB_1
+ 0
+POP
+MPPEM
+EQ
+IF
+SHPIX
+ELSE
+POP
+POP
+EIF
+ENDF
+FDEF
+PUSHB_1
+ 2
+RS
+EQ
+IF
+PUSHB_1
+ 70
+CALL
+ELSE
+POP
+POP
+POP
+POP
+EIF
+ENDF
+FDEF
+PUSHB_1
+ 2
+RS
+EQ
+IF
+PUSHB_1
+ 71
+CALL
+ELSE
+POP
+POP
+POP
+EIF
+ENDF
+FDEF
+PUSHB_1
+ 2
+RS
+EQ
+IF
+PUSHB_1
+ 72
+CALL
+ELSE
+POP
+POP
+POP
+POP
+EIF
+ENDF
+FDEF
+PUSHB_1
+ 2
+RS
+EQ
+IF
+PUSHB_1
+ 73
+CALL
+ELSE
+POP
+POP
+POP
+EIF
+ENDF
+FDEF
+DUP
+ROLL
+SFVTL[parallel]
+SWAP
+MPPEM
+GTEQ
+ROLL
+MPPEM
+LTEQ
+AND
+IF
+SWAP
+SHPIX
+ELSE
+POP
+POP
+EIF
+ENDF
+FDEF
+SVTCA[y-axis]
+PUSHB_1
+ 2
+CINDEX
+MD[grid]
+PUSHB_1
+ 0
+GTEQ
+IF
+DUP
+PUSHB_1
+ 64
+SHPIX
+SRP1
+ELSE
+POP
+EIF
+ENDF
+FDEF
+SVTCA[x-axis]
+GC[cur]
+SWAP
+GC[cur]
+ADD
+SWAP
+GC[cur]
+SUB
+SWAP
+DUP
+SRP0
+DUP
+GC[cur]
+ROLL
+SUB
+PUSHW_1
+ -128
+DIV
+ROLL
+PUSHB_2
+ 64
+ 64
+ROLL
+WCVTF
+RCVT
+ADD
+ROUND[Grey]
+MSIRP[no-rp0]
+ENDF
+FDEF
+DUP
+ROLL
+SWAP
+MD[grid]
+ABS
+ROLL
+SWAP
+GTEQ
+IF
+ALIGNRP
+ELSE
+POP
+EIF
+ENDF
+FDEF
+MPPEM
+GT
+IF
+RDTG
+ELSE
+ROFF
+EIF
+ENDF
+FDEF
+PUSHB_1
+ 18
+SVTCA[y-axis]
+MPPEM
+SVTCA[x-axis]
+MPPEM
+EQ
+WS
+ENDF
+FDEF
+PUSHB_2
+ 2
+ 0
+WS
+PUSHB_2
+ 35
+ 1
+GETINFO
+LTEQ
+PUSHB_2
+ 64
+ 1
+GETINFO
+GTEQ
+AND
+IF
+PUSHW_2
+ 4096
+ 32
+GETINFO
+EQ
+IF
+PUSHB_3
+ 2
+ 1
+ 2
+RS
+ADD
+WS
+EIF
+PUSHB_2
+ 36
+ 1
+GETINFO
+LTEQ
+IF
+PUSHW_2
+ 8192
+ 64
+GETINFO
+EQ
+IF
+PUSHB_3
+ 2
+ 2
+ 2
+RS
+ADD
+WS
+PUSHB_2
+ 36
+ 1
+GETINFO
+EQ
+IF
+PUSHB_3
+ 2
+ 32
+ 2
+RS
+ADD
+WS
+SVTCA[y-axis]
+MPPEM
+SVTCA[x-axis]
+MPPEM
+GT
+IF
+PUSHB_3
+ 2
+ 8
+ 2
+RS
+ADD
+WS
+EIF
+ELSE
+PUSHW_2
+ 16384
+ 128
+GETINFO
+EQ
+IF
+PUSHB_3
+ 2
+ 4
+ 2
+RS
+ADD
+WS
+EIF
+PUSHW_2
+ 16384
+ 128
+MUL
+PUSHW_1
+ 256
+GETINFO
+EQ
+IF
+PUSHB_3
+ 2
+ 8
+ 2
+RS
+ADD
+WS
+EIF
+PUSHW_2
+ 16384
+ 256
+MUL
+PUSHW_1
+ 512
+GETINFO
+EQ
+IF
+PUSHB_3
+ 2
+ 16
+ 2
+RS
+ADD
+WS
+EIF
+PUSHW_2
+ 16384
+ 512
+MUL
+PUSHW_1
+ 1024
+GETINFO
+EQ
+IF
+PUSHB_3
+ 2
+ 64
+ 2
+RS
+ADD
+WS
+EIF
+EIF
+EIF
+EIF
+EIF
+ENDF
+FDEF
+RCVT
+RTG
+ROUND[Grey]
+SWAP
+MPPEM
+LTEQ
+IF
+SWAP
+DUP
+RCVT
+DUP
+ABS
+PUSHB_1
+ 64
+LT
+IF
+RUTG
+EIF
+ROUND[Grey]
+ROLL
+ADD
+EIF
+WCVTP
+ENDF
+FDEF
+PUSHB_1
+ 0
+SZPS
+PUSHB_1
+ 2
+CINDEX
+PUSHB_1
+ 2
+CINDEX
+SVTCA[x-axis]
+PUSHB_1
+ 1
+SWAP
+MIAP[no-rnd]
+SVTCA[y-axis]
+PUSHB_1
+ 2
+SWAP
+MIAP[no-rnd]
+PUSHB_2
+ 1
+ 2
+SPVTL[parallel]
+GPV
+PUSHB_1
+ 10
+SWAP
+NEG
+WS
+PUSHB_1
+ 11
+SWAP
+WS
+SVTCA[x-axis]
+PUSHB_1
+ 1
+SWAP
+MIAP[rnd]
+SVTCA[y-axis]
+PUSHB_1
+ 2
+SWAP
+MIAP[rnd]
+PUSHB_2
+ 1
+ 2
+SPVTL[parallel]
+GPV
+PUSHB_1
+ 6
+SWAP
+NEG
+WS
+PUSHB_1
+ 7
+SWAP
+WS
+PUSHB_1
+ 1
+SZPS
+SVTCA[x-axis]
+ENDF
+FDEF
+ROFF
+ROLL
+SRP0
+RCVT
+SWAP
+MIRP[rp0,rnd,black]
+RTG
+ENDF
+EndTTInstrs
+ShortTable: cvt  264
+  1556
+  11
+  81
+  1462
+  23
+  117
+  1462
+  1485
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  1098
+  20
+  143
+  0
+  -20
+  0
+  0
+  -20
+  0
+  0
+  -20
+  0
+  -492
+  -492
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  2048
+  2163
+  0
+  178
+  182
+  188
+  156
+  213
+  0
+  0
+  0
+  143
+  131
+  151
+  159
+  125
+  229
+  0
+  0
+  0
+  0
+  0
+  0
+  186
+  197
+  186
+  0
+  0
+  164
+  159
+  143
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  176
+  185
+  138
+  0
+  0
+  155
+  166
+  143
+  119
+  85
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  105
+  110
+  144
+  192
+  393
+  219
+  172
+  0
+  0
+  0
+  102
+  111
+  120
+  150
+  192
+  213
+  328
+  205
+  277
+  663
+  254
+  303
+  237
+  334
+  121
+  278
+  332
+  501
+  551
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  -30
+  1462
+  150
+  140
+  229
+  150
+  137
+  250
+  0
+  280
+  268
+  797
+  153
+  586
+  120
+  694
+  141
+  168
+  140
+  0
+  0
+  633
+  217
+  180
+  0
+  0
+  346
+  109
+  127
+  160
+  0
+  0
+  109
+  136
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  140
+  160
+  0
+  130
+  137
+  0
+  0
+  0
+  0
+  0
+  1462
+  -790
+  17
+  -21
+  150
+  0
+  0
+  0
+  115
+  101
+  120
+  0
+  0
+  0
+  0
+  188
+  426
+  852
+  426
+  541
+  188
+  182
+  0
+  0
+  0
+  150
+  0
+  0
+  1462
+  -324
+  152
+  172
+  313
+  501
+  387
+  797
+  -13
+  131
+  122
+  134
+  0
+  0
+  -401
+  137
+EndShort
+ShortTable: maxp 16
+  1
+  0
+  898
+  144
+  18
+  82
+  5
+  2
+  16
+  47
+  90
+  0
+  484
+  355
+  3
+  1
+EndShort
+LangName: 1033 "Digitized data copyright +AKkA 2007, Google Corporation.+AAoACgAA-Slashed Zero Modification +AKkA 2009, cosmix.org" "" "Regular" "" "" "Version 1.00 build 112" "" "Droid is a trademark of Google and may be registered in certain jurisdictions." "Ascender Corporation and cosmix.org" "" "Droid Sans is a humanist sans serif typeface designed for user interfaces and electronic communication." "http://www.cosmix.org" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the Apache License, Version 2.0" "http://www.apache.org/licenses/LICENSE-2.0" "" "" "" "Droid Sans Mono Slashed"
+GaspTable: 2 5 2 65535 3 0
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -72
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 65394 21 9
+BeginPrivate: 0
+EndPrivate
+Grid
+-2048 1543.5 m 0
+ 4096 1543.5 l 1024
+-2048 1555.5 m 0
+ 4096 1555.5 l 1024
+EndSplineSet
+TeXData: 1 0 0 629248 314624 209749 562176 -1048576 209749 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+EndSplineFont

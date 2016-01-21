@@ -1,0 +1,32 @@
+StartChar: uni04D1
+Encoding: 1233 1233 636
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 2
+ 36
+ 17
+ 38
+ 2
+ 37
+ 39
+ 34
+ 8
+ 22
+ 37
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SVTCA[y-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 68 97 N 1 0 0 1 0 0 3
+Refer: 874 -1 N 1 0 0 1 4 0 2
+EndChar

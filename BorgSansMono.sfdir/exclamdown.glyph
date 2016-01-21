@@ -1,0 +1,60 @@
+StartChar: exclamdown
+Encoding: 161 161 99
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 17
+ 8
+ 9
+ 10
+ 6
+ 150
+ 11
+ 2
+ 2
+ 12
+ 13
+ 8
+ 8
+ 10
+ 0
+ 155
+ 4
+ 16
+SVTCA[y-axis]
+MIAP[rnd]
+MIRP[min,rnd,black]
+MDAP[rnd]
+IP
+MDAP[rnd]
+SRP1
+SRP2
+SVTCA[x-axis]
+IP
+MDAP[rnd]
+SHP[rp1]
+MIRP[black]
+SHP[rp2]
+IP
+IP
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+SplineSet
+614 840 m 256,0,1
+ 487 840 487 840 487 979 c 256,2,3
+ 487 1118 487 1118 614 1118 c 256,4,5
+ 741 1118 741 1118 741 979 c 256,6,7
+ 741 840 741 840 614 840 c 256,0,1
+553 676 m 1,8,-1
+ 674 676 l 1,9,-1
+ 725 -373 l 1,10,-1
+ 502 -373 l 1,11,-1
+ 553 676 l 1,8,-1
+EndSplineSet
+EndChar

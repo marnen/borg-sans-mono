@@ -1,0 +1,32 @@
+StartChar: obreve
+Encoding: 335 335 273
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 2
+ 23
+ 17
+ 38
+ 2
+ 0
+ 25
+ 20
+ 3
+ 9
+ 37
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SVTCA[y-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 82 111 N 1 0 0 1 0 0 3
+Refer: 340 728 N 1 0 0 1 0 0 2
+EndChar

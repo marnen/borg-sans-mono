@@ -1,0 +1,82 @@
+StartChar: onehalf
+Encoding: 189 189 127
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 45
+ 2
+ 16
+ 24
+ 2
+ 240
+ 16
+ 1
+ 224
+ 16
+ 1
+ 208
+ 16
+ 1
+ 192
+ 16
+ 1
+ 16
+ 16
+ 1
+ 0
+ 16
+ 1
+ 16
+ 1
+ 175
+ 13
+ 1
+ 143
+ 13
+ 1
+ 13
+ 0
+ 240
+ 0
+ 1
+ 224
+ 0
+ 1
+ 80
+ 0
+ 1
+ 64
+ 0
+ 1
+ 0
+SRP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+SHC[rp1]
+SRP1
+DELTAP1
+DELTAP1
+SHC[rp1]
+SRP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+SHC[rp1]
+SVTCA[y-axis]
+MIAP[rnd]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 123 185 N 1 0 0 1 -364 0 3
+Refer: 837 8260 N 1 0 0 1 -65 0 2
+Refer: 116 178 N 1 0 0 1 346 -671 2
+EndChar

@@ -1,0 +1,32 @@
+StartChar: Hcircumflex
+Encoding: 292 292 230
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 1
+ 12
+ 5
+ 38
+ 1
+ 0
+ 18
+ 12
+ 5
+ 0
+ 37
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SVTCA[y-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 43 72 N 1 0 0 1 0 0 3
+Refer: 337 710 N 1 0 0 1 0 338 2
+EndChar

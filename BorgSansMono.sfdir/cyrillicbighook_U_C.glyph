@@ -1,0 +1,52 @@
+StartChar: cyrillicbighookUC
+Encoding: 65561 -1 896
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 10
+ 9
+ 1
+ 73
+ 16
+ 10
+ 13
+ 80
+ 9
+ 6
+ 0
+SVTCA[y-axis]
+MDAP[rnd]
+MDAP[rnd]
+SHP[rp1]
+MIRP[black]
+SHP[rp2]
+SVTCA[x-axis]
+MDAP[rnd]
+MIRP[black]
+MDRP[min,rnd,grey]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+SplineSet
+793 166 m 1,0,-1
+ 793 -129 l 2,1,2
+ 792 -195 792 -195 779 -246 c 128,-1,3
+ 766 -297 766 -297 737.5 -332 c 128,-1,4
+ 709 -367 709 -367 664.5 -385 c 128,-1,5
+ 620 -403 620 -403 557 -403 c 0,6,7
+ 519 -403 519 -403 487.5 -394.5 c 128,-1,8
+ 456 -386 456 -386 434 -377 c 1,9,-1
+ 434 -227 l 1,10,11
+ 448 -234 448 -234 477.5 -241 c 128,-1,12
+ 507 -248 507 -248 541 -248 c 0,13,14
+ 587 -248 587 -248 612 -223.5 c 128,-1,15
+ 637 -199 637 -199 637 -150 c 2,16,-1
+ 637 166 l 1,17,-1
+ 793 166 l 1,0,-1
+EndSplineSet
+EndChar

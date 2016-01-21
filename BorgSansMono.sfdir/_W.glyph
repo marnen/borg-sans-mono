@@ -1,0 +1,387 @@
+StartChar: W
+Encoding: 87 87 58
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 84
+ 41
+ 25
+ 57
+ 25
+ 2
+ 8
+ 25
+ 24
+ 25
+ 2
+ 39
+ 21
+ 1
+ 21
+ 21
+ 1
+ 6
+ 21
+ 1
+ 7
+ 20
+ 23
+ 20
+ 39
+ 20
+ 3
+ 38
+ 16
+ 54
+ 16
+ 2
+ 41
+ 10
+ 57
+ 10
+ 2
+ 40
+ 6
+ 1
+ 25
+ 6
+ 1
+ 8
+ 6
+ 1
+ 38
+ 2
+ 54
+ 2
+ 2
+ 7
+ 2
+ 23
+ 2
+ 2
+ 72
+ 17
+ 104
+ 17
+ 168
+ 17
+ 184
+ 17
+ 4
+ 41
+ 17
+ 57
+ 17
+ 2
+ 17
+ 231
+ 16
+ 247
+ 16
+ 2
+ 198
+ 16
+ 214
+ 16
+ 2
+ 180
+ 16
+ 1
+ 16
+PUSHW_1
+ -16
+NPUSHB
+ 33
+ 15
+ 19
+ 72
+ 84
+ 16
+ 1
+ 69
+ 16
+ 1
+ 16
+ 23
+ 230
+ 1
+ 1
+ 199
+ 1
+ 215
+ 1
+ 2
+ 165
+ 1
+ 181
+ 1
+ 2
+ 150
+ 1
+ 1
+ 119
+ 1
+ 135
+ 1
+ 2
+ 1
+PUSHW_1
+ -16
+NPUSHB
+ 140
+ 9
+ 15
+ 72
+ 1
+ 233
+ 0
+ 1
+ 200
+ 0
+ 216
+ 0
+ 2
+ 170
+ 0
+ 186
+ 0
+ 2
+ 153
+ 0
+ 1
+ 120
+ 0
+ 136
+ 0
+ 2
+ 0
+ 16
+ 9
+ 15
+ 72
+ 0
+ 13
+ 232
+ 10
+ 248
+ 10
+ 2
+ 201
+ 10
+ 217
+ 10
+ 2
+ 187
+ 10
+ 1
+ 136
+ 10
+ 168
+ 10
+ 2
+ 105
+ 10
+ 121
+ 10
+ 2
+ 91
+ 10
+ 1
+ 74
+ 10
+ 1
+ 10
+ 103
+ 9
+ 167
+ 9
+ 183
+ 9
+ 3
+ 38
+ 9
+ 54
+ 9
+ 70
+ 9
+ 3
+ 9
+ 4
+ 36
+ 23
+ 52
+ 23
+ 148
+ 23
+ 164
+ 23
+ 4
+ 4
+ 4
+ 20
+ 4
+ 100
+ 4
+ 196
+ 4
+ 212
+ 4
+ 5
+ 23
+ 13
+ 4
+ 4
+ 13
+ 23
+ 3
+ 18
+ 40
+ 7
+ 1
+ 7
+ 16
+ 8
+ 1
+ 8
+ 8
+ 27
+ 39
+ 19
+ 1
+ 19
+ 18
+ 4
+ 23
+ 75
+ 13
+ 91
+ 13
+ 2
+ 13
+ 23
+ 17
+ 0
+ 0
+ 7
+ 10
+ 17
+ 18
+ 18
+ 7
+ 3
+SVTCA[y-axis]
+MIAP[rnd]
+SHP[rp1]
+MIAP[rnd]
+SHP[rp1]
+SRP2
+IP
+MDAP[rnd]
+SRP2
+IP
+IP
+DELTAP1
+SRP1
+SHP[rp1]
+SVTCA[x-axis]
+MDAP[rnd]
+SHP[rp1]
+DELTAP1
+SRP1
+SHP[rp1]
+MDAP[rnd]
+DELTAP1
+SHP[rp1]
+DELTAP1
+SRP2
+SLOOP
+IP
+RTDG
+MDAP[rnd]
+MDAP[rnd]
+MDAP[rnd]
+DELTAP1
+DELTAP1
+SRP1
+SHP[rp1]
+DELTAP1
+DELTAP1
+SHP[rp1]
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+SRP1
+SHP[rp1]
+CALL
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+SHP[rp1]
+CALL
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+SRP1
+SHP[rp1]
+DELTAP1
+DELTAP1
+CALL
+DELTAP1
+DELTAP1
+DELTAP1
+SHP[rp1]
+DELTAP1
+DELTAP1
+IUP[x]
+IUP[y]
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+SplineSet
+528 1008 m 1,0,-1
+ 705 1008 l 1,1,-1
+ 850 487 l 2,2,3
+ 911 268 911 268 922 180 c 1,4,5
+ 924 233 924 233 987 799 c 2,6,-1
+ 1057 1462 l 1,7,-1
+ 1227 1462 l 1,8,-1
+ 1040 0 l 1,9,-1
+ 850 0 l 1,10,-1
+ 682 580 l 2,11,12
+ 642 718 642 718 616 862 c 1,13,14
+ 584 689 584 689 551 578 c 2,15,-1
+ 395 0 l 1,16,-1
+ 205 0 l 1,17,-1
+ 2 1462 l 1,18,-1
+ 172 1462 l 1,19,-1
+ 260 799 l 2,20,21
+ 283 623 283 623 300 421 c 128,-1,22
+ 317 219 317 219 317 180 c 1,23,24
+ 341 331 341 331 387 492 c 2,25,-1
+ 528 1008 l 1,0,-1
+EndSplineSet
+EndChar

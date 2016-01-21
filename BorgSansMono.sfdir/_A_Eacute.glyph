@@ -1,0 +1,32 @@
+StartChar: AEacute
+Encoding: 508 508 330
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 2
+ 26
+ 5
+ 38
+ 2
+ 222
+ 20
+ 23
+ 5
+ 0
+ 37
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SVTCA[y-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 136 198 N 1 0 0 1 0 0 3
+Refer: 118 180 N 1 0 0 1 213 338 2
+EndChar

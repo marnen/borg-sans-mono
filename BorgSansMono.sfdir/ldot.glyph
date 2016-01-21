@@ -1,0 +1,33 @@
+StartChar: ldot
+Encoding: 320 320 258
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_5
+ 1
+ 1
+ 127
+ 16
+ 1
+PUSHW_1
+ 345
+PUSHB_5
+ 16
+ 12
+ 7
+ 5
+ 37
+SVTCA[x-axis]
+CALL
+DELTAP1
+SHC[rp1]
+SVTCA[y-axis]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 79 108 N 1 0 0 1 0 0 3
+Refer: 341 729 N 1 0 0 1 358 -712 2
+EndChar

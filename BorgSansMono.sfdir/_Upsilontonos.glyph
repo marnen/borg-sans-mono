@@ -1,0 +1,32 @@
+StartChar: Upsilontonos
+Encoding: 910 910 361
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_4
+ 1
+ 12
+ 3
+ 1
+PUSHW_1
+ -716
+PUSHB_5
+ 9
+ 13
+ 7
+ 2
+ 37
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SVTCA[y-axis]
+MIAP[rnd]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 60 89 N 1 0 0 1 0 0 3
+Refer: 353 900 N 1 0 0 1 -716 -105 2
+EndChar

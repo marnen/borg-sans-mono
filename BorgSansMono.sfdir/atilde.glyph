@@ -1,0 +1,44 @@
+StartChar: atilde
+Encoding: 227 227 165
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 20
+ 2
+ 34
+ 17
+ 38
+ 2
+ 128
+ 35
+ 1
+ 112
+ 35
+ 1
+ 96
+ 35
+ 1
+ 43
+ 35
+ 44
+ 8
+ 22
+ 37
+SVTCA[x-axis]
+CALL
+DELTAP1
+DELTAP1
+DELTAP1
+SHC[rp1]
+SVTCA[y-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 68 97 N 1 0 0 1 0 0 3
+Refer: 344 732 N 1 0 0 1 10 0 2
+EndChar

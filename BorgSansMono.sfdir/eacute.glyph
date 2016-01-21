@@ -1,0 +1,44 @@
+StartChar: eacute
+Encoding: 233 233 171
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 20
+ 2
+ 29
+ 17
+ 38
+ 2
+ 160
+ 23
+ 1
+ 16
+ 23
+ 1
+ 0
+ 23
+ 1
+ 82
+ 23
+ 26
+ 11
+ 0
+ 37
+SVTCA[x-axis]
+CALL
+DELTAP1
+DELTAP1
+DELTAP1
+SHC[rp1]
+SVTCA[y-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 72 101 N 1 0 0 1 0 0 3
+Refer: 118 180 N 1 0 0 1 82 0 2
+EndChar

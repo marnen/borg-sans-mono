@@ -1,0 +1,81 @@
+StartChar: comma
+Encoding: 44 44 15
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 25
+ 25
+ 6
+ 41
+ 6
+ 233
+ 6
+ 249
+ 6
+ 4
+ 6
+ 152
+ 1
+ 153
+ 112
+ 4
+ 128
+ 4
+ 208
+ 4
+ 224
+ 4
+ 240
+ 4
+ 5
+ 4
+PUSHW_1
+ -64
+NPUSHB
+ 15
+ 9
+ 12
+ 72
+ 4
+ 4
+ 7
+ 8
+ 3
+ 158
+ 31
+ 6
+ 47
+ 6
+ 2
+ 6
+SVTCA[y-axis]
+MDAP[rnd]
+DELTAP1
+MIRP[min,rnd,black]
+SRP1
+SRP2
+SVTCA[x-axis]
+IP
+MDAP[rnd]
+CALL
+DELTAP1
+MIRP[rp0,min,rnd,black]
+MIRP[black]
+DELTAP1
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+SplineSet
+770 262 m 1,0,-1
+ 786 238 l 1,1,2
+ 729 14 729 14 592 -289 c 1,3,-1
+ 440 -289 l 1,4,5
+ 516 34 516 34 551 262 c 1,6,-1
+ 770 262 l 1,0,-1
+EndSplineSet
+EndChar

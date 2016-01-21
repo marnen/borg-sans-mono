@@ -1,0 +1,29 @@
+StartChar: tcaron
+Encoding: 357 357 295
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_2
+ 1
+ 1
+PUSHW_1
+ 337
+PUSHB_5
+ 20
+ 24
+ 7
+ 13
+ 37
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SVTCA[y-axis]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 87 116 N 1 0 0 1 0 0 3
+Refer: 876 -1 N 1 0 0 1 305 0 2
+EndChar

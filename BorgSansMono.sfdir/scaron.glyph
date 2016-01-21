@@ -1,0 +1,32 @@
+StartChar: scaron
+Encoding: 353 353 291
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 1
+ 36
+ 17
+ 38
+ 1
+ 10
+ 40
+ 32
+ 0
+ 27
+ 37
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SVTCA[y-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 86 115 N 1 0 0 1 0 0 3
+Refer: 338 711 N 1 0 0 1 10 0 2
+EndChar

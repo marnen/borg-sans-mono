@@ -1,0 +1,32 @@
+StartChar: wacute
+Encoding: 7811 7811 710
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 1
+ 32
+ 17
+ 38
+ 1
+ 104
+ 26
+ 29
+ 7
+ 24
+ 37
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SVTCA[y-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 90 119 N 1 0 0 1 0 0 3
+Refer: 118 180 N 1 0 0 1 104 0 2
+EndChar

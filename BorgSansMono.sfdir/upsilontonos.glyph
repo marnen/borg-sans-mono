@@ -1,0 +1,32 @@
+StartChar: upsilontonos
+Encoding: 973 973 423
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 1
+ 26
+ 17
+ 38
+ 1
+ 31
+ 18
+ 22
+ 0
+ 12
+ 37
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SVTCA[y-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 415 965 N 1 0 0 1 0 0 3
+Refer: 353 900 N 1 0 0 1 39 0 2
+EndChar

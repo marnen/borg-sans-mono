@@ -1,0 +1,74 @@
+StartChar: ordmasculine
+Encoding: 186 186 124
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 27
+ 14
+ 224
+ 176
+ 9
+ 1
+ 127
+ 9
+ 1
+ 9
+ 9
+ 18
+ 224
+ 32
+ 3
+ 48
+ 3
+ 160
+ 3
+ 3
+ 3
+ 16
+ 230
+ 6
+ 222
+ 12
+ 230
+ 0
+PUSHW_1
+ 256
+SVTCA[y-axis]
+MIAP[rnd]
+MIRP[black]
+MIAP[rnd]
+MIRP[black]
+SVTCA[x-axis]
+MDAP[rnd]
+DELTAP1
+MIRP[black]
+SHP[rp1]
+MDAP[rnd]
+DELTAP1
+DELTAP1
+MIRP[black]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+SplineSet
+612 784 m 0,0,1
+ 468 784 468 784 374.5 877 c 128,-1,2
+ 281 970 281 970 281 1133 c 0,3,4
+ 281 1295 281 1295 371 1387 c 128,-1,5
+ 461 1479 461 1479 616 1479 c 0,6,7
+ 761 1479 761 1479 854.5 1386.5 c 128,-1,8
+ 948 1294 948 1294 948 1133 c 0,9,10
+ 948 968 948 968 856 876 c 128,-1,11
+ 764 784 764 784 612 784 c 0,0,1
+614 903 m 0,12,13
+ 795 903 795 903 795 1133 c 0,14,15
+ 795 1358 795 1358 614 1358 c 0,16,17
+ 432 1358 432 1358 432 1133 c 0,18,19
+ 432 903 432 903 614 903 c 0,12,13
+EndSplineSet
+EndChar

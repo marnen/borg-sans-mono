@@ -1,0 +1,29 @@
+StartChar: uni1EDD
+Encoding: 7901 7901 774
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_2
+ 2
+ 2
+PUSHW_1
+ -118
+PUSHB_5
+ 47
+ 44
+ 10
+ 25
+ 37
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SVTCA[y-axis]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 324 417 N 1 0 0 1 0 0 3
+Refer: 67 96 N 1 0 0 1 -40 0 2
+EndChar

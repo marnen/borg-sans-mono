@@ -1,0 +1,33 @@
+StartChar: Ubreve
+Encoding: 364 364 302
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_5
+ 1
+ 18
+ 5
+ 38
+ 1
+PUSHW_1
+ -1
+PUSHB_5
+ 20
+ 15
+ 6
+ 0
+ 37
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SVTCA[y-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 56 85 N 1 0 0 1 0 0 3
+Refer: 340 728 N 1 0 0 1 -1 338 2
+EndChar

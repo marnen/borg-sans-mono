@@ -1,0 +1,37 @@
+StartChar: idieresis
+Encoding: 239 239 177
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_7
+ 2
+ 1
+ 14
+ 17
+ 38
+ 2
+ 1
+PUSHW_1
+ -22
+PUSHB_5
+ 16
+ 20
+ 7
+ 5
+ 37
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SHC[rp1]
+SVTCA[y-axis]
+CALL
+SHC[rp1]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 243 305 N 1 0 0 1 0 0 3
+Refer: 106 168 N 1 0 0 1 0 0 2
+EndChar

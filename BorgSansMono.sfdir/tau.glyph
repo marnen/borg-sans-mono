@@ -1,0 +1,109 @@
+StartChar: tau
+Encoding: 964 964 414
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 29
+ 10
+ 14
+ 26
+ 14
+ 2
+ 14
+ 3
+ 71
+ 253
+ 12
+ 1
+ 12
+ 64
+ 20
+ 23
+ 72
+ 61
+ 12
+ 1
+ 47
+ 12
+ 1
+ 0
+ 12
+ 1
+ 12
+ 12
+ 17
+ 1
+PUSHW_1
+ -24
+NPUSHB
+ 20
+ 9
+ 18
+ 72
+ 1
+ 95
+ 7
+ 1
+ 7
+ 18
+ 15
+ 2
+ 13
+ 80
+ 16
+ 15
+ 7
+ 5
+ 80
+ 10
+ 22
+SVTCA[y-axis]
+MIAP[rnd]
+MIRP[black]
+SHP[rp1]
+MIAP[rnd]
+MIRP[black]
+SHP[rp2]
+IP
+SVTCA[x-axis]
+SRP0
+MDRP[min,rnd,white]
+DELTAP1
+SHP[rp2]
+CALL
+SRP2
+IP
+MDAP[rnd]
+DELTAP1
+DELTAP1
+DELTAP1
+CALL
+DELTAP1
+MIRP[black]
+SHP[rp1]
+DELTAP1
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+SplineSet
+1081 1098 m 1,0,-1
+ 1081 944 l 1,1,-1
+ 606 944 l 1,2,-1
+ 606 338 l 2,3,4
+ 606 123 606 123 815 123 c 0,5,6
+ 922 123 922 123 1006 143 c 1,7,-1
+ 1006 8 l 1,8,9
+ 922 -27 922 -27 786 -27 c 0,10,11
+ 424 -27 424 -27 424 317 c 2,12,-1
+ 424 944 l 1,13,-1
+ 106 944 l 1,14,-1
+ 106 1018 l 1,15,-1
+ 240 1098 l 1,16,-1
+ 1081 1098 l 1,0,-1
+EndSplineSet
+EndChar

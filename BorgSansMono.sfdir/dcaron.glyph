@@ -1,0 +1,42 @@
+StartChar: dcaron
+Encoding: 271 271 209
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 2
+ 2
+ 127
+ 30
+ 1
+ 111
+ 30
+ 1
+ 79
+ 30
+ 1
+PUSHW_1
+ 648
+PUSHB_5
+ 30
+ 34
+ 6
+ 16
+ 37
+SVTCA[x-axis]
+CALL
+DELTAP1
+DELTAP1
+DELTAP1
+SHC[rp1]
+SVTCA[y-axis]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 71 100 N 1 0 0 1 -58 0 2
+Refer: 876 -1 N 1 0 0 1 580 0 2
+EndChar

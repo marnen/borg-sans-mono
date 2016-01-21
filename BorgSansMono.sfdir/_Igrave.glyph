@@ -1,0 +1,33 @@
+StartChar: Igrave
+Encoding: 204 204 142
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_5
+ 1
+ 12
+ 5
+ 38
+ 1
+PUSHW_1
+ -106
+PUSHB_5
+ 15
+ 12
+ 1
+ 0
+ 37
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SVTCA[y-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 44 73 N 1 0 0 1 0 0 3
+Refer: 67 96 N 1 0 0 1 -108 338 2
+EndChar

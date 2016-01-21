@@ -1,0 +1,57 @@
+StartChar: uni1F4D
+Encoding: 8013 8013 803
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 21
+ 3
+ 2
+ 43
+ 3
+ 3
+ 2
+ 96
+ 51
+ 1
+ 80
+ 51
+ 1
+ 64
+ 51
+ 1
+ 32
+ 51
+ 1
+ 0
+ 51
+ 1
+PUSHW_1
+ -232
+PUSHB_5
+ 51
+ 51
+ 2
+ 2
+ 37
+SVTCA[x-axis]
+CALL
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+SHC[rp1]
+SHC[rp1]
+SVTCA[y-axis]
+MIAP[rnd]
+SHC[rp1]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 50 79 N 1 0 0 1 145 0 2
+Refer: 886 -1 N 1 0 0 1 -613 0 2
+EndChar

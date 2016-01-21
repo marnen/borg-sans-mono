@@ -1,0 +1,69 @@
+StartChar: radical
+Encoding: 8730 8730 859
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 21
+ 1
+ 0
+ 6
+ 6
+ 7
+ 8
+ 8
+ 10
+ 5
+ 2
+ 2
+ 3
+ 3
+ 174
+ 4
+ 4
+ 15
+ 7
+ 1
+ 7
+ 0
+SVTCA[y-axis]
+MDAP[rnd]
+MDAP[rnd]
+DELTAP1
+IP
+MDAP[rnd]
+MIRP[black]
+SVTCA[x-axis]
+MDAP[rnd]
+SHP[rp2]
+MDAP[rnd]
+SHP[rp1]
+SRP1
+SHP[rp1]
+MDAP[rnd]
+SHP[rp1]
+IP
+RTHG
+MDAP[rnd]
+SHP[rp1]
+SHP[rp1]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+SplineSet
+612 -14 m 1,0,-1
+ 479 -14 l 1,1,-1
+ 203 764 l 1,2,-1
+ 23 764 l 1,3,-1
+ 23 907 l 1,4,-1
+ 319 907 l 1,5,-1
+ 549 244 l 1,6,-1
+ 1061 1696 l 1,7,-1
+ 1206 1696 l 1,8,-1
+ 612 -14 l 1,0,-1
+EndSplineSet
+EndChar

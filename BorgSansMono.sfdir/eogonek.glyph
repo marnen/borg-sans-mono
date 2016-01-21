@@ -1,0 +1,27 @@
+StartChar: eogonek
+Encoding: 281 281 219
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_8
+ 2
+ 2
+ 227
+ 29
+ 23
+ 11
+ 0
+ 37
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SVTCA[y-axis]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 72 101 N 1 0 0 1 0 0 3
+Refer: 343 731 N 1 0 0 1 227 31 2
+EndChar

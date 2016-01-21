@@ -1,0 +1,56 @@
+StartChar: brokenbar
+Encoding: 166 166 104
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 16
+ 2
+ 6
+ 170
+ 3
+ 79
+ 7
+ 1
+ 7
+ 4
+ 3
+ 4
+ 3
+ 6
+ 27
+ 0
+ 0
+SVTCA[y-axis]
+MIAP[rnd]
+MIAP[rnd]
+IP
+IP
+MDAP[rnd]
+MDAP[rnd]
+SVTCA[x-axis]
+MDAP[rnd]
+DELTAP1
+SHP[rp1]
+MIRP[black]
+SHP[rp2]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+SplineSet
+539 1556 m 1,0,-1
+ 688 1556 l 1,1,-1
+ 688 776 l 1,2,-1
+ 539 776 l 1,3,-1
+ 539 1556 l 1,0,-1
+539 289 m 1,4,-1
+ 688 289 l 1,5,-1
+ 688 -492 l 1,6,-1
+ 539 -492 l 1,7,-1
+ 539 289 l 1,4,-1
+EndSplineSet
+EndChar

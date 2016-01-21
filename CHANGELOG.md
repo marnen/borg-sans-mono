@@ -3,3 +3,5 @@ All notable changes to this project will be documented in this file, with the fo
 This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
+
+* Add -> ligature.

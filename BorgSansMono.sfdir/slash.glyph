@@ -1,0 +1,46 @@
+StartChar: slash
+Encoding: 47 47 18
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 12
+ 3
+ 0
+ 0
+ 5
+ 1
+ 2
+ 2
+ 4
+ 3
+ 3
+ 1
+ 18
+SVTCA[y-axis]
+MIAP[rnd]
+MIAP[rnd]
+SRP1
+SVTCA[x-axis]
+SHP[rp1]
+MDAP[rnd]
+SHP[rp1]
+SRP1
+SHP[rp1]
+MDAP[rnd]
+SHP[rp2]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+SplineSet
+1016 1462 m 1,0,-1
+ 389 0 l 1,1,-1
+ 211 0 l 1,2,-1
+ 838 1462 l 1,3,-1
+ 1016 1462 l 1,0,-1
+EndSplineSet
+EndChar
