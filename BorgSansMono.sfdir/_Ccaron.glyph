@@ -1,0 +1,32 @@
+StartChar: Ccaron
+Encoding: 268 268 206
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 1
+ 26
+ 5
+ 38
+ 1
+ 114
+ 30
+ 22
+ 6
+ 11
+ 37
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SVTCA[y-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 38 67 N 1 0 0 1 0 0 3
+Refer: 338 711 N 1 0 0 1 154 338 2
+EndChar

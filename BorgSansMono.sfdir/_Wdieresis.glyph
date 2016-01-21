@@ -1,0 +1,36 @@
+StartChar: Wdieresis
+Encoding: 7812 7812 711
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 13
+ 2
+ 1
+ 30
+ 5
+ 38
+ 2
+ 1
+ 3
+ 32
+ 36
+ 18
+ 8
+ 37
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SHC[rp1]
+SVTCA[y-axis]
+CALL
+SHC[rp1]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 58 87 N 1 0 0 1 0 0 3
+Refer: 106 168 N 1 0 0 1 4 338 2
+EndChar

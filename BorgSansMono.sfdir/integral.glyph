@@ -1,0 +1,68 @@
+StartChar: integral
+Encoding: 8747 8747 861
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 21
+ 1
+ 6
+ 170
+ 12
+ 16
+ 16
+ 1
+ 16
+ 16
+ 21
+ 22
+ 3
+ 174
+ 1
+ 19
+ 0
+ 14
+ 174
+ 12
+ 9
+ 27
+SVTCA[y-axis]
+MIAP[rnd]
+SHP[rp1]
+MIRP[black]
+MIAP[rnd]
+SHP[rp1]
+MIRP[black]
+SRP1
+SRP2
+SVTCA[x-axis]
+IP
+MDAP[rnd]
+DELTAP1
+SHP[rp1]
+MIRP[black]
+SHP[rp2]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+SplineSet
+993 1538 m 1,0,-1
+ 993 1391 l 1,1,2
+ 937 1417 937 1417 879 1417 c 0,3,4
+ 707 1417 707 1417 707 1184 c 2,5,-1
+ 707 -137 l 2,6,7
+ 707 -311 707 -311 618 -401.5 c 128,-1,8
+ 529 -492 529 -492 369 -492 c 0,9,10
+ 291 -492 291 -492 236 -473 c 1,11,-1
+ 236 -326 l 1,12,13
+ 296 -350 296 -350 352 -350 c 0,14,15
+ 532 -350 532 -350 532 -117 c 2,16,-1
+ 532 1202 l 2,17,18
+ 532 1556 532 1556 862 1556 c 0,19,20
+ 950 1556 950 1556 993 1538 c 1,0,-1
+EndSplineSet
+EndChar

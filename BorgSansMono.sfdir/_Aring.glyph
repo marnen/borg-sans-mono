@@ -1,0 +1,64 @@
+StartChar: Aring
+Encoding: 197 197 135
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 26
+ 3
+ 2
+ 239
+ 26
+ 1
+ 223
+ 26
+ 1
+ 80
+ 26
+ 1
+ 64
+ 26
+ 1
+ 32
+ 26
+ 1
+ 16
+ 26
+ 1
+ 0
+ 26
+ 1
+ 26
+ 3
+ 2
+PUSHW_1
+ -1
+PUSHB_5
+ 18
+ 24
+ 4
+ 7
+ 37
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SHC[rp1]
+SVTCA[y-axis]
+SRP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+SHC[rp1]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 36 65 N 1 0 0 1 0 0 3
+Refer: 342 730 N 1 0 0 1 0 125 2
+EndChar

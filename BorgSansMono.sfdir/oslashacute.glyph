@@ -1,0 +1,32 @@
+StartChar: oslashacute
+Encoding: 511 511 333
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 3
+ 42
+ 17
+ 38
+ 3
+ 81
+ 36
+ 39
+ 5
+ 15
+ 37
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SVTCA[y-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 186 248 N 1 0 0 1 0 0 3
+Refer: 118 180 N 1 0 0 1 80 0 2
+EndChar

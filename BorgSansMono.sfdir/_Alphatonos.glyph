@@ -1,0 +1,36 @@
+StartChar: Alphatonos
+Encoding: 902 902 355
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_7
+ 2
+ 18
+ 3
+ 2
+ 16
+ 15
+ 1
+PUSHW_1
+ -444
+PUSHB_5
+ 15
+ 19
+ 4
+ 7
+ 37
+SVTCA[x-axis]
+CALL
+DELTAP1
+SHC[rp1]
+SVTCA[y-axis]
+MIAP[rnd]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 36 65 N 1 0 0 1 0 0 3
+Refer: 353 900 N 1 0 0 1 -443 -105 2
+EndChar

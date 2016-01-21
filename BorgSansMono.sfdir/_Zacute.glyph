@@ -1,0 +1,32 @@
+StartChar: Zacute
+Encoding: 377 377 315
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 1
+ 16
+ 5
+ 38
+ 1
+ 58
+ 10
+ 13
+ 1
+ 0
+ 37
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SVTCA[y-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 61 90 N 1 0 0 1 0 0 3
+Refer: 118 180 N 1 0 0 1 57 338 2
+EndChar

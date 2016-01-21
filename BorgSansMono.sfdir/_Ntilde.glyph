@@ -1,0 +1,32 @@
+StartChar: Ntilde
+Encoding: 209 209 147
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 1
+ 16
+ 5
+ 38
+ 1
+ 4
+ 17
+ 26
+ 7
+ 0
+ 37
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SVTCA[y-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 49 78 N 1 0 0 1 0 0 3
+Refer: 344 732 N 1 0 0 1 4 338 2
+EndChar

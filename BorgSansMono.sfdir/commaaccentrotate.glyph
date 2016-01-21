@@ -1,0 +1,48 @@
+StartChar: commaaccentrotate
+Encoding: 65543 -1 878
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 13
+ 3
+ 3
+ 8
+ 8
+ 10
+ 7
+ 146
+ 15
+ 2
+ 95
+ 2
+ 2
+ 2
+SVTCA[y-axis]
+MDAP[rnd]
+DELTAP1
+MIRP[min,rnd,black]
+SRP1
+SVTCA[x-axis]
+SHP[rp1]
+MDAP[rnd]
+SHP[rp1]
+MDAP[rnd]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+SplineSet
+745 1542 m 1,0,1
+ 682 1389 682 1389 662 1241 c 1,2,-1
+ 483 1241 l 1,3,-1
+ 483 1262 l 2,4,5
+ 483 1279 483 1279 528.5 1379.5 c 128,-1,6
+ 574 1480 574 1480 647 1569 c 1,7,-1
+ 745 1569 l 1,8,-1
+ 745 1542 l 1,0,1
+EndSplineSet
+EndChar

@@ -1,0 +1,33 @@
+StartChar: egrave
+Encoding: 232 232 170
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_5
+ 2
+ 23
+ 17
+ 38
+ 2
+PUSHW_1
+ -44
+PUSHB_5
+ 26
+ 23
+ 11
+ 0
+ 37
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SVTCA[y-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 72 101 N 1 0 0 1 0 0 3
+Refer: 67 96 N 1 0 0 1 -44 0 2
+EndChar

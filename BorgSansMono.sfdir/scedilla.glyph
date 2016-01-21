@@ -1,0 +1,29 @@
+StartChar: scedilla
+Encoding: 351 351 289
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_2
+ 1
+ 1
+PUSHW_1
+ -9
+PUSHB_5
+ 32
+ 44
+ 0
+ 27
+ 37
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SVTCA[y-axis]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 86 115 N 1 0 0 1 0 0 3
+Refer: 122 184 N 1 0 0 1 -9 0 2
+EndChar

@@ -1,0 +1,24 @@
+StartChar: ccedilla
+Encoding: 231 231 169
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_7
+ 1
+ 47
+ 20
+ 32
+ 15
+ 0
+ 37
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 70 99 N 1 0 0 1 0 0 3
+Refer: 122 184 N 1 0 0 1 49 0 2
+EndChar

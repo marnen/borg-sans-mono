@@ -1,0 +1,76 @@
+StartChar: upsilon
+Encoding: 965 965 415
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_4
+ 10
+ 70
+ 9
+ 9
+PUSHW_1
+ -48
+NPUSHB
+ 23
+ 16
+ 24
+ 72
+ 9
+ 7
+ 71
+ 12
+ 19
+ 2
+ 71
+ 0
+ 17
+ 176
+ 17
+ 2
+ 17
+ 4
+ 80
+ 15
+ 22
+ 9
+ 0
+ 15
+SVTCA[y-axis]
+MIAP[rnd]
+SHP[rp2]
+MIAP[rnd]
+MIRP[black]
+SVTCA[x-axis]
+MDAP[rnd]
+DELTAP1
+MIRP[black]
+SRP0
+MDRP[rp0,min,rnd,white]
+MIRP[black]
+SHP[rp1]
+CALL
+SRP0
+MIRP[rnd,black]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+SplineSet
+160 1098 m 1,0,-1
+ 342 1098 l 1,1,-1
+ 342 508 l 2,2,3
+ 342 129 342 129 616 129 c 0,4,5
+ 766 129 766 129 833.5 245 c 128,-1,6
+ 901 361 901 361 901 608 c 0,7,8
+ 901 845 901 845 838 1098 c 1,9,-1
+ 1020 1098 l 1,10,11
+ 1083 853 1083 853 1083 600 c 0,12,13
+ 1083 282 1083 282 968 131 c 128,-1,14
+ 853 -20 853 -20 610 -20 c 0,15,16
+ 160 -20 160 -20 160 498 c 2,17,-1
+ 160 1098 l 1,0,-1
+EndSplineSet
+EndChar

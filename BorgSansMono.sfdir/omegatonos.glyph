@@ -1,0 +1,32 @@
+StartChar: omegatonos
+Encoding: 974 974 424
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 1
+ 40
+ 17
+ 38
+ 1
+ 49
+ 32
+ 36
+ 30
+ 21
+ 37
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SVTCA[y-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 419 969 N 1 0 0 1 0 0 3
+Refer: 353 900 N 1 0 0 1 51 0 2
+EndChar

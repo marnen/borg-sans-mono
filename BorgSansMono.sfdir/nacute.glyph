@@ -1,0 +1,32 @@
+StartChar: nacute
+Encoding: 324 324 262
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 1
+ 23
+ 17
+ 38
+ 1
+ 111
+ 17
+ 20
+ 7
+ 15
+ 37
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SVTCA[y-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 81 110 N 1 0 0 1 0 0 3
+Refer: 118 180 N 1 0 0 1 111 0 2
+EndChar

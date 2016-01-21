@@ -1,0 +1,92 @@
+StartChar: dotaccent
+Encoding: 729 729 341
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 52
+ 230
+ 6
+ 1
+ 6
+ 133
+ 2
+ 219
+ 2
+ 1
+ 201
+ 2
+ 1
+ 173
+ 2
+ 1
+ 137
+ 2
+ 1
+ 91
+ 2
+ 1
+ 66
+ 2
+ 1
+ 38
+ 2
+ 1
+ 27
+ 2
+ 1
+ 2
+ 9
+ 0
+ 147
+ 79
+ 4
+ 111
+ 4
+ 127
+ 4
+ 159
+ 4
+ 175
+ 4
+ 207
+ 4
+ 223
+ 4
+ 239
+ 4
+ 8
+ 4
+SVTCA[y-axis]
+MDAP[rnd]
+DELTAP1
+MIRP[min,rnd,black]
+SRP1
+SVTCA[x-axis]
+SHP[rp1]
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+SRP0
+MIRP[black]
+DELTAP1
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+SplineSet
+614 1509 m 0,0,1
+ 721 1509 721 1509 721 1395 c 0,2,3
+ 721 1280 721 1280 614 1280 c 0,4,5
+ 508 1280 508 1280 508 1395 c 0,6,7
+ 508 1509 508 1509 614 1509 c 0,0,1
+EndSplineSet
+EndChar

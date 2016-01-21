@@ -1,0 +1,32 @@
+StartChar: Zcaron
+Encoding: 381 381 319
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 1
+ 14
+ 5
+ 38
+ 1
+ 0
+ 18
+ 10
+ 1
+ 0
+ 37
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SVTCA[y-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 61 90 N 1 0 0 1 0 0 3
+Refer: 338 711 N 1 0 0 1 -1 338 2
+EndChar

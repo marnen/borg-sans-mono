@@ -1,0 +1,45 @@
+StartChar: exclamdbl
+Encoding: 8252 8252 836
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 21
+ 3
+ 2
+ 208
+ 22
+ 1
+ 192
+ 22
+ 1
+ 176
+ 22
+ 1
+ 64
+ 22
+ 1
+ 48
+ 22
+ 1
+ 32
+ 22
+ 1
+ 22
+SRP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+SHC[rp1]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 4 33 N 1 0 0 1 231 0 3
+Refer: 4 33 N 1 0 0 1 -232 0 2
+EndChar

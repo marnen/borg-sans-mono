@@ -1,0 +1,27 @@
+StartChar: iogonek
+Encoding: 303 303 241
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_8
+ 2
+ 2
+ 3
+ 25
+ 19
+ 16
+ 14
+ 37
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SVTCA[y-axis]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 76 105 N 1 0 0 1 0 0 3
+Refer: 343 731 N 1 0 0 1 25 0 2
+EndChar

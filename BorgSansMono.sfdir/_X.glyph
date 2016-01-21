@@ -1,0 +1,214 @@
+StartChar: X
+Encoding: 88 88 59
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 36
+ 8
+ 8
+ 9
+ 11
+ 11
+ 10
+ 0
+ 7
+ 0
+ 5
+ 5
+ 4
+ 2
+ 2
+ 3
+ 1
+ 6
+ 1
+ 8
+ 8
+ 7
+ 5
+ 5
+ 6
+ 4
+ 9
+ 4
+ 11
+ 11
+ 0
+ 2
+ 2
+ 1
+ 3
+ 10
+ 7
+PUSHW_1
+ -8
+NPUSHB
+ 23
+ 12
+ 15
+ 72
+ 6
+ 7
+ 22
+ 7
+ 38
+ 7
+ 3
+ 9
+ 8
+ 12
+ 15
+ 72
+ 9
+ 9
+ 25
+ 9
+ 41
+ 9
+ 3
+ 3
+PUSHW_1
+ -8
+NPUSHB
+ 60
+ 12
+ 15
+ 72
+ 6
+ 3
+ 22
+ 3
+ 38
+ 3
+ 3
+ 1
+ 8
+ 12
+ 15
+ 72
+ 9
+ 1
+ 25
+ 1
+ 41
+ 1
+ 3
+ 11
+ 8
+ 2
+ 5
+ 4
+ 4
+ 9
+ 10
+ 1
+ 10
+ 175
+ 0
+ 1
+ 0
+ 0
+ 13
+ 7
+ 6
+ 3
+ 6
+ 4
+ 2
+ 5
+ 11
+ 8
+ 4
+ 7
+ 9
+ 10
+ 3
+ 6
+ 3
+ 1
+ 3
+ 4
+ 3
+ 0
+ 18
+SVTCA[y-axis]
+MIAP[rnd]
+SLOOP
+SHP[rp2]
+MIAP[rnd]
+SLOOP
+SHP[rp1]
+SLOOP
+IP
+SVTCA[x-axis]
+MDAP[rnd]
+SHP[rp1]
+SHP[rp1]
+MDAP[rnd]
+SHP[rp1]
+SRP1
+SHP[rp1]
+MDAP[rnd]
+DELTAP1
+SHP[rp2]
+SHP[rp2]
+MDAP[rnd]
+SHP[rp1]
+SRP1
+SLOOP
+IP
+DELTAP1
+CALL
+DELTAP1
+CALL
+DELTAP1
+CALL
+DELTAP1
+CALL
+IUP[x]
+IUP[y]
+SDPVTL[orthog]
+SFVTL[parallel]
+MDRP[grey]
+SFVTL[parallel]
+MDRP[grey]
+SRP0
+SDPVTL[orthog]
+SFVTL[parallel]
+MDRP[grey]
+SFVTL[parallel]
+MDRP[grey]
+SRP0
+SDPVTL[orthog]
+SFVTL[parallel]
+MDRP[grey]
+SFVTL[parallel]
+MDRP[grey]
+SRP0
+SDPVTL[orthog]
+SFVTL[parallel]
+MDRP[grey]
+SFVTL[parallel]
+MDRP[grey]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+SplineSet
+1174 0 m 1,0,-1
+ 963 0 l 1,1,-1
+ 608 635 l 1,2,-1
+ 242 0 l 1,3,-1
+ 53 0 l 1,4,-1
+ 506 764 l 1,5,-1
+ 84 1462 l 1,6,-1
+ 283 1462 l 1,7,-1
+ 614 903 l 1,8,-1
+ 948 1462 l 1,9,-1
+ 1139 1462 l 1,10,-1
+ 717 770 l 1,11,-1
+ 1174 0 l 1,0,-1
+EndSplineSet
+EndChar

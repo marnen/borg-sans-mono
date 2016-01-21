@@ -1,0 +1,36 @@
+StartChar: ohungarumlaut
+Encoding: 337 337 275
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 13
+ 3
+ 2
+ 26
+ 17
+ 38
+ 3
+ 2
+ 82
+ 20
+ 31
+ 3
+ 9
+ 37
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SHC[rp1]
+SVTCA[y-axis]
+CALL
+SHC[rp1]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 82 111 N 1 0 0 1 0 0 3
+Refer: 345 733 N 1 0 0 1 82 0 2
+EndChar

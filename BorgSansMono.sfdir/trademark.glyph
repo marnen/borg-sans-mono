@@ -1,0 +1,147 @@
+StartChar: trademark
+Encoding: 8482 8482 847
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 63
+ 24
+ 17
+ 20
+ 196
+ 19
+ 15
+ 9
+ 12
+ 196
+ 13
+ 191
+ 13
+ 1
+ 6
+ 13
+ 6
+ 13
+ 1
+ 31
+ 19
+ 1
+ 19
+ 27
+ 182
+ 3
+ 198
+ 3
+ 2
+ 155
+ 3
+ 171
+ 3
+ 2
+ 122
+ 3
+ 138
+ 3
+ 2
+ 3
+ 0
+ 196
+ 0
+ 1
+ 1
+ 1
+ 7
+ 3
+ 200
+ 4
+ 16
+ 9
+ 24
+ 3
+ 4
+ 20
+ 13
+ 8
+ 1
+ 1
+ 17
+ 14
+ 4
+ 3
+SVTCA[y-axis]
+MIAP[rnd]
+SHP[rp1]
+SHP[rp1]
+SHP[rp1]
+MDAP[rnd]
+SHP[rp1]
+SHP[rp1]
+SHP[rp1]
+SRP2
+SLOOP
+IP
+SRP0
+MIRP[black]
+SHP[rp2]
+SVTCA[x-axis]
+MDAP[rnd]
+DELTAP1
+MIRP[black]
+SHP[rp1]
+DELTAP1
+DELTAP1
+DELTAP1
+SRP0
+MDRP[min,rnd,white]
+DELTAP1
+SRP1
+IP
+IP
+MDAP[rnd]
+MDAP[rnd]
+DELTAP1
+SRP0
+MIRP[black]
+SHP[rp2]
+SHP[rp2]
+SRP0
+MIRP[black]
+SHP[rp2]
+SHP[rp2]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+SplineSet
+303 741 m 1,0,-1
+ 176 741 l 1,1,-1
+ 176 1354 l 1,2,-1
+ 0 1354 l 1,3,-1
+ 0 1462 l 1,4,-1
+ 481 1462 l 1,5,-1
+ 481 1354 l 1,6,-1
+ 303 1354 l 1,7,-1
+ 303 741 l 1,0,-1
+797 741 m 1,8,-1
+ 651 1290 l 1,9,-1
+ 639 1290 l 1,10,-1
+ 649 1110 l 1,11,-1
+ 649 741 l 1,12,-1
+ 526 741 l 1,13,-1
+ 526 1462 l 1,14,-1
+ 713 1462 l 1,15,-1
+ 852 928 l 1,16,-1
+ 1001 1462 l 1,17,-1
+ 1180 1462 l 1,18,-1
+ 1180 741 l 1,19,-1
+ 1053 741 l 1,20,-1
+ 1053 1083 l 2,21,22
+ 1053 1170 1053 1170 1063 1290 c 1,23,-1
+ 1051 1290 l 1,24,-1
+ 897 741 l 1,25,-1
+ 797 741 l 1,8,-1
+EndSplineSet
+EndChar

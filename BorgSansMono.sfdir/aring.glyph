@@ -1,0 +1,36 @@
+StartChar: aring
+Encoding: 229 229 167
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 13
+ 3
+ 2
+ 34
+ 17
+ 38
+ 3
+ 2
+ 32
+ 37
+ 43
+ 8
+ 22
+ 37
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SHC[rp1]
+SVTCA[y-axis]
+CALL
+SHC[rp1]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 68 97 N 1 0 0 1 0 0 3
+Refer: 342 730 N 1 0 0 1 -1 0 2
+EndChar

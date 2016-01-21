@@ -1,0 +1,45 @@
+StartChar: Epsilontonos
+Encoding: 904 904 357
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 13
+ 1
+ 15
+ 3
+ 1
+ 32
+ 12
+ 1
+ 16
+ 12
+ 1
+ 0
+ 12
+ 1
+PUSHW_1
+ -617
+PUSHB_5
+ 12
+ 16
+ 1
+ 0
+ 37
+SVTCA[x-axis]
+CALL
+DELTAP1
+DELTAP1
+DELTAP1
+SHC[rp1]
+SVTCA[y-axis]
+MIAP[rnd]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 40 69 N 1 0 0 1 0 0 3
+Refer: 353 900 N 1 0 0 1 -593 -105 2
+EndChar

@@ -1,0 +1,60 @@
+StartChar: iota
+Encoding: 953 953 403
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 20
+ 1
+ 71
+ 0
+ 10
+ 1
+ 10
+ 10
+ 12
+ 111
+ 5
+ 1
+ 5
+ 13
+ 5
+ 3
+ 80
+ 8
+ 22
+ 0
+ 15
+SVTCA[y-axis]
+MIAP[rnd]
+MIAP[rnd]
+MIRP[black]
+SHP[rp1]
+SVTCA[x-axis]
+SRP0
+MDRP[min,rnd,white]
+DELTAP1
+SRP2
+IP
+MDAP[rnd]
+DELTAP1
+MIRP[black]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+SplineSet
+610 1098 m 1,0,-1
+ 610 324 l 2,1,2
+ 610 129 610 129 803 129 c 0,3,4
+ 915 129 915 129 1016 150 c 1,5,-1
+ 1016 12 l 1,6,7
+ 923 -20 923 -20 791 -20 c 0,8,9
+ 428 -20 428 -20 428 324 c 2,10,-1
+ 428 1098 l 1,11,-1
+ 610 1098 l 1,0,-1
+EndSplineSet
+EndChar

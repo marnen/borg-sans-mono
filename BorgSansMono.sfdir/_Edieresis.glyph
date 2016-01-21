@@ -1,0 +1,36 @@
+StartChar: Edieresis
+Encoding: 203 203 141
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 13
+ 2
+ 1
+ 16
+ 5
+ 38
+ 2
+ 1
+ 0
+ 18
+ 22
+ 1
+ 0
+ 37
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SHC[rp1]
+SVTCA[y-axis]
+CALL
+SHC[rp1]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 40 69 N 1 0 0 1 0 0 3
+Refer: 106 168 N 1 0 0 1 25 338 2
+EndChar

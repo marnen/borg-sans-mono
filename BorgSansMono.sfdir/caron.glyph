@@ -1,0 +1,68 @@
+StartChar: caron
+Encoding: 711 711 338
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 21
+ 5
+ 4
+ 12
+ 12
+ 10
+ 9
+ 149
+ 14
+ 15
+ 15
+ 17
+ 12
+ 14
+ 9
+ 146
+ 15
+ 5
+ 95
+ 5
+ 2
+ 5
+SVTCA[y-axis]
+MDAP[rnd]
+DELTAP1
+MIRP[rnd,grey]
+SHP[rp2]
+IP
+SRP1
+SVTCA[x-axis]
+SHP[rp1]
+MDAP[rnd]
+SHP[rp1]
+MIRP[rnd,grey]
+SHP[rp2]
+IP
+RTHG
+MDAP[rnd]
+SHP[rp1]
+SHP[rp1]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+SplineSet
+946 1542 m 1,0,1
+ 921 1513 921 1513 887 1475 c 0,2,3
+ 746 1317 746 1317 711 1241 c 1,4,-1
+ 518 1241 l 1,5,6
+ 483 1317 483 1317 342 1475 c 2,7,-1
+ 283 1542 l 1,8,-1
+ 283 1569 l 1,9,-1
+ 403 1569 l 1,10,11
+ 485 1515 485 1515 614 1382 c 1,12,13
+ 736 1510 736 1510 825 1569 c 1,14,-1
+ 946 1569 l 1,15,-1
+ 946 1542 l 1,0,1
+EndSplineSet
+EndChar

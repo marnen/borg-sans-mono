@@ -1,0 +1,30 @@
+StartChar: iotadieresistonos
+Encoding: 912 912 363
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_3
+ 3
+ 2
+ 1
+PUSHW_1
+ -166
+PUSHB_5
+ 27
+ 31
+ 10
+ 5
+ 37
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SHC[rp1]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 403 953 N 1 0 0 1 0 0 3
+Refer: 354 901 N 1 0 0 1 -58 0 2
+EndChar

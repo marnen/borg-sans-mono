@@ -1,0 +1,33 @@
+StartChar: rcaron
+Encoding: 345 345 283
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_5
+ 1
+ 21
+ 17
+ 38
+ 1
+PUSHW_1
+ -35
+PUSHB_5
+ 25
+ 17
+ 8
+ 0
+ 37
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SVTCA[y-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 85 114 N 1 0 0 1 0 0 3
+Refer: 338 711 N 1 0 0 1 12 0 2
+EndChar

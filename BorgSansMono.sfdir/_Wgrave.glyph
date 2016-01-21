@@ -1,0 +1,33 @@
+StartChar: Wgrave
+Encoding: 7808 7808 707
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_5
+ 1
+ 26
+ 5
+ 38
+ 1
+PUSHW_1
+ -81
+PUSHB_5
+ 29
+ 26
+ 18
+ 8
+ 37
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SVTCA[y-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 58 87 N 1 0 0 1 0 0 3
+Refer: 67 96 N 1 0 0 1 -81 338 2
+EndChar

@@ -1,0 +1,33 @@
+StartChar: imacron
+Encoding: 299 299 237
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_5
+ 1
+ 12
+ 17
+ 38
+ 1
+PUSHW_1
+ -22
+PUSHB_5
+ 10
+ 11
+ 7
+ 5
+ 37
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SVTCA[y-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 243 305 N 1 0 0 1 0 0 3
+Refer: 339 713 N 1 0 0 1 0 0 2
+EndChar

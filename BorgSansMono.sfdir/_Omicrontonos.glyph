@@ -1,0 +1,32 @@
+StartChar: Omicrontonos
+Encoding: 908 908 360
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_4
+ 2
+ 23
+ 3
+ 2
+PUSHW_1
+ -613
+PUSHB_5
+ 20
+ 24
+ 2
+ 7
+ 37
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SVTCA[y-axis]
+MIAP[rnd]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 50 79 N 1 0 0 1 0 0 3
+Refer: 353 900 N 1 0 0 1 -611 -105 2
+EndChar

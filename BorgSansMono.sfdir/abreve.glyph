@@ -1,0 +1,32 @@
+StartChar: abreve
+Encoding: 259 259 197
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 2
+ 37
+ 17
+ 38
+ 2
+ 22
+ 39
+ 34
+ 8
+ 22
+ 37
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SVTCA[y-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 68 97 N 1 0 0 1 0 0 3
+Refer: 340 728 N 1 0 0 1 -11 0 2
+EndChar

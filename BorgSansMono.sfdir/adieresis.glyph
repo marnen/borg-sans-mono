@@ -1,0 +1,48 @@
+StartChar: adieresis
+Encoding: 228 228 166
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 22
+ 3
+ 2
+ 38
+ 17
+ 38
+ 3
+ 2
+ 80
+ 40
+ 1
+ 64
+ 40
+ 1
+ 48
+ 40
+ 1
+ 45
+ 40
+ 44
+ 8
+ 22
+ 37
+SVTCA[x-axis]
+CALL
+DELTAP1
+DELTAP1
+DELTAP1
+SHC[rp1]
+SHC[rp1]
+SVTCA[y-axis]
+CALL
+SHC[rp1]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 68 97 N 1 0 0 1 0 0 3
+Refer: 106 168 N 1 0 0 1 12 0 2
+EndChar

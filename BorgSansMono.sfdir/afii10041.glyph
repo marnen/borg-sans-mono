@@ -1,0 +1,74 @@
+StartChar: afii10041
+Encoding: 1063 1063 467
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 26
+ 14
+ 1
+ 90
+ 0
+ 18
+ 9
+ 90
+ 0
+ 6
+ 224
+ 6
+ 240
+ 6
+ 3
+ 6
+ 14
+ 12
+ 95
+ 4
+ 4
+ 1
+ 15
+ 7
+ 3
+ 1
+ 18
+SVTCA[y-axis]
+MIAP[rnd]
+MIAP[rnd]
+SHP[rp1]
+SRP2
+IP
+MDAP[rnd]
+MIRP[black]
+SHP[rp1]
+SVTCA[x-axis]
+MDAP[rnd]
+DELTAP1
+MIRP[black]
+SRP0
+MDRP[rp0,min,rnd,white]
+MIRP[black]
+SHP[rp2]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+SplineSet
+1094 0 m 1,0,-1
+ 907 0 l 1,1,-1
+ 907 598 l 1,2,3
+ 680 508 680 508 514 508 c 0,4,5
+ 135 508 135 508 135 879 c 2,6,-1
+ 135 1462 l 1,7,-1
+ 322 1462 l 1,8,-1
+ 322 903 l 2,9,10
+ 322 773 322 773 373.5 722.5 c 128,-1,11
+ 425 672 425 672 535 672 c 0,12,13
+ 688 672 688 672 907 752 c 1,14,-1
+ 907 1462 l 1,15,-1
+ 1094 1462 l 1,16,-1
+ 1094 0 l 1,0,-1
+EndSplineSet
+EndChar

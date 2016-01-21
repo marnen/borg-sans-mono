@@ -1,0 +1,212 @@
+StartChar: M
+Encoding: 77 77 48
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 12
+ 247
+ 19
+ 1
+ 182
+ 19
+ 1
+ 151
+ 19
+ 167
+ 19
+ 2
+ 19
+PUSHW_1
+ -16
+NPUSHB
+ 37
+ 13
+ 17
+ 72
+ 39
+ 19
+ 1
+ 6
+ 19
+ 22
+ 19
+ 2
+ 233
+ 11
+ 249
+ 11
+ 2
+ 11
+ 32
+ 13
+ 22
+ 72
+ 58
+ 11
+ 1
+ 9
+ 11
+ 25
+ 11
+ 41
+ 11
+ 3
+ 230
+ 8
+ 246
+ 8
+ 2
+ 8
+PUSHW_1
+ -32
+NPUSHB
+ 77
+ 13
+ 22
+ 72
+ 53
+ 8
+ 1
+ 6
+ 8
+ 22
+ 8
+ 38
+ 8
+ 3
+ 248
+ 0
+ 1
+ 185
+ 0
+ 1
+ 152
+ 0
+ 168
+ 0
+ 2
+ 0
+ 16
+ 13
+ 17
+ 72
+ 40
+ 0
+ 1
+ 9
+ 0
+ 25
+ 0
+ 2
+ 17
+ 14
+ 250
+ 224
+ 13
+ 240
+ 13
+ 2
+ 15
+ 13
+ 1
+ 13
+ 21
+ 2
+ 5
+ 250
+ 0
+ 6
+ 16
+ 6
+ 64
+ 6
+ 80
+ 6
+ 4
+ 6
+ 11
+ 1
+ 7
+ 3
+ 18
+ 2
+ 14
+ 89
+ 9
+ 1
+ 9
+ 6
+ 0
+ 18
+SVTCA[y-axis]
+MIAP[rnd]
+SHP[rp2]
+SHP[rp2]
+DELTAP1
+SHP[rp2]
+MDAP[no-rnd]
+SHP[rp1]
+MIAP[rnd]
+SHP[rp1]
+SHP[rp1]
+SVTCA[x-axis]
+MDAP[rnd]
+DELTAP1
+MIRP[black]
+SHP[rp2]
+SRP0
+MDRP[rp0,min,rnd,white]
+DELTAP1
+DELTAP1
+MIRP[black]
+SHP[rp2]
+IUP[x]
+IUP[y]
+DELTAP1
+DELTAP1
+CALL
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+CALL
+DELTAP1
+DELTAP1
+DELTAP1
+CALL
+DELTAP1
+DELTAP1
+DELTAP1
+CALL
+DELTAP1
+DELTAP1
+DELTAP1
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+SplineSet
+532 0 m 1,0,-1
+ 254 1280 l 1,1,-1
+ 246 1280 l 1,2,3
+ 264 1014 264 1014 264 874 c 2,4,-1
+ 264 0 l 1,5,-1
+ 113 0 l 1,6,-1
+ 113 1462 l 1,7,-1
+ 360 1462 l 1,8,-1
+ 608 270 l 1,9,-1
+ 614 270 l 1,10,-1
+ 864 1462 l 1,11,-1
+ 1116 1462 l 1,12,-1
+ 1116 0 l 1,13,-1
+ 963 0 l 1,14,-1
+ 963 887 l 2,15,16
+ 963 989 963 989 977 1278 c 1,17,-1
+ 969 1278 l 1,18,-1
+ 686 0 l 1,19,-1
+ 532 0 l 1,0,-1
+EndSplineSet
+EndChar

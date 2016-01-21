@@ -1,0 +1,36 @@
+StartChar: udieresis
+Encoding: 252 252 190
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 13
+ 2
+ 1
+ 22
+ 17
+ 38
+ 2
+ 1
+ 1
+ 24
+ 28
+ 6
+ 16
+ 37
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SHC[rp1]
+SVTCA[y-axis]
+CALL
+SHC[rp1]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+Refer: 88 117 N 1 0 0 1 0 0 3
+Refer: 106 168 N 1 0 0 1 2 0 2
+EndChar

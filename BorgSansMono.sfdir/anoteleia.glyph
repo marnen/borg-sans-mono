@@ -1,0 +1,52 @@
+StartChar: anoteleia
+Encoding: 903 903 356
+Width: 1229
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 20
+ 2
+ 150
+ 48
+ 6
+ 96
+ 6
+ 176
+ 6
+ 224
+ 6
+ 240
+ 6
+ 5
+ 6
+ 6
+ 8
+ 9
+ 0
+ 155
+ 4
+SVTCA[y-axis]
+MDAP[rnd]
+MIRP[min,rnd,black]
+SRP1
+SRP2
+SVTCA[x-axis]
+IP
+MDAP[rnd]
+DELTAP1
+MIRP[min,rnd,black]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Back
+Fore
+SplineSet
+614 862 m 256,0,1
+ 741 862 741 862 741 723 c 256,2,3
+ 741 584 741 584 614 584 c 256,4,5
+ 487 584 487 584 487 723 c 256,6,7
+ 487 862 487 862 614 862 c 256,0,1
+EndSplineSet
+EndChar
