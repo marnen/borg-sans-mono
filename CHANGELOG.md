@@ -4,4 +4,4 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
-* Add -> ligature.
+* Add -> and => ligatures.
