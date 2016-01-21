@@ -20,6 +20,6 @@ SplineSet
  944 465 l 1,10,-1
  285 465 l 1,7,-1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 1230 
 Ligature2: "'liga' Standard Ligatures lookup 0-1" hyphen greater
 EndChar
