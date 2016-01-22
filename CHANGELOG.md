@@ -4,6 +4,8 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## 0.0.1 / 2016-01-22
+
 * Add equality ligatures (==, ===, !=, /=, !==).
 * Make all characters monospace by using `calt` for ligatures as in Monoid. [#1]
 * Add -> and => ligatures.
