@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1168259284
-ModificationTime: 1453417197
+ModificationTime: 1453433805
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -56,7 +56,6 @@ OS2XHeight: 0
 OS2Vendor: '1ASC'
 OS2CodePages: 2000019f.00000000
 OS2UnicodeRanges: e00002ef.4000205b.00000028.00000000
-Lookup: 4 0 1 "'liga' Standard Ligatures lookup 0" { "'liga' Standard Ligatures lookup 0-1"  } ['liga' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 TtTable: prep
@@ -2749,10 +2748,16 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 65394 21 9
+WinInfo: 65448 18 7
 BeginPrivate: 0
 EndPrivate
 Grid
+3687 2662 m 0
+ 3687 -1434 l 1024
+  Named: "3w"
+2458 2662 m 0
+ 2458 -1434 l 1024
+  Named: "2w"
 -2048 1543.5 m 0
  4096 1543.5 l 1024
 -2048 1555.5 m 0

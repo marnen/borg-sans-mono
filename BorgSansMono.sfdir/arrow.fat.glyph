@@ -1,7 +1,7 @@
 StartChar: arrow.fat
 Encoding: 65564 -1 899
-Width: 2458
-Flags: W
+Width: 1229
+Flags: WO
 LayerCount: 2
 Back
 SplineSet
@@ -27,6 +27,4 @@ SplineSet
  1824 853 l 5,14,-1
  152 853 l 1,0,-1
 EndSplineSet
-LCarets2: 1 1230 
-Ligature2: "'liga' Standard Ligatures lookup 0-1" equal greater
 EndChar

@@ -1,0 +1,15 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem cyrl dflt;
+languagesystem grek dflt;
+languagesystem kana dflt;
+
+feature calt {
+  # ->
+  sub hyphen' greater by arrow.thin;
+  sub arrow.thin greater' by space;
+
+  # =>
+  sub equal' greater by arrow.fat;
+  sub arrow.thin greater' by space;
+} calt;
