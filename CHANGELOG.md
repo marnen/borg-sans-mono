@@ -4,7 +4,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
-## 0.0.2 / 2016-02-22
+## 0.0.2 / 2016-01-22
 
 * Widen `->` ligature to match width of `=>.` [#2]
 
