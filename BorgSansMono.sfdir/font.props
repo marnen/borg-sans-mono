@@ -4,7 +4,7 @@ FullName: Borg Sans Mono
 FamilyName: Borg Sans Mono
 Weight: Book
 Copyright: Digitized data copyright (c) 2007, Google Corporation.\nSlashed Zero Modification (c) 2009, cosmix.org\nLigatures copyright (c) 2016, Marnen E. Laibow-Koser
-Version: 0.0.2
+Version: 0.0.3
 ItalicAngle: 0
 UnderlinePosition: -103
 UnderlineWidth: 102
@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1168259284
-ModificationTime: 1453496133
+ModificationTime: 1453496278
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
