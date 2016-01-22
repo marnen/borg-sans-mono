@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1168259284
-ModificationTime: 1453496278
+ModificationTime: 1453497078
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -2740,7 +2740,7 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "Digitized data copyright +AKkA 2007, Google Corporation.+AAoACgAA-Slashed Zero Modification +AKkA 2009, cosmix.org" "" "Regular" "" "" "Version 1.00 build 112" "" "Droid is a trademark of Google and may be registered in certain jurisdictions." "Ascender Corporation and cosmix.org" "" "Droid Sans is a humanist sans serif typeface designed for user interfaces and electronic communication." "http://www.cosmix.org" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the Apache License, Version 2.0" "http://www.apache.org/licenses/LICENSE-2.0" "" "" "" "Droid Sans Mono Slashed"
+LangName: 1033 "" "" "Regular" "" "" "" "" "Droid is a trademark of Google and may be registered in certain jurisdictions." "Ascender Corporation and cosmix.org" "" "Droid Sans is a humanist sans serif typeface designed for user interfaces and electronic communication." "http://www.marnen.org" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the Apache License, Version 2.0" "http://www.apache.org/licenses/LICENSE-2.0"
 GaspTable: 2 5 2 65535 3 0
 Encoding: UnicodeBmp
 UnicodeInterp: none

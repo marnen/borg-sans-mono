@@ -4,6 +4,8 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+* Clean up metadata.
+
 ## 0.0.3 / 2016-01-22
 
 * Add `<-` ligature (not `<=`, since that's usually not an arrow).
