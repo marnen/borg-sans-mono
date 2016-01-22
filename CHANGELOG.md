@@ -4,4 +4,5 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+* Make all characters monospace by using `calt` for ligatures as in Monoid. [#1]
 * Add -> and => ligatures.
