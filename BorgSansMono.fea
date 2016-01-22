@@ -33,6 +33,6 @@ feature calt {
   sub hyphen' greater by arrow.thin;
 
   # =>
-  sub arrow.thin greater' by space;
+  sub arrow.fat greater' by space;
   sub equal' greater by arrow.fat;
 } calt;
