@@ -4,6 +4,8 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+* Add `<-` ligature (not `<=`, since that's usually not an arrow).
+
 ## 0.0.2 / 2016-01-22
 
 * Widen `->` ligature to match width of `=>.` [#2]
