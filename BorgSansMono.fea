@@ -5,6 +5,10 @@ languagesystem grek dflt;
 languagesystem kana dflt;
 
 feature calt {
+  # !=
+  sub exclam' equal by exclam.equal;
+  sub exclam.equal equal' by space;
+
   # /=
   sub slash' equal by slash.equal;
   sub slash.equal equal' by space;
