@@ -5,11 +5,34 @@ languagesystem grek dflt;
 languagesystem kana dflt;
 
 feature calt {
+  # /=
+  sub slash.equal equal' by space;
+  sub slash' equal by slash.equal;
+
+  # !==
+  sub exclam.equal.triple equal' equal by equal.triple.space;
+  sub exclam' equal equal by exclam.equal.triple;
+
+  # ===
+  sub equal.triple.space equal' by space;
+  sub equal.triple equal' equal by equal.triple.space;
+  sub equal' equal equal by equal.triple;
+
+  # !=
+  # must come after !==
+  sub exclam.equal equal' by space;
+  sub exclam' equal by exclam.equal;
+
+  # ==
+  # must come after != and /=
+  sub equal.equal equal' by space;
+  sub equal' equal by equal.equal;
+
   # ->
-  sub hyphen' greater by arrow.thin;
   sub arrow.thin greater' by space;
+  sub hyphen' greater by arrow.thin;
 
   # =>
-  sub equal' greater by arrow.fat;
   sub arrow.thin greater' by space;
+  sub equal' greater by arrow.fat;
 } calt;

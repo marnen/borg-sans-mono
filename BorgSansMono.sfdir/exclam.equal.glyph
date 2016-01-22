@@ -1,0 +1,23 @@
+StartChar: exclam.equal
+Encoding: 65566 -1 901
+Width: 1229
+Flags: W
+HStem: 442 150<863 1983> 852 149<883 1983>
+LayerCount: 2
+Back
+Fore
+SplineSet
+883 1001 m 1
+ 1983 1001 l 1
+ 1983 852 l 1
+ 875 852 l 1
+ 883 1001 l 1
+863 592 m 1
+ 1983 592 l 1
+ 1983 442 l 1
+ 855 442 l 1
+ 863 592 l 1
+EndSplineSet
+Refer: 4 33 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar
