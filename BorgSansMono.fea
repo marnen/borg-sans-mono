@@ -13,6 +13,11 @@ feature calt {
   sub slash.equal equal' by space;
   sub slash' equal by slash.equal;
 
+  # ===
+  sub equal.triple.space equal' by space;
+  sub equal.triple equal' equal by equal.triple.space;
+  sub equal' equal equal by equal.triple;
+
   # ==
   # must come after != and /=
   sub equal.equal equal' by space;
