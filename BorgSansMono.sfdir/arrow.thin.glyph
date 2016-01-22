@@ -1,8 +1,8 @@
 StartChar: arrow.thin
 Encoding: 65563 -1 898
-Width: 2458
+Width: 1229
 Flags: W
-HStem: 639 168<285 1919.63>
+HStem: 639 168<285 1920>
 LayerCount: 2
 Back
 SplineSet
@@ -25,6 +25,4 @@ SplineSet
  1920 639 l 5,9,-1
  285 639 l 1,0,-1
 EndSplineSet
-LCarets2: 1 1230 
-Ligature2: "'liga' Standard Ligatures lookup 0-1" hyphen greater
 EndChar
