@@ -4,6 +4,8 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+* Widen -> ligature to match width of =>. [#2]
+
 ## 0.0.1 / 2016-01-22
 
 * Add equality ligatures (==, ===, !=, /=, !==).
