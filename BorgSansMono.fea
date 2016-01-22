@@ -5,6 +5,10 @@ languagesystem grek dflt;
 languagesystem kana dflt;
 
 feature calt {
+  # /=
+  sub slash' equal by slash.equal;
+  sub slash.equal equal' by space;
+
   # ->
   sub hyphen' greater by arrow.thin;
   sub arrow.thin greater' by space;
