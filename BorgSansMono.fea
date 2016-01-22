@@ -29,10 +29,10 @@ feature calt {
   sub equal' equal by equal.equal;
 
   # ->
-  sub arrow.thin greater' by space;
-  sub hyphen' greater by arrow.thin;
+  sub arrow.right.thin greater' by space;
+  sub hyphen' greater by arrow.right.thin;
 
   # =>
-  sub arrow.fat greater' by space;
-  sub equal' greater by arrow.fat;
+  sub arrow.right.fat greater' by space;
+  sub equal' greater by arrow.right.fat;
 } calt;
