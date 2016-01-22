@@ -11,3 +11,9 @@ I enjoy the ligatures in fonts like [Hasklig] and [Monoid], but I don't much lik
 [DroidSlashed]: http://blog.cosmix.org/2009/10/27/a-slashed-zero-droid-sans-mono/
 [Hasklig]: https://github.com/i-tu/Hasklig
 [Monoid]: https://larsenwork.com/monoid/
+
+## Screenshot
+
+I need to make a better one, but here are all the ligatures in v0.1.0:
+
+![[Screenshot of Borg Sans Mono]](screenshot.png)
