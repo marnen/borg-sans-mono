@@ -4,6 +4,8 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## 0.1.2 / 2016-01-25
+
 * Add a small nick to `==` ligature to distinguish from single `=`.
 
 ## 0.1.1 / 2016-01-25
