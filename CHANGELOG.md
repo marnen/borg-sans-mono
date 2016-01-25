@@ -4,6 +4,8 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## 0.1.1 / 2016-01-25
+
 * Don't use `=>` ligature in `<=>` ("spaceship" comparator operator).
 
 ## 0.1.0 / 2016-01-22
