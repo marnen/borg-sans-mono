@@ -36,6 +36,9 @@ feature calt {
   sub arrow.left.thin hyphen' by space;
   sub less' hyphen by arrow.left.thin;
 
+  # <=>
+  ignore sub less equal' greater;
+
   # =>
   sub arrow.right.fat greater' by space;
   sub equal' greater by arrow.right.fat;
