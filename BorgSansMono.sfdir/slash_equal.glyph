@@ -1,4 +1,4 @@
-StartChar: slash.equal
+StartChar: slash_equal
 Encoding: 65565 -1 900
 Width: 1229
 Flags: W
