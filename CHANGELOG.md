@@ -4,6 +4,10 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## 0.2.0 / 2016-01-27
+
+* Use underscores and dots in glyph names in a more conventional way. [#9]
+
 ## 0.1.2 / 2016-01-25
 
 * Add a small nick to `==` ligature to distinguish from single `=`.
