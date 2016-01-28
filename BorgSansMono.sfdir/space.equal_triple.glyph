@@ -1,4 +1,4 @@
-StartChar: equal.triple.space
+StartChar: space.equal_triple
 Encoding: 65569 -1 904
 Width: 1229
 Flags: W

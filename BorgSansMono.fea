@@ -6,40 +6,40 @@ languagesystem kana dflt;
 
 feature calt {
   # /=
-  sub slash.equal equal' by space;
-  sub slash' equal by slash.equal;
+  sub slash_equal equal' by space;
+  sub slash' equal by slash_equal;
 
   # !==
-  sub exclam.equal.triple equal' equal by equal.triple.space;
-  sub exclam' equal equal by exclam.equal.triple;
+  sub exclam_equal_equal equal' equal by space.equal_triple;
+  sub exclam' equal equal by exclam_equal_equal;
 
   # ===
-  sub equal.triple.space equal' by space;
-  sub equal.triple equal' equal by equal.triple.space;
-  sub equal' equal equal by equal.triple;
+  sub space.equal_triple equal' by space;
+  sub equal_triple equal' equal by space.equal_triple;
+  sub equal' equal equal by equal_triple;
 
   # !=
   # must come after !==
-  sub exclam.equal equal' by space;
-  sub exclam' equal by exclam.equal;
+  sub exclam_equal equal' by space;
+  sub exclam' equal by exclam_equal;
 
   # ==
   # must come after != and /=
-  sub equal.equal equal' by space;
-  sub equal' equal by equal.equal;
+  sub equal_equal equal' by space;
+  sub equal' equal by equal_equal;
 
   # ->
-  sub arrow.right.thin greater' by space;
-  sub hyphen' greater by arrow.right.thin;
+  sub arrow_right_single greater' by space;
+  sub hyphen' greater by arrow_right_single;
 
   # <-
-  sub arrow.left.thin hyphen' by space;
-  sub less' hyphen by arrow.left.thin;
+  sub arrow_left_single hyphen' by space;
+  sub less' hyphen by arrow_left_single;
 
   # <=>
   ignore sub less equal' greater;
 
   # =>
-  sub arrow.right.fat greater' by space;
-  sub equal' greater by arrow.right.fat;
+  sub arrow_right_double greater' by space;
+  sub equal' greater by arrow_right_double;
 } calt;
