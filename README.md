@@ -20,4 +20,4 @@ I need to make a better one, but here are all the ligatures in v0.1.2:
 
 ## Downloading
 
-All releases are available for download on the [releases page](/marnen/borg-sans-mono/releases).
+All releases are available for download on the [releases page](http://github.com/marnen/borg-sans-mono/releases).
