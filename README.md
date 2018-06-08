@@ -17,3 +17,7 @@ I enjoy the ligatures in fonts like [Hasklig] and [Monoid], but I don't much lik
 I need to make a better one, but here are all the ligatures in v0.1.2:
 
 ![[Screenshot of Borg Sans Mono]](screenshot.png)
+
+## Downloading
+
+All releases are available for download on the [releases page](/marnen/borg-sans-mono/releases).
