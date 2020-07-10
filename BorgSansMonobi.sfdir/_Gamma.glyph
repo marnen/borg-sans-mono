@@ -1,0 +1,17 @@
+StartChar: Gamma
+Encoding: 915 915 366
+Width: 1229
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+458.579101562 0 m 1,0,-1
+ 224 0 l 1,1,-1
+ 583.979095398 1462 l 1,2,-1
+ 1464.578125 1462 l 1,3,-1
+ 1411.48144531 1236 l 1,4,-1
+ 782.641060006 1236 l 1,5,-1
+ 458.579101562 0 l 1,0,-1
+EndSplineSet
+EndChar
