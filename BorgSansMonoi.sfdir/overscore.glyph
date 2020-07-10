@@ -1,0 +1,15 @@
+StartChar: overscore
+Encoding: 175 175 113
+Width: 1229
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1534.95937811 1551 m 1,0,-1
+ 334.727289553 1551 l 1,1,-1
+ 369.013003838 1701 l 1,2,-1
+ 1570.31652097 1701 l 1,3,-1
+ 1534.95937811 1551 l 1,0,-1
+EndSplineSet
+EndChar

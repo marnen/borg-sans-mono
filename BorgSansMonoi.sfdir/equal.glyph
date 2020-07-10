@@ -1,0 +1,29 @@
+StartChar: equal
+Encoding: 61 61 32
+Width: 1229
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1244.31152344 1006 m 1,0,-1
+ 1206.96289062 847 l 1,1,-1
+ 328.729492188 847 l 1,2,-1
+ 365.01171875 1006 l 1,3,-1
+ 1244.31152344 1006 l 1,0,-1
+1149.26074219 597 m 1,4,-1
+ 1112.99414062 437 l 1,5,-1
+ 233.698242188 437 l 1,6,-1
+ 271.03125 597 l 1,7,-1
+ 1149.26074219 597 l 1,4,-1
+EndSplineSet
+Substitution2: "Single Substitution lookup 17 subtable" arrow_right_double
+Substitution2: "Single Substitution lookup 11 subtable" equal_equal
+Substitution2: "Single Substitution lookup 10 subtable" space
+Substitution2: "Single Substitution lookup 8 subtable" space
+Substitution2: "Single Substitution lookup 7 subtable" equal_triple
+Substitution2: "Single Substitution lookup 6 subtable" space.equal_triple
+Substitution2: "Single Substitution lookup 5 subtable" space
+Substitution2: "Single Substitution lookup 3 subtable" space.equal_triple
+Substitution2: "Single Substitution lookup 1 subtable" space
+EndChar
