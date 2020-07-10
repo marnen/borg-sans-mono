@@ -1,0 +1,38 @@
+StartChar: equal
+Encoding: 61 61 64
+Width: 1229
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+122 822 m 1,0,-1
+ 122 1031 l 1,1,-1
+ 1165 1031 l 1,2,-1
+ 1165 822 l 1,3,-1
+ 122 822 l 1,0,-1
+122 412 m 1,4,-1
+ 122 622 l 1,5,-1
+ 1165 622 l 1,6,-1
+ 1165 412 l 1,7,-1
+ 122 412 l 1,4,-1
+EndSplineSet
+Substitution2: "<2,2> Cursive lookup 51 nested-substitutions 0 subtable" arrow_right_double
+Substitution2: "<2,2> Cursive lookup 38 nested-substitutions 0 subtable" equal_equal
+Substitution2: "<2,2> Cursive lookup 36 nested-substitutions 0 subtable" space
+Substitution2: "<2,2> Cursive lookup 32 nested-substitutions 0 subtable" space
+Substitution2: "<2,2> Cursive lookup 30 nested-substitutions 0 subtable" equal_triple
+Substitution2: "<2,2> Cursive lookup 28 nested-substitutions 0 subtable" space.equal_triple
+Substitution2: "<2,2> Cursive lookup 26 nested-substitutions 0 subtable" space
+Substitution2: "<2,2> Cursive lookup 22 nested-substitutions 0 subtable" space.equal_triple
+Substitution2: "<2,2> Cursive lookup 18 nested-substitutions 0 subtable" space
+Substitution2: "Single Substitution lookup 17 subtable" arrow_right_double
+Substitution2: "Single Substitution lookup 11 subtable" equal_equal
+Substitution2: "Single Substitution lookup 10 subtable" space
+Substitution2: "Single Substitution lookup 8 subtable" space
+Substitution2: "Single Substitution lookup 7 subtable" equal_triple
+Substitution2: "Single Substitution lookup 6 subtable" space.equal_triple
+Substitution2: "Single Substitution lookup 5 subtable" space
+Substitution2: "Single Substitution lookup 3 subtable" space.equal_triple
+Substitution2: "Single Substitution lookup 1 subtable" space
+EndChar

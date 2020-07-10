@@ -1,0 +1,21 @@
+StartChar: dotlessi
+Encoding: 305 305 308
+Width: 1229
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+541 907 m 1,0,-1
+ 272 927 l 1,1,-1
+ 272 1098 l 1,2,-1
+ 783 1098 l 1,3,-1
+ 829 191 l 1,4,-1
+ 1195 172 l 1,5,-1
+ 1195 0 l 1,6,-1
+ 197 0 l 1,7,-1
+ 197 172 l 1,8,-1
+ 554 191 l 1,9,-1
+ 541 907 l 1,0,-1
+EndSplineSet
+EndChar

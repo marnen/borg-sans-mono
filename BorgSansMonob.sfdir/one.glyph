@@ -1,0 +1,20 @@
+StartChar: one
+Encoding: 49 49 52
+Width: 1229
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+830 1462 m 1,0,-1
+ 830 0 l 1,1,-1
+ 594 0 l 1,2,-1
+ 594 906 l 2,3,4
+ 594 1004 594 1004 600 1181 c 1,5,6
+ 570 1155 570 1155 531 1122 c 2,7,-1
+ 360 987 l 1,8,-1
+ 225 1151 l 1,9,-1
+ 640 1462 l 1,10,-1
+ 830 1462 l 1,0,-1
+EndSplineSet
+EndChar

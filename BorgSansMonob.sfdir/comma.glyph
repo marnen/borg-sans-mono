@@ -1,0 +1,20 @@
+StartChar: comma
+Encoding: 44 44 47
+Width: 1229
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+402 -319 m 1,0,-1
+ 411 -282 l 2,1,2
+ 487 40 487 40 521 267 c 2,3,-1
+ 525 292 l 1,4,-1
+ 786 292 l 1,5,-1
+ 818 244 l 1,6,-1
+ 815 231 l 1,7,8
+ 757 4 757 4 619 -301 c 2,9,-1
+ 611 -319 l 1,10,-1
+ 402 -319 l 1,0,-1
+EndSplineSet
+EndChar
