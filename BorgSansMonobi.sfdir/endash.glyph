@@ -1,15 +1,15 @@
 StartChar: endash
 Encoding: 8211 8211 816
-Width: 1255
+Width: 612
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-1210.54895411 663 m 1,0,-1
- 1158.97752554 435 l 1,1,-1
- 237.232481274 435 l 1,2,-1
- 290.161052703 663 l 1,3,-1
- 1210.54895411 663 l 1,0,-1
+591 324 m 1,0,-1
+ 566 212 l 1,1,-1
+ 116 212 l 1,2,-1
+ 142 324 l 1,3,-1
+ 591 324 l 1,0,-1
 EndSplineSet
 EndChar

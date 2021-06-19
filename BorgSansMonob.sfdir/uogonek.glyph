@@ -1,10 +1,10 @@
 StartChar: uogonek
 Encoding: 371 371 374
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 Refer: 120 117 N 1 0 0 1 0 0 3
-Refer: 734 731 N 1 0 0 1 369 0 2
+Refer: 734 731 N 1 0 0 1 180 0 2
 EndChar

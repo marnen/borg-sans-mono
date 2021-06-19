@@ -1,15 +1,16 @@
 StartChar: fraction
 Encoding: 8260 8260 837
-Width: 1156
+Width: 564
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-145.442399183 -5 m 1,0,-1
- 1177.38494364 1467 l 1,1,-1
- 1336.55760082 1467 l 1,2,-1
- 304.615056357 -5 l 1,3,-1
- 145.442399183 -5 l 1,0,-1
+71 -2 m 1,0,-1
+ 575 716 l 1,1,-1
+ 653 716 l 1,2,-1
+ 149 -2 l 1,3,-1
+ 71 -2 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar

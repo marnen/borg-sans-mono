@@ -1,6 +1,6 @@
 StartChar: Aring
 Encoding: 197 197 135
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -57,9 +57,8 @@ SHC[rp1]
 SHC[rp1]
 EndTTInstrs
 LayerCount: 2
-Back
 Fore
 Refer: 36 65 N 1 0 0 1 0 0 3
-Refer: 342 730 N 1 0 0 1 0 125 2
+Refer: 342 730 N 1 0 0 1 0 61 2
 Validated: 5
 EndChar

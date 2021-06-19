@@ -1,6 +1,6 @@
 StartChar: dcaron
 Encoding: 271 271 209
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -35,9 +35,8 @@ SVTCA[y-axis]
 SHC[rp1]
 EndTTInstrs
 LayerCount: 2
-Back
 Fore
-Refer: 71 100 N 1 0 0 1 -58 0 2
-Refer: 876 -1 N 1 0 0 1 580 0 2
+Refer: 71 100 N 1 0 0 1 -28 0 2
+Refer: 876 -1 N 1 0 0 1 283 0 2
 Validated: 1
 EndChar

@@ -1,10 +1,11 @@
 StartChar: odieresis
 Encoding: 246 246 184
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 Refer: 82 111 N 1 0 0 1 0 0 3
-Refer: 106 168 N 1 0 0 1 3 0 2
+Refer: 106 168 N 1 0 0 1 1 0 2
+Validated: 1
 EndChar

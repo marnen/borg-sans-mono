@@ -1,6 +1,6 @@
 StartChar: less
 Encoding: 60 60 31
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -103,17 +103,16 @@ DELTAP1
 DELTAP1
 EndTTInstrs
 LayerCount: 2
-Back
 Fore
 SplineSet
-1075 221 m 1,0,-1
- 152 672 l 1,1,-1
- 152 774 l 1,2,-1
- 1075 1225 l 1,3,-1
- 1075 1065 l 1,4,-1
- 360 723 l 1,5,-1
- 1075 381 l 1,6,-1
- 1075 221 l 1,0,-1
+525 108 m 1,0,-1
+ 74 328 l 1,1,-1
+ 74 378 l 1,2,-1
+ 525 598 l 1,3,-1
+ 525 520 l 1,4,-1
+ 176 353 l 1,5,-1
+ 525 186 l 1,6,-1
+ 525 108 l 1,0,-1
 EndSplineSet
 Validated: 1
 EndChar

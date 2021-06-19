@@ -1,10 +1,10 @@
 StartChar: uni04DB
 Encoding: 1243 1243 1246
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 Refer: 1244 1241 N 1 0 0 1 0 0 3
-Refer: 171 168 N 1 0 0 1 62 0 2
+Refer: 171 168 N 1 0 0 1 30 0 2
 EndChar

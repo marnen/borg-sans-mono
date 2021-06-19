@@ -1,6 +1,6 @@
 StartChar: uni1ECA
 Encoding: 7882 7882 755
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -25,7 +25,6 @@ CALL
 SHC[rp1]
 EndTTInstrs
 LayerCount: 2
-Back
 Fore
 Refer: 44 73 N 1 0 0 1 0 0 3
 Refer: 352 803 N 1 0 0 1 0 0 2

@@ -1,6 +1,6 @@
 StartChar: grave
 Encoding: 96 96 67
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -37,16 +37,15 @@ IUP[x]
 IUP[y]
 EndTTInstrs
 LayerCount: 2
-Back
 Fore
 SplineSet
-811 1241 m 1,0,-1
- 690 1241 l 1,1,2
- 524 1383 524 1383 418 1548 c 1,3,-1
- 418 1569 l 1,4,-1
- 637 1569 l 1,5,6
- 723 1391 723 1391 811 1268 c 1,7,-1
- 811 1241 l 1,0,-1
+396 606 m 1,0,-1
+ 337 606 l 1,1,2
+ 256 675 256 675 204 756 c 1,3,-1
+ 204 766 l 1,4,-1
+ 311 766 l 1,5,6
+ 353 679 353 679 396 619 c 1,7,-1
+ 396 606 l 1,0,-1
 EndSplineSet
 Validated: 1
 EndChar

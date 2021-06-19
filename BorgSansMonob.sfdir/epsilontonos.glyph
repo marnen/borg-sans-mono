@@ -1,10 +1,10 @@
 StartChar: epsilontonos
 Encoding: 941 941 944
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 Refer: 952 949 N 1 0 0 1 0 0 3
-Refer: 903 900 N 1 0 0 1 156 0 2
+Refer: 903 900 N 1 0 0 1 76 0 2
 EndChar

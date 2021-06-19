@@ -1,16 +1,16 @@
 StartChar: slash
 Encoding: 47 47 18
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-137.645896396 -30 m 1,0,-1
- 1156.44343402 1492 l 1,1,-1
- 1392.32267233 1492 l 1,2,-1
- 374.566174379 -30 l 1,3,-1
- 137.645896396 -30 l 1,0,-1
+67 -15 m 1,0,-1
+ 565 729 l 1,1,-1
+ 680 729 l 1,2,-1
+ 183 -15 l 1,3,-1
+ 67 -15 l 1,0,-1
 EndSplineSet
 Substitution2: "Single Substitution lookup 2 subtable" slash_equal
 EndChar

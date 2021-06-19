@@ -1,6 +1,6 @@
 StartChar: sevensuperior
 Encoding: 65548 -1 883
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -59,17 +59,16 @@ IUP[x]
 IUP[y]
 EndTTInstrs
 LayerCount: 2
-Back
 Fore
 SplineSet
-451 672 m 1,0,-1
- 760 1341 l 1,1,-1
- 367 1341 l 1,2,-1
- 367 1462 l 1,3,-1
- 915 1462 l 1,4,-1
- 915 1362 l 1,5,-1
- 606 672 l 1,6,-1
- 451 672 l 1,0,-1
+220 328 m 1,0,-1
+ 371 655 l 1,1,-1
+ 179 655 l 1,2,-1
+ 179 714 l 1,3,-1
+ 447 714 l 1,4,-1
+ 447 665 l 1,5,-1
+ 296 328 l 1,6,-1
+ 220 328 l 1,0,-1
 EndSplineSet
 Validated: 1
 EndChar

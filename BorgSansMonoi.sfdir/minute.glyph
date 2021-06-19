@@ -1,9 +1,10 @@
 StartChar: minute
 Encoding: 8242 8242 832
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 Refer: 10 39 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar

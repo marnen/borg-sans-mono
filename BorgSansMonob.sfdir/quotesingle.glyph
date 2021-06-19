@@ -1,15 +1,15 @@
 StartChar: quotesingle
 Encoding: 39 39 42
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-509 904 m 1,0,-1
- 464 1492 l 1,1,-1
- 765 1492 l 1,2,-1
- 720 904 l 1,3,-1
- 509 904 l 1,0,-1
+249 441 m 1,0,-1
+ 227 729 l 1,1,-1
+ 374 729 l 1,2,-1
+ 352 441 l 1,3,-1
+ 249 441 l 1,0,-1
 EndSplineSet
 EndChar

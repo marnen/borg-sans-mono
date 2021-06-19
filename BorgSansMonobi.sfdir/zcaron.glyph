@@ -1,10 +1,10 @@
 StartChar: zcaron
 Encoding: 382 382 320
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 Refer: 93 122 N 1 0 0 1 0 0 3
-Refer: 338 711 N 1 0 0 1 79.7623 0 2
+Refer: 338 711 N 1 0 0 1 39 0 2
 EndChar

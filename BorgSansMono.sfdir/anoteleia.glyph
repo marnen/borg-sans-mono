@@ -1,6 +1,6 @@
 StartChar: anoteleia
 Encoding: 903 903 356
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -40,14 +40,13 @@ IUP[x]
 IUP[y]
 EndTTInstrs
 LayerCount: 2
-Back
 Fore
 SplineSet
-614 862 m 256,0,1
- 741 862 741 862 741 723 c 256,2,3
- 741 584 741 584 614 584 c 256,4,5
- 487 584 487 584 487 723 c 256,6,7
- 487 862 487 862 614 862 c 256,0,1
+300 421 m 256,0,1
+ 362 421 362 421 362 353 c 256,2,3
+ 362 285 362 285 300 285 c 256,4,5
+ 238 285 238 285 238 353 c 256,6,7
+ 238 421 238 421 300 421 c 256,0,1
 EndSplineSet
 Validated: 1
 EndChar

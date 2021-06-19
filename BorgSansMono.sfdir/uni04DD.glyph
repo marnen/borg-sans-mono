@@ -1,6 +1,6 @@
 StartChar: uni04DD
 Encoding: 1245 1245 648
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -30,7 +30,6 @@ SHC[rp1]
 SHC[rp1]
 EndTTInstrs
 LayerCount: 2
-Back
 Fore
 Refer: 482 1078 N 1 0 0 1 0 0 3
 Refer: 106 168 N 1 0 0 1 0 0 2

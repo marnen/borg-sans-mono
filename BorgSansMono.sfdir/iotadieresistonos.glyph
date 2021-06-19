@@ -1,6 +1,6 @@
 StartChar: iotadieresistonos
 Encoding: 912 912 363
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -23,9 +23,8 @@ SHC[rp1]
 SHC[rp1]
 EndTTInstrs
 LayerCount: 2
-Back
 Fore
 Refer: 403 953 N 1 0 0 1 0 0 3
-Refer: 354 901 N 1 0 0 1 -58 0 2
+Refer: 354 901 N 1 0 0 1 -28 0 2
 Validated: 1
 EndChar

@@ -1,10 +1,11 @@
 StartChar: uni04F8
 Encoding: 1272 1272 675
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 Refer: 471 1067 N 1 0 0 1 0 0 3
-Refer: 106 168 N 1 0 0 1 13.2887 338 2
+Refer: 106 168 N 1 0 0 1 6 165 2
+Validated: 1
 EndChar

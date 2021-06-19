@@ -1,6 +1,6 @@
 StartChar: quotedbl
 Encoding: 34 34 5
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -52,19 +52,18 @@ IUP[x]
 IUP[y]
 EndTTInstrs
 LayerCount: 2
-Back
 Fore
 SplineSet
-522 1462 m 1,0,-1
- 481 934 l 1,1,-1
- 326 934 l 1,2,-1
- 285 1462 l 1,3,-1
- 522 1462 l 1,0,-1
-944 1462 m 1,4,-1
- 903 934 l 1,5,-1
- 748 934 l 1,6,-1
- 707 1462 l 1,7,-1
- 944 1462 l 1,4,-1
+255 714 m 1,0,-1
+ 235 456 l 1,1,-1
+ 159 456 l 1,2,-1
+ 139 714 l 1,3,-1
+ 255 714 l 1,0,-1
+461 714 m 1,4,-1
+ 441 456 l 1,5,-1
+ 365 456 l 1,6,-1
+ 345 714 l 1,7,-1
+ 461 714 l 1,4,-1
 EndSplineSet
 Validated: 1
 EndChar

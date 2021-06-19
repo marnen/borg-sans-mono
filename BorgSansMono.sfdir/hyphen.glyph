@@ -1,6 +1,6 @@
 StartChar: hyphen
 Encoding: 45 45 16
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -38,14 +38,13 @@ IUP[x]
 IUP[y]
 EndTTInstrs
 LayerCount: 2
-Back
 Fore
 SplineSet
-285 465 m 1,0,-1
- 285 633 l 1,1,-1
- 944 633 l 1,2,-1
- 944 465 l 1,3,-1
- 285 465 l 1,0,-1
+139 227 m 1,0,-1
+ 139 309 l 1,1,-1
+ 461 309 l 1,2,-1
+ 461 227 l 1,3,-1
+ 139 227 l 1,0,-1
 EndSplineSet
 Validated: 1
 EndChar

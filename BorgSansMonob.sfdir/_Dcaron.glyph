@@ -1,10 +1,10 @@
 StartChar: Dcaron
 Encoding: 270 270 273
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 Refer: 71 68 N 1 0 0 1 0 0 3
-Refer: 714 711 N 1 0 0 1 51 338 2
+Refer: 714 711 N 1 0 0 1 25 165 2
 EndChar

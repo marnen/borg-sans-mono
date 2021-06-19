@@ -1,19 +1,19 @@
 StartChar: greater
 Encoding: 62 62 33
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-957.924089411 726.171485718 m 1,0,-1
- 349.791441747 1050.24805845 l 1,1,-1
- 402.03489537 1271.89193374 l 1,2,-1
- 1269.04871056 788.590929346 l 1,3,-1
- 1238.03758533 651.063330495 l 1,4,-1
- 145.870350863 167.670368144 l 1,5,-1
- 200.082119379 402.0996374 l 1,6,-1
- 957.924089411 726.171485718 l 1,0,-1
+468 355 m 1,0,-1
+ 171 513 l 1,1,-1
+ 196 621 l 1,2,-1
+ 620 385 l 1,3,-1
+ 605 318 l 1,4,-1
+ 71 82 l 1,5,-1
+ 98 196 l 1,6,-1
+ 468 355 l 1,0,-1
 EndSplineSet
 Substitution2: "Single Substitution lookup 16 subtable" space
 Substitution2: "Single Substitution lookup 12 subtable" space

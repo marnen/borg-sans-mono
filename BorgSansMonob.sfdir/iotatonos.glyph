@@ -1,10 +1,10 @@
 StartChar: iotatonos
 Encoding: 943 943 946
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 Refer: 956 953 N 1 0 0 1 0 0 3
-Refer: 903 900 N 1 0 0 1 21 0 2
+Refer: 903 900 N 1 0 0 1 10 0 2
 EndChar

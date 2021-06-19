@@ -1,16 +1,16 @@
 StartChar: hyphen
 Encoding: 45 45 16
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-381.02247446 663 m 1,0,-1
- 1115.54895411 663 l 1,1,-1
- 1063.97752554 435 l 1,2,-1
- 329.451045889 435 l 1,3,-1
- 381.02247446 663 l 1,0,-1
+186 324 m 1,0,-1
+ 545 324 l 1,1,-1
+ 520 212 l 1,2,-1
+ 161 212 l 1,3,-1
+ 186 324 l 1,0,-1
 EndSplineSet
 Substitution2: "Single Substitution lookup 14 subtable" space
 Substitution2: "Single Substitution lookup 13 subtable" arrow_right_single

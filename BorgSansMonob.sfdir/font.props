@@ -6,10 +6,10 @@ Weight: Book
 Copyright: Digitized data copyright (c) 2007, Google Corporation.\nSlashed Zero Modification (c) 2009, cosmix.org\nLigatures copyright (c) 2016, Marnen E. Laibow-Koser
 Version: 0.2.0
 ItalicAngle: 0
-UnderlinePosition: -205
-UnderlineWidth: 102
-Ascent: 1638
-Descent: 410
+UnderlinePosition: -100
+UnderlineWidth: 49
+Ascent: 800
+Descent: 200
 InvalidEm: 0
 sfntRevision: 0x00010000
 LayerCount: 2
@@ -22,38 +22,38 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1168259284
-ModificationTime: 1594357503
+ModificationTime: 1624116964
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
 Panose: 2 11 6 9 3 8 4 2 2 4
-OS2TypoAscent: 1567
+OS2TypoAscent: 800
 OS2TypoAOffset: 0
-OS2TypoDescent: -492
+OS2TypoDescent: -200
 OS2TypoDOffset: 0
-OS2TypoLinegap: 132
-OS2WinAscent: 1901
+OS2TypoLinegap: 64
+OS2WinAscent: 800
 OS2WinAOffset: 0
-OS2WinDescent: 483
+OS2WinDescent: 200
 OS2WinDOffset: 0
-HheadAscent: 1901
+HheadAscent: 800
 HheadAOffset: 0
-HheadDescent: -483
+HheadDescent: 200
 HheadDOffset: 0
-OS2SubXSize: 1434
-OS2SubYSize: 1331
+OS2SubXSize: 700
+OS2SubYSize: 650
 OS2SubXOff: 0
-OS2SubYOff: 286
-OS2SupXSize: 1434
-OS2SupYSize: 1331
+OS2SubYOff: 140
+OS2SupXSize: 700
+OS2SupYSize: 650
 OS2SupXOff: 0
-OS2SupYOff: 976
-OS2StrikeYSize: 102
-OS2StrikeYPos: 498
-OS2CapHeight: 1462
-OS2XHeight: 1098
+OS2SupYOff: 477
+OS2StrikeYSize: 50
+OS2StrikeYPos: 243
+OS2CapHeight: 714
+OS2XHeight: 536
 OS2Vendor: '1ASC'
 OS2CodePages: 2000019f.00000000
 OS2UnicodeRanges: e00002ef.4000205b.00000028.00000000
@@ -3374,5 +3374,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 44 22 9
+WinInfo: 30 15 9
+BeginPrivate: 0
+EndPrivate
 EndSplineFont

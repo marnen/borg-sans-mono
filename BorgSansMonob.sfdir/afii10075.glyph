@@ -1,10 +1,10 @@
 StartChar: afii10075
 Encoding: 1081 1081 1084
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 Refer: 1083 1080 N 1 0 0 1 0 0 3
-Refer: 1474 -1 N 1 0 0 1 97 0 2
+Refer: 1474 -1 N 1 0 0 1 47 0 2
 EndChar

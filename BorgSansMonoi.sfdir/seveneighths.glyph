@@ -1,11 +1,12 @@
 StartChar: seveneighths
 Encoding: 8542 8542 853
-Width: 1139
+Width: 556
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 883 -1 N 1 0 0 1 -339 0 3
-Refer: 837 8260 N 1 0 0 1 -81 0 2
-Refer: 884 -1 N 1 0 0 1 362 -665 2
+Refer: 883 -1 N 1 0 0 1 -166 0 3
+Refer: 837 8260 N 1 0 0 1 -40 0 2
+Refer: 884 -1 N 1 0 0 1 177 -325 2
+Validated: 1
 EndChar

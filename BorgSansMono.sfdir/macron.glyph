@@ -1,6 +1,6 @@
 StartChar: macron
 Encoding: 713 713 339
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -70,14 +70,13 @@ IUP[x]
 IUP[y]
 EndTTInstrs
 LayerCount: 2
-Back
 Fore
 SplineSet
-326 1391 m 1,0,-1
- 901 1391 l 1,1,-1
- 901 1241 l 1,2,-1
- 326 1241 l 1,3,-1
- 326 1391 l 1,0,-1
+159 679 m 1,0,-1
+ 440 679 l 1,1,-1
+ 440 606 l 1,2,-1
+ 159 606 l 1,3,-1
+ 159 679 l 1,0,-1
 EndSplineSet
 Validated: 1
 EndChar

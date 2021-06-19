@@ -1,10 +1,10 @@
 StartChar: Atilde
 Encoding: 195 195 198
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 Refer: 68 65 N 1 0 0 1 0 0 3
-Refer: 735 732 N 1 0 0 1 70 338 2
+Refer: 735 732 N 1 0 0 1 34 165 2
 EndChar

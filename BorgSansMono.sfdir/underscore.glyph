@@ -1,6 +1,6 @@
 StartChar: underscore
 Encoding: 95 95 66
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -24,14 +24,13 @@ IUP[x]
 IUP[y]
 EndTTInstrs
 LayerCount: 2
-Back
 Fore
 SplineSet
-1243 -324 m 1,0,-1
- -16 -324 l 1,1,-1
- -16 -184 l 1,2,-1
- 1243 -184 l 1,3,-1
- 1243 -324 l 1,0,-1
+607 -158 m 1,0,-1
+ -8 -158 l 1,1,-1
+ -8 -90 l 1,2,-1
+ 607 -90 l 1,3,-1
+ 607 -158 l 1,0,-1
 EndSplineSet
 Validated: 1
 EndChar

@@ -1,10 +1,11 @@
 StartChar: zdotaccent
 Encoding: 380 380 318
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 Refer: 93 122 N 1 0 0 1 0 0 3
-Refer: 341 729 N 1 0 0 1 27.2937 0 2
+Refer: 341 729 N 1 0 0 1 13 0 2
+Validated: 1
 EndChar

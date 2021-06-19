@@ -1,11 +1,11 @@
 StartChar: fiveeighths
 Encoding: 8541 8541 1452
-Width: 1289
+Width: 629
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1481 -1 N 1 0 0 1 -312 0 3
-Refer: 1437 8260 N 1 0 0 1 -17 0 2
-Refer: 1484 -1 N 1 0 0 1 362 -665 2
+Refer: 1481 -1 N 1 0 0 1 -152 0 3
+Refer: 1437 8260 N 1 0 0 1 -8 0 2
+Refer: 1484 -1 N 1 0 0 1 177 -325 2
 EndChar

@@ -1,18 +1,18 @@
 StartChar: sevensuperior
 Encoding: 65548 -1 1483
-Width: 1289
+Width: 629
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-337 1311 m 1,0,-1
- 337 1492 l 1,1,-1
- 945 1492 l 1,2,-1
- 945 1356 l 1,3,-1
- 625 642 l 1,4,-1
- 404 642 l 1,5,-1
- 713 1311 l 1,6,-1
- 337 1311 l 1,0,-1
+165 640 m 1,0,-1
+ 165 729 l 1,1,-1
+ 461 729 l 1,2,-1
+ 461 662 l 1,3,-1
+ 305 313 l 1,4,-1
+ 197 313 l 1,5,-1
+ 348 640 l 1,6,-1
+ 165 640 l 1,0,-1
 EndSplineSet
 EndChar

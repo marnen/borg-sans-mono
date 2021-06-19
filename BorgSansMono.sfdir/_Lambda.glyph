@@ -1,6 +1,6 @@
 StartChar: Lambda
 Encoding: 923 923 374
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -192,19 +192,18 @@ DELTAP1
 CALL
 EndTTInstrs
 LayerCount: 2
-Back
 Fore
 SplineSet
-1196 0 m 1,0,-1
- 997 0 l 1,1,-1
- 705 922 l 2,2,3
- 642 1121 642 1121 612 1262 c 1,4,5
- 567 1062 567 1062 524 928 c 2,6,-1
- 229 0 l 1,7,-1
- 33 0 l 1,8,-1
- 520 1462 l 1,9,-1
- 707 1462 l 1,10,-1
- 1196 0 l 1,0,-1
+584 0 m 1,0,-1
+ 487 0 l 1,1,-1
+ 344 450 l 2,2,3
+ 313 547 313 547 299 616 c 1,4,5
+ 277 518 277 518 256 453 c 2,6,-1
+ 112 0 l 1,7,-1
+ 16 0 l 1,8,-1
+ 254 714 l 1,9,-1
+ 345 714 l 1,10,-1
+ 584 0 l 1,0,-1
 EndSplineSet
 Validated: 1
 EndChar

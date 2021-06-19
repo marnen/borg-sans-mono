@@ -1,6 +1,6 @@
 StartChar: dotlessi
 Encoding: 305 305 243
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -47,20 +47,19 @@ IUP[x]
 IUP[y]
 EndTTInstrs
 LayerCount: 2
-Back
 Fore
 SplineSet
-541 954 m 1,0,-1
- 272 975 l 1,1,-1
- 272 1098 l 1,2,-1
- 723 1098 l 1,3,-1
- 723 143 l 1,4,-1
- 1075 123 l 1,5,-1
- 1075 0 l 1,6,-1
- 197 0 l 1,7,-1
- 197 123 l 1,8,-1
- 541 143 l 1,9,-1
- 541 954 l 1,0,-1
+264 466 m 1,0,-1
+ 133 476 l 1,1,-1
+ 133 536 l 1,2,-1
+ 353 536 l 1,3,-1
+ 353 70 l 1,4,-1
+ 525 60 l 1,5,-1
+ 525 0 l 1,6,-1
+ 96 0 l 1,7,-1
+ 96 60 l 1,8,-1
+ 264 70 l 1,9,-1
+ 264 466 l 1,0,-1
 EndSplineSet
 Validated: 1
 EndChar

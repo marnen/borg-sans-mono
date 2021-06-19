@@ -1,15 +1,15 @@
 StartChar: overscore
 Encoding: 175 175 178
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-1339 1526 m 1,0,-1
- -50 1526 l 1,1,-1
- -50 1726 l 1,2,-1
- 1339 1726 l 1,3,-1
- 1339 1526 l 1,0,-1
+654 745 m 1,0,-1
+ -24 745 l 1,1,-1
+ -24 843 l 1,2,-1
+ 654 843 l 1,3,-1
+ 654 745 l 1,0,-1
 EndSplineSet
 EndChar

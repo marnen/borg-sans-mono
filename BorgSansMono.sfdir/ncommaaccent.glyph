@@ -1,6 +1,6 @@
 StartChar: ncommaaccent
 Encoding: 326 326 264
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -26,9 +26,8 @@ CALL
 SHC[rp1]
 EndTTInstrs
 LayerCount: 2
-Back
 Fore
 Refer: 81 110 N 1 0 0 1 0 0 3
-Refer: 877 -1 N 1 0 0 1 -28 0 2
+Refer: 877 -1 N 1 0 0 1 -14 0 2
 Validated: 1
 EndChar

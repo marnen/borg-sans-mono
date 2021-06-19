@@ -1,6 +1,6 @@
 StartChar: quotereversed
 Encoding: 8219 8219 823
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -46,15 +46,14 @@ IUP[x]
 IUP[y]
 EndTTInstrs
 LayerCount: 2
-Back
 Fore
 SplineSet
-680 1462 m 1,0,1
- 720 1203 720 1203 780 961 c 1,2,-1
- 623 961 l 1,3,4
- 499 1235 499 1235 446 1440 c 1,5,-1
- 461 1462 l 1,6,-1
- 680 1462 l 1,0,1
+332 714 m 1,0,1
+ 352 588 352 588 381 469 c 1,2,-1
+ 304 469 l 1,3,4
+ 243 603 243 603 218 703 c 1,5,-1
+ 225 714 l 1,6,-1
+ 332 714 l 1,0,1
 EndSplineSet
 Validated: 1
 EndChar

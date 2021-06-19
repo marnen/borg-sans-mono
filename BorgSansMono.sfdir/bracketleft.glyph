@@ -1,6 +1,6 @@
 StartChar: bracketleft
 Encoding: 91 91 62
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -57,18 +57,17 @@ IUP[x]
 IUP[y]
 EndTTInstrs
 LayerCount: 2
-Back
 Fore
 SplineSet
-940 -324 m 1,0,-1
- 412 -324 l 1,1,-1
- 412 1462 l 1,2,-1
- 940 1462 l 1,3,-1
- 940 1313 l 1,4,-1
- 594 1313 l 1,5,-1
- 594 -174 l 1,6,-1
- 940 -174 l 1,7,-1
- 940 -324 l 1,0,-1
+459 -158 m 1,0,-1
+ 201 -158 l 1,1,-1
+ 201 714 l 1,2,-1
+ 459 714 l 1,3,-1
+ 459 641 l 1,4,-1
+ 290 641 l 1,5,-1
+ 290 -85 l 1,6,-1
+ 459 -85 l 1,7,-1
+ 459 -158 l 1,0,-1
 EndSplineSet
 Validated: 1
 EndChar

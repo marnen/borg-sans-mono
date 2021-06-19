@@ -1,6 +1,6 @@
 StartChar: uni04F1
 Encoding: 1265 1265 668
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -29,9 +29,8 @@ SHC[rp1]
 SHC[rp1]
 EndTTInstrs
 LayerCount: 2
-Back
 Fore
 Refer: 92 121 N 1 0 0 1 0 0 3
-Refer: 106 168 N 1 0 0 1 8 0 2
+Refer: 106 168 N 1 0 0 1 4 0 2
 Validated: 1
 EndChar

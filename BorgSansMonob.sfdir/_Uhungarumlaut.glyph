@@ -1,10 +1,10 @@
 StartChar: Uhungarumlaut
 Encoding: 368 368 371
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 Refer: 88 85 N 1 0 0 1 0 0 3
-Refer: 736 733 N 1 0 0 1 136 338 2
+Refer: 736 733 N 1 0 0 1 66 165 2
 EndChar

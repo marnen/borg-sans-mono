@@ -1,15 +1,15 @@
 StartChar: backslash
 Encoding: 92 92 95
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-878 -30 m 1,0,-1
- 165 1492 l 1,1,-1
- 409 1492 l 1,2,-1
- 1122 -30 l 1,3,-1
- 878 -30 l 1,0,-1
+429 -15 m 1,0,-1
+ 81 729 l 1,1,-1
+ 200 729 l 1,2,-1
+ 548 -15 l 1,3,-1
+ 429 -15 l 1,0,-1
 EndSplineSet
 EndChar

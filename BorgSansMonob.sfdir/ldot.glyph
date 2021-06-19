@@ -1,10 +1,10 @@
 StartChar: ldot
 Encoding: 320 320 323
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 Refer: 111 108 N 1 0 0 1 0 0 3
-Refer: 732 729 N 1 0 0 1 418 -712 2
+Refer: 732 729 N 1 0 0 1 204 -348 2
 EndChar

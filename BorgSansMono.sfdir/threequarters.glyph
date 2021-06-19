@@ -1,6 +1,6 @@
 StartChar: threequarters
 Encoding: 190 190 128
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -62,10 +62,9 @@ SHC[rp1]
 SHC[rp1]
 EndTTInstrs
 LayerCount: 2
-Back
 Fore
-Refer: 117 179 N 1 0 0 1 -321 0 3
-Refer: 837 8260 N 1 0 0 1 53 0 2
-Refer: 880 -1 N 1 0 0 1 334 -679 2
+Refer: 117 179 N 1 0 0 1 -157 0 3
+Refer: 837 8260 N 1 0 0 1 26 0 2
+Refer: 880 -1 N 1 0 0 1 163 -332 2
 Validated: 1
 EndChar
