@@ -23,6 +23,7 @@ SplineSet
  223 91 223 91 240 111 c 0,22,23
  264 137 264 137 302 137 c 0,4,5
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 9 subtable" exclam_equal
 Substitution2: "Single Substitution lookup 4 subtable" exclam_equal_equal
 EndChar
