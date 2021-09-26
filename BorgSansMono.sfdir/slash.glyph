@@ -43,4 +43,5 @@ SplineSet
  496 714 l 1,0,-1
 EndSplineSet
 Validated: 1
+Substitution2: "Single Substitution lookup 2 subtable" slash_equal
 EndChar
