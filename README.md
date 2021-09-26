@@ -12,11 +12,13 @@ I enjoy the ligatures in fonts like [Hasklig] and [Monoid], but I don't much lik
 [Hasklig]: https://github.com/i-tu/Hasklig
 [Monoid]: https://larsenwork.com/monoid/
 
-## Screenshot
+## Screenshots
 
-I need to make a better one, but here are all the ligatures in v0.1.2:
+![[Usual Letters]](letters.png)
 
-![[Screenshot of Borg Sans Mono]](screenshot.png)
+![[United Ligatures]](untied.png)
+
+![[Tied Ligatures]](tied.png)
 
 ## Downloading
 
