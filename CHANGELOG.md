@@ -6,7 +6,8 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## 0.3.2 / 2021-09-26
 
-* re-add substitutions
+* Re-add substitutions
+* Add |> ligature
 
 ## 0.3.1 / 2021-06-19
 

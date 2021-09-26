@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1168259284
-ModificationTime: 1632639783
+ModificationTime: 1632674419
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -56,7 +56,7 @@ OS2XHeight: 536
 OS2Vendor: '1ASC'
 OS2CodePages: 2000019f.00000000
 OS2UnicodeRanges: e00002ef.4000205b.00000028.00000000
-Lookup: 6 0 0 "'calt' Contextual Alternates lookup 0" { "'calt' Contextual Alternates lookup 0 contextual 0"  "'calt' Contextual Alternates lookup 0 contextual 1"  "'calt' Contextual Alternates lookup 0 contextual 2"  "'calt' Contextual Alternates lookup 0 contextual 3"  "'calt' Contextual Alternates lookup 0 contextual 4"  "'calt' Contextual Alternates lookup 0 contextual 5"  "'calt' Contextual Alternates lookup 0 contextual 6"  "'calt' Contextual Alternates lookup 0 contextual 7"  "'calt' Contextual Alternates lookup 0 contextual 8"  "'calt' Contextual Alternates lookup 0 contextual 9"  "'calt' Contextual Alternates lookup 0 contextual 10"  "'calt' Contextual Alternates lookup 0 contextual 11"  "'calt' Contextual Alternates lookup 0 contextual 12"  "'calt' Contextual Alternates lookup 0 contextual 13"  "'calt' Contextual Alternates lookup 0 contextual 14"  "'calt' Contextual Alternates lookup 0 contextual 15"  "'calt' Contextual Alternates lookup 0 contextual 16"  "'calt' Contextual Alternates lookup 0 contextual 17"  } ['calt' ('kana' <'dflt' > 'grek' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "'calt' Contextual Alternates lookup 0" { "'calt' Contextual Alternates lookup 0 contextual 0"  "'calt' Contextual Alternates lookup 0 contextual 1"  "'calt' Contextual Alternates lookup 0 contextual 2"  "'calt' Contextual Alternates lookup 0 contextual 3"  "'calt' Contextual Alternates lookup 0 contextual 4"  "'calt' Contextual Alternates lookup 0 contextual 5"  "'calt' Contextual Alternates lookup 0 contextual 6"  "'calt' Contextual Alternates lookup 0 contextual 7"  "'calt' Contextual Alternates lookup 0 contextual 8"  "'calt' Contextual Alternates lookup 0 contextual 9"  "'calt' Contextual Alternates lookup 0 contextual 10"  "'calt' Contextual Alternates lookup 0 contextual 11"  "'calt' Contextual Alternates lookup 0 contextual 12"  "'calt' Contextual Alternates lookup 0 contextual 13"  "'calt' Contextual Alternates lookup 0 contextual 14"  "'calt' Contextual Alternates lookup 0 contextual 15"  "'calt' Contextual Alternates lookup 0 contextual 16"  "'calt' Contextual Alternates lookup 0 contextual 17"  "'calt' Contextual Alternates lookup 0 contextual 18"  "'calt' Contextual Alternates lookup 0 contextual 19"  } ['calt' ('kana' <'dflt' > 'grek' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 1" { "Single Substitution lookup 1 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 2" { "Single Substitution lookup 2 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 3" { "Single Substitution lookup 3 subtable"  } []
@@ -74,8 +74,24 @@ Lookup: 1 0 0 "Single Substitution lookup 14" { "Single Substitution lookup 14 s
 Lookup: 1 0 0 "Single Substitution lookup 15" { "Single Substitution lookup 15 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 16" { "Single Substitution lookup 16 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 17" { "Single Substitution lookup 17 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 18" { "Single Substitution lookup 18 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 19" { "Single Substitution lookup 19 subtable"  } []
 MarkAttachClasses: 1
 DEI: 91125
+ChainSub2: glyph "'calt' Contextual Alternates lookup 0 contextual 19" 0 0 0 1
+ String: 3 bar
+ BString: 0 
+ FString: 7 greater
+ 1
+  SeqLookup: 0 "Single Substitution lookup 19"
+EndFPST
+ChainSub2: glyph "'calt' Contextual Alternates lookup 0 contextual 18" 0 0 0 1
+ String: 7 greater
+ BString: 11 bar_greater
+ FString: 0 
+ 1
+  SeqLookup: 0 "Single Substitution lookup 18"
+EndFPST
 ChainSub2: glyph "'calt' Contextual Alternates lookup 0 contextual 17" 0 0 0 1
  String: 5 equal
  BString: 0 
@@ -2891,7 +2907,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 65528 8 6
+WinInfo: 65520 10 6
 BeginPrivate: 0
 EndPrivate
 Grid

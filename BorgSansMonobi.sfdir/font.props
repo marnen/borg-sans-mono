@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1168259284
-ModificationTime: 1632639879
+ModificationTime: 1632675544
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -75,8 +75,167 @@ Lookup: 1 0 0 "Single Substitution lookup 14" { "Single Substitution lookup 14 s
 Lookup: 1 0 0 "Single Substitution lookup 15" { "Single Substitution lookup 15 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 16" { "Single Substitution lookup 16 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 17" { "Single Substitution lookup 17 subtable"  } []
+Lookup: 6 0 0 "caltContextualAlternateslookup0" { "caltContextualAlternateslookup0 contextual 0"  "caltContextualAlternateslookup0 contextual 1"  "caltContextualAlternateslookup0 contextual 2"  "caltContextualAlternateslookup0 contextual 3"  "caltContextualAlternateslookup0 contextual 4"  "caltContextualAlternateslookup0 contextual 5"  "caltContextualAlternateslookup0 contextual 6"  "caltContextualAlternateslookup0 contextual 7"  "caltContextualAlternateslookup0 contextual 8"  "caltContextualAlternateslookup0 contextual 9"  "caltContextualAlternateslookup0 contextual 10"  "caltContextualAlternateslookup0 contextual 11"  "caltContextualAlternateslookup0 contextual 12"  "caltContextualAlternateslookup0 contextual 13"  "caltContextualAlternateslookup0 contextual 14"  "caltContextualAlternateslookup0 contextual 15"  "caltContextualAlternateslookup0 contextual 16"  "caltContextualAlternateslookup0 contextual 17"  "caltContextualAlternateslookup0 contextual 18"  "caltContextualAlternateslookup0 contextual 19"  } ['calt' ('latn' <'dflt' > 'kana' <'dflt' > 'grek' <'dflt' > 'cyrl' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 19" { "Single Substitution lookup 19 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 20" { "Single Substitution lookup 20 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 21" { "Single Substitution lookup 21 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 22" { "Single Substitution lookup 22 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 23" { "Single Substitution lookup 23 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 24" { "Single Substitution lookup 24 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 25" { "Single Substitution lookup 25 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 26" { "Single Substitution lookup 26 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 27" { "Single Substitution lookup 27 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 28" { "Single Substitution lookup 28 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 29" { "Single Substitution lookup 29 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 30" { "Single Substitution lookup 30 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 31" { "Single Substitution lookup 31 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 32" { "Single Substitution lookup 32 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 33" { "Single Substitution lookup 33 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 34" { "Single Substitution lookup 34 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 35" { "Single Substitution lookup 35 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 36" { "Single Substitution lookup 36 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 37" { "Single Substitution lookup 37 subtable"  } []
 MarkAttachClasses: 1
 DEI: 91125
+ChainSub2: glyph "caltContextualAlternateslookup0 contextual 19" 0 0 0 1
+ String: 3 bar
+ BString: 0 
+ FString: 7 greater
+ 1
+  SeqLookup: 0 "Single Substitution lookup 37"
+EndFPST
+ChainSub2: glyph "caltContextualAlternateslookup0 contextual 18" 0 0 0 1
+ String: 7 greater
+ BString: 11 bar_greater
+ FString: 0 
+ 1
+  SeqLookup: 0 "Single Substitution lookup 36"
+EndFPST
+ChainSub2: glyph "caltContextualAlternateslookup0 contextual 17" 0 0 0 1
+ String: 5 equal
+ BString: 0 
+ FString: 7 greater
+ 1
+  SeqLookup: 0 "Single Substitution lookup 35"
+EndFPST
+ChainSub2: glyph "caltContextualAlternateslookup0 contextual 16" 0 0 0 1
+ String: 7 greater
+ BString: 18 arrow_right_double
+ FString: 0 
+ 1
+  SeqLookup: 0 "Single Substitution lookup 34"
+EndFPST
+ChainSub2: glyph "caltContextualAlternateslookup0 contextual 15" 0 0 0 1
+ String: 5 equal
+ BString: 4 less
+ FString: 7 greater
+ 0
+EndFPST
+ChainSub2: glyph "caltContextualAlternateslookup0 contextual 14" 0 0 0 1
+ String: 4 less
+ BString: 0 
+ FString: 6 hyphen
+ 1
+  SeqLookup: 0 "Single Substitution lookup 33"
+EndFPST
+ChainSub2: glyph "caltContextualAlternateslookup0 contextual 13" 0 0 0 1
+ String: 6 hyphen
+ BString: 17 arrow_left_single
+ FString: 0 
+ 1
+  SeqLookup: 0 "Single Substitution lookup 32"
+EndFPST
+ChainSub2: glyph "caltContextualAlternateslookup0 contextual 12" 0 0 0 1
+ String: 6 hyphen
+ BString: 0 
+ FString: 7 greater
+ 1
+  SeqLookup: 0 "Single Substitution lookup 31"
+EndFPST
+ChainSub2: glyph "caltContextualAlternateslookup0 contextual 11" 0 0 0 1
+ String: 7 greater
+ BString: 18 arrow_right_single
+ FString: 0 
+ 1
+  SeqLookup: 0 "Single Substitution lookup 30"
+EndFPST
+ChainSub2: glyph "caltContextualAlternateslookup0 contextual 10" 0 0 0 1
+ String: 5 equal
+ BString: 0 
+ FString: 5 equal
+ 1
+  SeqLookup: 0 "Single Substitution lookup 29"
+EndFPST
+ChainSub2: glyph "caltContextualAlternateslookup0 contextual 9" 0 0 0 1
+ String: 5 equal
+ BString: 11 equal_equal
+ FString: 0 
+ 1
+  SeqLookup: 0 "Single Substitution lookup 28"
+EndFPST
+ChainSub2: glyph "caltContextualAlternateslookup0 contextual 8" 0 0 0 1
+ String: 6 exclam
+ BString: 0 
+ FString: 5 equal
+ 1
+  SeqLookup: 0 "Single Substitution lookup 27"
+EndFPST
+ChainSub2: glyph "caltContextualAlternateslookup0 contextual 7" 0 0 0 1
+ String: 5 equal
+ BString: 12 exclam_equal
+ FString: 0 
+ 1
+  SeqLookup: 0 "Single Substitution lookup 26"
+EndFPST
+ChainSub2: glyph "caltContextualAlternateslookup0 contextual 6" 0 0 0 1
+ String: 5 equal
+ BString: 0 
+ FString: 11 equal equal
+ 1
+  SeqLookup: 0 "Single Substitution lookup 25"
+EndFPST
+ChainSub2: glyph "caltContextualAlternateslookup0 contextual 5" 0 0 0 1
+ String: 5 equal
+ BString: 12 equal_triple
+ FString: 5 equal
+ 1
+  SeqLookup: 0 "Single Substitution lookup 24"
+EndFPST
+ChainSub2: glyph "caltContextualAlternateslookup0 contextual 4" 0 0 0 1
+ String: 5 equal
+ BString: 18 space.equal_triple
+ FString: 0 
+ 1
+  SeqLookup: 0 "Single Substitution lookup 23"
+EndFPST
+ChainSub2: glyph "caltContextualAlternateslookup0 contextual 3" 0 0 0 1
+ String: 6 exclam
+ BString: 0 
+ FString: 11 equal equal
+ 1
+  SeqLookup: 0 "Single Substitution lookup 22"
+EndFPST
+ChainSub2: glyph "caltContextualAlternateslookup0 contextual 2" 0 0 0 1
+ String: 5 equal
+ BString: 18 exclam_equal_equal
+ FString: 5 equal
+ 1
+  SeqLookup: 0 "Single Substitution lookup 21"
+EndFPST
+ChainSub2: glyph "caltContextualAlternateslookup0 contextual 1" 0 0 0 1
+ String: 5 slash
+ BString: 0 
+ FString: 5 equal
+ 1
+  SeqLookup: 0 "Single Substitution lookup 20"
+EndFPST
+ChainSub2: glyph "caltContextualAlternateslookup0 contextual 0" 0 0 0 1
+ String: 5 equal
+ BString: 11 slash_equal
+ FString: 0 
+ 1
+  SeqLookup: 0 "Single Substitution lookup 19"
+EndFPST
 ChainSub2: glyph "'calt' Contextual Alternates lookup 0 contextual 17" 0 0 0 1
  String: 5 equal
  BString: 0 
@@ -2892,7 +3051,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 16 16 9
+WinInfo: 0 16 9
 BeginPrivate: 0
 EndPrivate
 EndSplineFont

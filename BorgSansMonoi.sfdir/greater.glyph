@@ -16,6 +16,9 @@ SplineSet
  473 353 l 1,0,-1
 EndSplineSet
 Validated: 1
+Substitution2: "Single Substitution lookup 36 subtable" space
+Substitution2: "Single Substitution lookup 34 subtable" space
+Substitution2: "Single Substitution lookup 30 subtable" space
 Substitution2: "Single Substitution lookup 16 subtable" space
 Substitution2: "Single Substitution lookup 12 subtable" space
 EndChar

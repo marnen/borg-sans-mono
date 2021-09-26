@@ -21,6 +21,8 @@ SplineSet
  272 125 272 125 302 125 c 0,4,5
 EndSplineSet
 Validated: 1
+Substitution2: "Single Substitution lookup 27 subtable" exclam_equal
+Substitution2: "Single Substitution lookup 22 subtable" exclam_equal_equal
 Substitution2: "Single Substitution lookup 9 subtable" exclam_equal
 Substitution2: "Single Substitution lookup 4 subtable" exclam_equal_equal
 EndChar

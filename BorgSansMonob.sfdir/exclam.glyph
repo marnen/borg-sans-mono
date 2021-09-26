@@ -21,6 +21,8 @@ SplineSet
  223 89 223 89 238 110 c 0,16,17
  258 137 258 137 300 137 c 0,4,5
 EndSplineSet
+Substitution2: "Single Substitution lookup 62 subtable" exclam_equal
+Substitution2: "Single Substitution lookup 57 subtable" exclam_equal_equal
 Substitution2: "<2,2> Cursive lookup 34 nested-substitutions 0 subtable" exclam_equal
 Substitution2: "<2,2> Cursive lookup 24 nested-substitutions 0 subtable" exclam_equal_equal
 Substitution2: "Single Substitution lookup 9 subtable" exclam_equal
