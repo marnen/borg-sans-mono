@@ -1,0 +1,20 @@
+StartChar: Pi
+Encoding: 928 928 379
+Width: 600
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+506 0 m 1,0,-1
+ 416 0 l 1,1,-1
+ 562 629 l 1,2,-1
+ 299 629 l 1,3,-1
+ 150 0 l 1,4,-1
+ 60 0 l 1,5,-1
+ 227 714 l 1,6,-1
+ 671 714 l 1,7,-1
+ 506 0 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

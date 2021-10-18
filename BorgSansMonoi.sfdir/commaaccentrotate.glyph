@@ -1,0 +1,19 @@
+StartChar: commaaccentrotate
+Encoding: 65543 -1 878
+Width: 553
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+438 604 m 1,0,-1
+ 351 604 l 1,1,-1
+ 355 617 l 2,2,3
+ 357 626 357 626 389 675 c 128,-1,4
+ 421 724 421 724 465 769 c 1,5,-1
+ 513 769 l 1,6,-1
+ 510 752 l 1,7,8
+ 464 678 464 678 438 604 c 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

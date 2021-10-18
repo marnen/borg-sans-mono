@@ -1,0 +1,14 @@
+StartChar: iogonek
+Encoding: 303 303 241
+Width: 600
+GlyphClass: 2
+Flags: W
+HStem: -5 68<342.162 470.743> 454 55<231 295.7>
+VStem: 253 78<74.7037 211.234> 374 103<661.219 738.708>
+DStem2: 261 152 417 509 0.248849 0.968542<-11.1816 299.736>
+LayerCount: 2
+Fore
+Refer: 76 105 N 1 0 0 1 0 0 3
+Refer: 343 731 N 1 0 0 1 9 0 2
+Validated: 5
+EndChar

@@ -1,6 +1,6 @@
 StartChar: uring
 Encoding: 367 367 305
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -30,9 +30,8 @@ SHC[rp1]
 SHC[rp1]
 EndTTInstrs
 LayerCount: 2
-Back
 Fore
 Refer: 88 117 N 1 0 0 1 0 0 3
-Refer: 342 730 N 1 0 0 1 -3 0 2
+Refer: 342 730 N 1 0 0 1 -1 0 2
 Validated: 1
 EndChar

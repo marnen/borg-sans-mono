@@ -1,6 +1,6 @@
 StartChar: exclamdbl
 Encoding: 8252 8252 836
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -38,9 +38,8 @@ SHC[rp1]
 SHC[rp1]
 EndTTInstrs
 LayerCount: 2
-Back
 Fore
-Refer: 4 33 N 1 0 0 1 231 0 3
-Refer: 4 33 N 1 0 0 1 -232 0 2
+Refer: 4 33 N 1 0 0 1 113 0 3
+Refer: 4 33 N 1 0 0 1 -113 0 2
 Validated: 1
 EndChar

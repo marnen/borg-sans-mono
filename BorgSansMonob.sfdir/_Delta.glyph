@@ -1,0 +1,24 @@
+StartChar: Delta
+Encoding: 8710 8710 1455
+Width: 658
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+375 729 m 1,0,-1
+ 608 57 l 1,1,-1
+ 608 -15 l 1,2,-1
+ 21 -15 l 1,3,-1
+ 21 58 l 1,4,-1
+ 253 729 l 1,5,-1
+ 375 729 l 1,0,-1
+473 95 m 1,6,-1
+ 348 446 l 2,7,8
+ 328 502 328 502 313 553 c 1,9,10
+ 297 493 297 493 282 449 c 2,11,-1
+ 155 95 l 1,12,-1
+ 473 95 l 1,6,-1
+EndSplineSet
+Validated: 1
+EndChar

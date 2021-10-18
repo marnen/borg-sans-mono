@@ -1,0 +1,19 @@
+StartChar: quotereversed
+Encoding: 8219 8219 823
+Width: 554
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+460 467 m 1,0,-1
+ 385 467 l 1,1,2
+ 359 603 359 603 358 703 c 2,3,-1
+ 358 704 l 1,4,-1
+ 369 716 l 1,5,-1
+ 472 716 l 1,6,7
+ 461 587 461 587 460 469 c 2,8,-1
+ 460 467 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

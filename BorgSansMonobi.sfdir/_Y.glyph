@@ -1,0 +1,21 @@
+StartChar: Y
+Encoding: 89 89 60
+Width: 600
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+303 276 m 1,0,-1
+ 180 714 l 1,1,-1
+ 302 714 l 1,2,-1
+ 392 373 l 1,3,-1
+ 656 714 l 1,4,-1
+ 784 714 l 1,5,-1
+ 428 275 l 1,6,-1
+ 356 0 l 1,7,-1
+ 237 0 l 1,8,-1
+ 303 276 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

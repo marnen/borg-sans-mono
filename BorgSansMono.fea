@@ -1,45 +1,177 @@
 languagesystem DFLT dflt;
-languagesystem latn dflt;
 languagesystem cyrl dflt;
 languagesystem grek dflt;
-languagesystem kana dflt;
+languagesystem latn dflt;
+
+
+# GSUB 
+
+
+lookup subspace {
+  lookupflag 0;
+    sub \hyphen by \space ;
+    sub \equal by \space ;
+    sub \greater by \space ;
+} subspace;
+
+lookup codeligatures {
+  lookupflag 0;
+    sub \slash_equal  \equal'lookup subspace   ;
+    sub  \slash' \equal   by \slash_equal;
+    sub \exclam_equal_equal \space  \equal'lookup subspace   ;
+    sub \exclam_equal_equal  \equal'lookup subspace  \equal  ;
+    sub  \exclam' \equal \equal   by \exclam_equal_equal;
+    sub \equal_triple \space  \equal'lookup subspace   ;
+    sub \equal_triple  \equal'lookup subspace  \equal  ;
+    sub  \equal' \equal \equal   by \equal_triple;
+    sub \arrow_left_single  \hyphen'lookup subspace   ;
+    sub  \less' \hyphen   by \arrow_left_single;
+    sub \arrow_right_single  \greater'lookup subspace   ;
+    sub  \hyphen' \greater   by \arrow_right_single;
+    sub \exclam_equal  \equal'lookup subspace   ;
+    sub  \exclam' \equal   by \exclam_equal;
+    sub \bar_greater  \greater'lookup subspace   ;
+    sub  \bar' \greater   by \bar_greater;
+    sub \equal_equal  \equal'lookup subspace   ;
+    sub  \equal' \equal   by \equal_equal;
+    sub \arrow_right_double  \greater'lookup subspace   ;
+    sub  \equal' \greater   by \arrow_right_double;
+} codeligatures;
 
 feature calt {
-  # /=
-  sub slash_equal equal' by space;
-  sub slash' equal by slash_equal;
 
-  # !==
-  sub exclam_equal_equal equal' equal by space.equal_triple;
-  sub exclam' equal equal by exclam_equal_equal;
+ script DFLT;
+     language dflt ;
+      lookup codeligatures;
 
-  # ===
-  sub space.equal_triple equal' by space;
-  sub equal_triple equal' equal by space.equal_triple;
-  sub equal' equal equal by equal_triple;
+ script cyrl;
+     language dflt ;
+      lookup codeligatures;
 
-  # !=
-  # must come after !==
-  sub exclam_equal equal' by space;
-  sub exclam' equal by exclam_equal;
+ script grek;
+     language dflt ;
+      lookup codeligatures;
 
-  # ==
-  # must come after != and /=
-  sub equal_equal equal' by space;
-  sub equal' equal by equal_equal;
-
-  # ->
-  sub arrow_right_single greater' by space;
-  sub hyphen' greater by arrow_right_single;
-
-  # <-
-  sub arrow_left_single hyphen' by space;
-  sub less' hyphen by arrow_left_single;
-
-  # <=>
-  ignore sub less equal' greater;
-
-  # =>
-  sub arrow_right_double greater' by space;
-  sub equal' greater by arrow_right_double;
+ script latn;
+     language dflt ;
+      lookup codeligatures;
 } calt;
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+
+@GDEF_Simple = [\.null \nonmarkingreturn \space \exclam \quotedbl \numbersign 
+	\dollar \percent \ampersand \quotesingle \parenleft \parenright \asterisk \plus 
+	\comma \hyphen \period \slash \zero \one \two \three \four \five \six \seven \eight 
+	\nine \colon \semicolon \less \equal \greater \question \at \A \B \C \D \E \F \G \H \I \J 
+	\K \L \M \N \O \P \Q \R \S \T \U \V \W \X \Y \Z \bracketleft \backslash \bracketright 
+	\asciicircum \underscore \grave \a \b \c \d \e \f \g \h \i \j \k \l \m \n \o \p \q \r \s \t \u 
+	\v \w \x \y \z \braceleft \bar \braceright \asciitilde \nonbreakingspace 
+	\exclamdown \cent \sterling \currency \yen \brokenbar \section \dieresis 
+	\copyright \ordfeminine \guillemotleft \logicalnot \uni00AD \registered 
+	\overscore \degree \plusminus \twosuperior \threesuperior \acute \mu \paragraph 
+	\periodcentered \cedilla \onesuperior \ordmasculine \guillemotright 
+	\onequarter \onehalf \threequarters \questiondown \Agrave \Aacute \Acircumflex 
+	\Atilde \Adieresis \Aring \AE \Ccedilla \Egrave \Eacute \Ecircumflex \Edieresis 
+	\Igrave \Iacute \Icircumflex \Idieresis \Eth \Ntilde \Ograve \Oacute 
+	\Ocircumflex \Otilde \Odieresis \multiply \Oslash \Ugrave \Uacute \Ucircumflex 
+	\Udieresis \Yacute \Thorn \germandbls \agrave \aacute \acircumflex \atilde 
+	\adieresis \aring \ae \ccedilla \egrave \eacute \ecircumflex \edieresis \igrave 
+	\iacute \icircumflex \idieresis \eth \ntilde \ograve \oacute \ocircumflex 
+	\otilde \odieresis \divide \oslash \ugrave \uacute \ucircumflex \udieresis 
+	\yacute \thorn \ydieresis \Amacron \amacron \Abreve \abreve \Aogonek \aogonek 
+	\Cacute \cacute \Ccircumflex \ccircumflex \Cdot \cdot \Ccaron \ccaron \Dcaron 
+	\dcaron \Dcroat \dcroat \Emacron \emacron \Ebreve \ebreve \Edotaccent 
+	\edotaccent \Eogonek \eogonek \Ecaron \ecaron \Gcircumflex \gcircumflex \Gbreve 
+	\gbreve \Gdot \gdot \Gcommaaccent \gcommaaccent \Hcircumflex \hcircumflex \Hbar 
+	\hbar \Itilde \itilde \Imacron \imacron \Ibreve \ibreve \Iogonek \iogonek 
+	\Idotaccent \dotlessi \IJ \ij \Jcircumflex \jcircumflex \Kcommaaccent 
+	\kcommaaccent \kgreenlandic \Lacute \lacute \Lcommaaccent \lcommaaccent 
+	\Lcaron \lcaron \Ldot \ldot \Lslash \lslash \Nacute \nacute \Ncommaaccent 
+	\ncommaaccent \Ncaron \ncaron \napostrophe \Eng \eng \Omacron \omacron \Obreve 
+	\obreve \Ohungarumlaut \ohungarumlaut \OE \oe \Racute \racute \Rcommaaccent 
+	\rcommaaccent \Rcaron \rcaron \Sacute \sacute \Scircumflex \scircumflex 
+	\Scedilla \scedilla \Scaron \scaron \Tcommaaccent \tcommaaccent \Tcaron \tcaron 
+	\Tbar \tbar \Utilde \utilde \Umacron \umacron \Ubreve \ubreve \Uring \uring 
+	\Uhungarumlaut \uhungarumlaut \Uogonek \uogonek \Wcircumflex \wcircumflex 
+	\Ycircumflex \ycircumflex \Ydieresis \Zacute \zacute \Zdotaccent \zdotaccent 
+	\Zcaron \zcaron \longs \florin \Ohorn \ohorn \Uhorn \uhorn \uni01F0 \Aringacute 
+	\aringacute \AEacute \aeacute \Oslashacute \oslashacute \Scommaaccent 
+	\scommaaccent \uni02BC \circumflex \caron \macron \breve \dotaccent \ring 
+	\ogonek \tilde \hungarumlaut \uni02F3 \uni0300 \uni0301 \uni0303 \hook \uni030F 
+	\dotbelow \tonos \dieresistonos \Alphatonos \anoteleia \Epsilontonos \Etatonos 
+	\Iotatonos \Omicrontonos \Upsilontonos \Omegatonos \iotadieresistonos \Alpha 
+	\Beta \Gamma \uni0394 \Epsilon \Zeta \Eta \Theta \Iota \Kappa \Lambda \Mu \Nu \Xi 
+	\Omicron \Pi \Rho \Sigma \Tau \Upsilon \Phi \Chi \Psi \uni03A9 \Iotadieresis 
+	\Upsilondieresis \alphatonos \epsilontonos \etatonos \iotatonos 
+	\upsilondieresistonos \alpha \beta \gamma \delta \epsilon \zeta \eta \theta \iota 
+	\kappa \lambda \uni03BC \nu \xi \omicron \pi \rho \sigma1 \sigma \tau \upsilon \phi 
+	\chi \psi \omega \iotadieresis \upsilondieresis \omicrontonos \upsilontonos 
+	\omegatonos \uni03D1 \uni03D2 \uni03D6 \uni0400 \afii10023 \afii10051 
+	\afii10052 \afii10053 \afii10054 \afii10055 \afii10056 \afii10057 \afii10058 
+	\afii10059 \afii10060 \afii10061 \uni040D \afii10062 \afii10145 \afii10017 
+	\afii10018 \afii10019 \afii10020 \afii10021 \afii10022 \afii10024 \afii10025 
+	\afii10026 \afii10027 \afii10028 \afii10029 \afii10030 \afii10031 \afii10032 
+	\afii10033 \afii10034 \afii10035 \afii10036 \afii10037 \afii10038 \afii10039 
+	\afii10040 \afii10041 \afii10042 \afii10043 \afii10044 \afii10045 \afii10046 
+	\afii10047 \afii10048 \afii10049 \afii10065 \afii10066 \afii10067 \afii10068 
+	\afii10069 \afii10070 \afii10072 \afii10073 \afii10074 \afii10075 \afii10076 
+	\afii10077 \afii10078 \afii10079 \afii10080 \afii10081 \afii10082 \afii10083 
+	\afii10084 \afii10085 \afii10086 \afii10087 \afii10088 \afii10089 \afii10090 
+	\afii10091 \afii10092 \afii10093 \afii10094 \afii10095 \afii10096 \afii10097 
+	\uni0450 \afii10071 \afii10099 \afii10100 \afii10101 \afii10102 \afii10103 
+	\afii10104 \afii10105 \afii10106 \afii10107 \afii10108 \afii10109 \uni045D 
+	\afii10110 \afii10193 \uni0460 \uni0461 \uni0462 \uni0463 \uni0464 \uni0465 
+	\uni0466 \uni0467 \uni0468 \uni0469 \uni046A \uni046B \uni046C \uni046D \uni046E 
+	\uni046F \uni0470 \uni0471 \uni0472 \uni0473 \uni0474 \uni0475 \uni0476 \uni0477 
+	\uni0478 \uni0479 \uni047A \uni047B \uni047C \uni047D \uni047E \uni047F \uni0480 
+	\uni0481 \uni0482 \uni0483 \uni0484 \uni0485 \uni0486 \uni0488 \uni0489 \uni048A 
+	\uni048B \uni048C \uni048D \uni048E \uni048F \afii10050 \afii10098 \uni0492 
+	\uni0493 \uni0494 \uni0495 \uni0496 \uni0497 \uni0498 \uni0499 \uni049A \uni049B 
+	\uni049C \uni049D \uni049E \uni049F \uni04A0 \uni04A1 \uni04A2 \uni04A3 \uni04A4 
+	\uni04A5 \uni04A6 \uni04A7 \uni04A8 \uni04A9 \uni04AA \uni04AB \uni04AC \uni04AD 
+	\uni04AE \uni04AF \uni04B0 \uni04B1 \uni04B2 \uni04B3 \uni04B4 \uni04B5 \uni04B6 
+	\uni04B7 \uni04B8 \uni04B9 \uni04BA \uni04BB \uni04BC \uni04BD \uni04BE \uni04BF 
+	\uni04C0 \uni04C1 \uni04C2 \uni04C3 \uni04C4 \uni04C5 \uni04C6 \uni04C7 \uni04C8 
+	\uni04C9 \uni04CA \uni04CB \uni04CC \uni04CD \uni04CE \uni04CF \uni04D0 \uni04D1 
+	\uni04D2 \uni04D3 \uni04D4 \uni04D5 \uni04D6 \uni04D7 \uni04D8 \uni04D9 \uni04DA 
+	\uni04DB \uni04DC \uni04DD \uni04DE \uni04DF \uni04E0 \uni04E1 \uni04E2 \uni04E3 
+	\uni04E4 \uni04E5 \uni04E6 \uni04E7 \uni04E8 \uni04E9 \uni04EA \uni04EB \uni04EC 
+	\uni04ED \uni04EE \uni04EF \uni04F0 \uni04F1 \uni04F2 \uni04F3 \uni04F4 \uni04F5 
+	\uni04F6 \uni04F7 \uni04F8 \uni04F9 \uni04FA \uni04FB \uni04FC \uni04FD \uni04FE 
+	\uni04FF \uni0500 \uni0501 \uni0502 \uni0503 \uni0504 \uni0505 \uni0506 \uni0507 
+	\uni0508 \uni0509 \uni050A \uni050B \uni050C \uni050D \uni050E \uni050F \uni0510 
+	\uni0511 \uni0512 \uni0513 \uni1E00 \uni1E01 \uni1E3E \uni1E3F \Wgrave \wgrave 
+	\Wacute \wacute \Wdieresis \wdieresis \uni1EA0 \uni1EA1 \uni1EA2 \uni1EA3 
+	\uni1EA4 \uni1EA5 \uni1EA6 \uni1EA7 \uni1EA8 \uni1EA9 \uni1EAA \uni1EAB \uni1EAC 
+	\uni1EAD \uni1EAE \uni1EAF \uni1EB0 \uni1EB1 \uni1EB2 \uni1EB3 \uni1EB4 \uni1EB5 
+	\uni1EB6 \uni1EB7 \uni1EB8 \uni1EB9 \uni1EBA \uni1EBB \uni1EBC \uni1EBD \uni1EBE 
+	\uni1EBF \uni1EC0 \uni1EC1 \uni1EC2 \uni1EC3 \uni1EC4 \uni1EC5 \uni1EC6 \uni1EC7 
+	\uni1EC8 \uni1EC9 \uni1ECA \uni1ECB \uni1ECC \uni1ECD \uni1ECE \uni1ECF \uni1ED0 
+	\uni1ED1 \uni1ED2 \uni1ED3 \uni1ED4 \uni1ED5 \uni1ED6 \uni1ED7 \uni1ED8 \uni1ED9 
+	\uni1EDA \uni1EDB \uni1EDC \uni1EDD \uni1EDE \uni1EDF \uni1EE0 \uni1EE1 \uni1EE2 
+	\uni1EE3 \uni1EE4 \uni1EE5 \uni1EE6 \uni1EE7 \uni1EE8 \uni1EE9 \uni1EEA \uni1EEB 
+	\uni1EEC \uni1EED \uni1EEE \uni1EEF \uni1EF0 \uni1EF1 \Ygrave \ygrave \uni1EF4 
+	\uni1EF5 \uni1EF6 \uni1EF7 \uni1EF8 \uni1EF9 \uni1F4D \uni2000 \uni2001 \uni2002 
+	\uni2003 \uni2004 \uni2005 \uni2006 \uni2007 \uni2008 \uni2009 \uni200A \uni200B 
+	\endash \emdash \afii00208 \underscoredbl \quoteleft \quoteright 
+	\quotesinglbase \quotereversed \quotedblleft \quotedblright \quotedblbase 
+	\dagger \daggerdbl \bullet \ellipsis \perthousand \minute \second 
+	\guilsinglleft \guilsinglright \exclamdbl \fraction \nsuperior \franc 
+	\afii08941 \peseta \uni20AB \Euro \afii61248 \afii61289 \afii61352 \trademark 
+	\Omega \estimated \oneeighth \threeeighths \fiveeighths \seveneighths 
+	\partialdiff \Delta \product \summation \minus \radical \infinity \integral 
+	\approxequal \notequal \lessequal \greaterequal \lozenge \uniFB01 \uniFB02 
+	\uniFB03 \uniFB04 \uniFEFF \uniFFFC \uniFFFD \cyrillicbreve \dotlessj 
+	\caroncommaaccent \commaaccent \commaaccentrotate \zerosuperior 
+	\foursuperior \fivesuperior \sixsuperior \sevensuperior \eightsuperior 
+	\ninesuperior \dasiaoxia \circumflexacutecomb \circumflexgravecomb 
+	\circumflexhookcomb \circumflextildecomb \breveacutecomb \brevegravecomb 
+	\brevehookcomb \brevetildecomb \cyrillichookleft \cyrillicbighookUC 
+	\cyrillicbighookLC \arrow_right_single \arrow_right_double \slash_equal 
+	\exclam_equal \equal_equal \equal_triple \space.equal_triple 
+	\exclam_equal_equal \arrow_left_single \bar_greater ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, , , ;
+
+} GDEF;
+

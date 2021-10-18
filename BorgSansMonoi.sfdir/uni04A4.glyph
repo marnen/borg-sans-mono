@@ -1,0 +1,26 @@
+StartChar: uni04A4
+Encoding: 1188 1188 591
+Width: 600
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+428 0 m 1,0,-1
+ 338 0 l 1,1,-1
+ 415 331 l 1,2,-1
+ 229 331 l 1,3,-1
+ 150 0 l 1,4,-1
+ 60 0 l 1,5,-1
+ 226 714 l 1,6,-1
+ 316 714 l 1,7,-1
+ 246 416 l 1,8,-1
+ 433 416 l 1,9,-1
+ 504 714 l 1,10,-1
+ 722 714 l 1,11,-1
+ 703 629 l 1,12,-1
+ 574 629 l 1,13,-1
+ 428 0 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

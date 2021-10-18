@@ -1,0 +1,11 @@
+StartChar: Kcommaaccent
+Encoding: 310 310 248
+Width: 600
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 46 75 N 1 0 0 1 0 0 3
+Refer: 877 -1 N 1 0 0 1 46 0 2
+Validated: 1
+EndChar

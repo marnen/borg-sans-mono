@@ -1,0 +1,21 @@
+StartChar: guilsinglright
+Encoding: 8250 8250 1435
+Width: 629
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+418 270 m 1,0,-1
+ 418 257 l 1,1,-1
+ 418 252 l 1,2,-1
+ 256 36 l 1,3,-1
+ 175 90 l 1,4,-1
+ 294 264 l 1,5,-1
+ 175 438 l 1,6,-1
+ 256 492 l 1,7,-1
+ 418 275 l 1,8,-1
+ 418 270 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

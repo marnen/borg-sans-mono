@@ -1,6 +1,6 @@
 StartChar: uni1EC4
 Encoding: 7876 7876 749
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -30,9 +30,8 @@ SHC[rp1]
 SHC[rp1]
 EndTTInstrs
 LayerCount: 2
-Back
 Fore
 Refer: 40 69 N 1 0 0 1 0 0 3
-Refer: 890 -1 N 1 0 0 1 16 338 2
+Refer: 890 -1 N 1 0 0 1 8 165 2
 Validated: 1
 EndChar

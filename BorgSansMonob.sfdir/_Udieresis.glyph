@@ -1,0 +1,11 @@
+StartChar: Udieresis
+Encoding: 220 220 223
+Width: 600
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 88 85 N 1 0 0 1 0 0 3
+Refer: 171 168 N 1 0 0 1 30 165 2
+Validated: 1
+EndChar

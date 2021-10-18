@@ -1,0 +1,21 @@
+StartChar: underscoredbl
+Encoding: 8215 8215 1419
+Width: 658
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+654 -104 m 1,0,-1
+ -24 -104 l 1,1,-1
+ -24 -7 l 1,2,-1
+ 654 -7 l 1,3,-1
+ 654 -104 l 1,0,-1
+654 -241 m 1,4,-1
+ -24 -241 l 1,5,-1
+ -24 -144 l 1,6,-1
+ 654 -144 l 1,7,-1
+ 654 -241 l 1,4,-1
+EndSplineSet
+Validated: 1
+EndChar

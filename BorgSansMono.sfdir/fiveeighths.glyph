@@ -1,6 +1,6 @@
 StartChar: fiveeighths
 Encoding: 8541 8541 852
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -86,10 +86,9 @@ SHC[rp1]
 SHC[rp1]
 EndTTInstrs
 LayerCount: 2
-Back
 Fore
-Refer: 881 -1 N 1 0 0 1 -312 0 3
-Refer: 837 8260 N 1 0 0 1 -17 0 2
-Refer: 884 -1 N 1 0 0 1 362 -665 2
+Refer: 881 -1 N 1 0 0 1 -152 0 3
+Refer: 837 8260 N 1 0 0 1 -8 0 2
+Refer: 884 -1 N 1 0 0 1 177 -325 2
 Validated: 1
 EndChar

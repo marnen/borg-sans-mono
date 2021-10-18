@@ -1,0 +1,11 @@
+StartChar: ydieresis
+Encoding: 255 255 258
+Width: 600
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 124 121 N 1 0 0 1 0 0 3
+Refer: 171 168 N 1 0 0 1 41 0 2
+Validated: 1
+EndChar

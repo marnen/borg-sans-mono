@@ -1,0 +1,21 @@
+StartChar: radical
+Encoding: 8730 8730 859
+Width: 616
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+203 -21 m 1,0,-1
+ 165 358 l 1,1,-1
+ 78 358 l 1,2,-1
+ 101 458 l 1,3,-1
+ 265 458 l 1,4,-1
+ 293 168 l 1,5,-1
+ 694 843 l 1,6,-1
+ 793 843 l 1,7,-1
+ 290 -21 l 1,8,-1
+ 203 -21 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

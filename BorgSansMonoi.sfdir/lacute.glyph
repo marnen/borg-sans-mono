@@ -1,0 +1,14 @@
+StartChar: lacute
+Encoding: 314 314 252
+Width: 600
+GlyphClass: 2
+Flags: W
+HStem: -10 78<347.523 477.578> 696 64<287 342>
+VStem: 251 88<76.9844 212.492>
+DStem2: 258 152 343 154 0.22662 0.973983<-10.436 547.234>
+LayerCount: 2
+Fore
+Refer: 79 108 N 1 0 0 1 0 0 3
+Refer: 118 180 N 1 0 0 1 41 193 2
+Validated: 1
+EndChar

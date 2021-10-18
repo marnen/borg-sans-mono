@@ -1,6 +1,6 @@
 StartChar: uni04FC
 Encoding: 1276 1276 679
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -28,9 +28,8 @@ SVTCA[y-axis]
 SHC[rp1]
 EndTTInstrs
 LayerCount: 2
-Back
 Fore
 Refer: 59 88 N 1 0 0 1 0 0 3
-Refer: 896 -1 N 1 0 0 1 436 0 2
+Refer: 896 -1 N 1 0 0 1 213 0 2
 Validated: 5
 EndChar

@@ -1,0 +1,23 @@
+StartChar: bar_greater
+Encoding: 65572 -1 907
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+263 760 m 1,0,-1
+ 336 760 l 1,1,-1
+ 336 -55 l 1,2,-1
+ 263 -55 l 1,3,-1
+ 263 760 l 1,0,-1
+420 62 m 1,4,-1
+ 1024 353 l 1,5,-1
+ 419 644 l 1,6,-1
+ 419 722 l 1,7,-1
+ 1126 378 l 1,8,-1
+ 1126 328 l 1,9,-1
+ 420 -16 l 1,10,-1
+ 420 62 l 1,4,-1
+EndSplineSet
+Validated: 1
+EndChar

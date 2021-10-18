@@ -1,0 +1,20 @@
+StartChar: product
+Encoding: 8719 8719 1456
+Width: 658
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+182 618 m 1,0,-1
+ 182 -255 l 1,1,-1
+ 62 -255 l 1,2,-1
+ 62 729 l 1,3,-1
+ 587 729 l 1,4,-1
+ 587 -255 l 1,5,-1
+ 467 -255 l 1,6,-1
+ 467 618 l 1,7,-1
+ 182 618 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

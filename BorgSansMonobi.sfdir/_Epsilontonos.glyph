@@ -1,0 +1,11 @@
+StartChar: Epsilontonos
+Encoding: 904 904 357
+Width: 600
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 40 69 N 1 0 0 1 0 0 3
+Refer: 353 900 N 1 0 0 1 -256 -51 2
+Validated: 5
+EndChar

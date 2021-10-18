@@ -1,0 +1,13 @@
+StartChar: afii10100
+Encoding: 1107 1107 511
+Width: 600
+GlyphClass: 2
+Flags: W
+HStem: 0 21G<123 211.755> 429 80<309 548>
+DStem2: 123 0 207 0 0.227653 0.973742<19.1228 460.079>
+LayerCount: 2
+Fore
+Refer: 479 1075 N 1 0 0 1 0 0 3
+Refer: 118 180 N 1 0 0 1 56 0 2
+Validated: 1
+EndChar

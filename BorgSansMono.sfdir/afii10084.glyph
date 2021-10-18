@@ -1,6 +1,6 @@
 StartChar: afii10084
 Encoding: 1090 1090 494
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -66,18 +66,17 @@ IUP[x]
 IUP[y]
 EndTTInstrs
 LayerCount: 2
-Back
 Fore
 SplineSet
-1106 944 m 1,0,-1
- 705 944 l 1,1,-1
- 705 0 l 1,2,-1
- 522 0 l 1,3,-1
- 522 944 l 1,4,-1
- 121 944 l 1,5,-1
- 121 1098 l 1,6,-1
- 1106 1098 l 1,7,-1
- 1106 944 l 1,0,-1
+540 461 m 1,0,-1
+ 344 461 l 1,1,-1
+ 344 0 l 1,2,-1
+ 255 0 l 1,3,-1
+ 255 461 l 1,4,-1
+ 59 461 l 1,5,-1
+ 59 536 l 1,6,-1
+ 540 536 l 1,7,-1
+ 540 461 l 1,0,-1
 EndSplineSet
 Validated: 1
 EndChar

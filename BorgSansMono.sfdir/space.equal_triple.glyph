@@ -1,9 +1,8 @@
 StartChar: space.equal_triple
 Encoding: 65569 -1 904
-Width: 1229
+Width: 600
 Flags: W
 LayerCount: 2
-Back
 Fore
 Validated: 1
 EndChar

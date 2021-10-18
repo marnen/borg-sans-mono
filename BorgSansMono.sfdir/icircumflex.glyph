@@ -1,6 +1,6 @@
 StartChar: icircumflex
 Encoding: 238 238 176
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -26,7 +26,6 @@ CALL
 SHC[rp1]
 EndTTInstrs
 LayerCount: 2
-Back
 Fore
 Refer: 243 305 N 1 0 0 1 0 0 3
 Refer: 337 710 N 1 0 0 1 0 0 2

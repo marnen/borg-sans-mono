@@ -1,6 +1,6 @@
 StartChar: atilde
 Encoding: 227 227 165
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -37,9 +37,8 @@ CALL
 SHC[rp1]
 EndTTInstrs
 LayerCount: 2
-Back
 Fore
 Refer: 68 97 N 1 0 0 1 0 0 3
-Refer: 344 732 N 1 0 0 1 10 0 2
+Refer: 344 732 N 1 0 0 1 5 0 2
 Validated: 1
 EndChar

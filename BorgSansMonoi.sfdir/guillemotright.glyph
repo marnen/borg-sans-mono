@@ -1,0 +1,27 @@
+StartChar: guillemotright
+Encoding: 187 187 125
+Width: 600
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+532 256 m 1,0,-1
+ 342 53 l 1,1,-1
+ 292 94 l 1,2,-1
+ 443 265 l 1,3,-1
+ 373 435 l 1,4,-1
+ 441 476 l 1,5,-1
+ 536 270 l 1,6,-1
+ 532 256 l 1,0,-1
+346 256 m 1,7,-1
+ 154 53 l 1,8,-1
+ 106 94 l 1,9,-1
+ 254 265 l 1,10,-1
+ 185 435 l 1,11,-1
+ 251 476 l 1,12,-1
+ 349 270 l 1,13,-1
+ 346 256 l 1,7,-1
+EndSplineSet
+Validated: 1
+EndChar

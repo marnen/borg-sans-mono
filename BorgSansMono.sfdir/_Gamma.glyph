@@ -1,6 +1,6 @@
 StartChar: Gamma
 Encoding: 915 915 366
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -61,16 +61,15 @@ IUP[x]
 IUP[y]
 EndTTInstrs
 LayerCount: 2
-Back
 Fore
 SplineSet
-1071 1462 m 1,0,-1
- 1071 1296 l 1,1,-1
- 432 1296 l 1,2,-1
- 432 0 l 1,3,-1
- 246 0 l 1,4,-1
- 246 1462 l 1,5,-1
- 1071 1462 l 1,0,-1
+523 714 m 1,0,-1
+ 523 633 l 1,1,-1
+ 211 633 l 1,2,-1
+ 211 0 l 1,3,-1
+ 120 0 l 1,4,-1
+ 120 714 l 1,5,-1
+ 523 714 l 1,0,-1
 EndSplineSet
 Validated: 1
 EndChar

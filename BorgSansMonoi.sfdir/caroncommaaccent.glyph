@@ -1,0 +1,20 @@
+StartChar: caroncommaaccent
+Encoding: 65541 -1 876
+Width: 553
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+421 762 m 1,0,-1
+ 508 762 l 1,1,-1
+ 504 749 l 2,2,3
+ 502 742 502 742 472 693.5 c 128,-1,4
+ 442 645 442 645 403 598 c 1,5,-1
+ 355 598 l 1,6,-1
+ 359 614 l 1,7,-1
+ 383 666 l 1,8,9
+ 407 722 407 722 421 762 c 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

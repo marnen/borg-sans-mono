@@ -1,0 +1,20 @@
+StartChar: afii10050
+Encoding: 1168 1168 1171
+Width: 600
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+576 604 m 1,0,-1
+ 240 604 l 1,1,-1
+ 240 0 l 1,2,-1
+ 120 0 l 1,3,-1
+ 120 714 l 1,4,-1
+ 460 714 l 1,5,-1
+ 460 861 l 1,6,-1
+ 576 861 l 1,7,-1
+ 576 604 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

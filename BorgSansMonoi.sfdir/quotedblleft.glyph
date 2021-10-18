@@ -1,0 +1,23 @@
+StartChar: quotedblleft
+Encoding: 8220 8220 824
+Width: 562
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+622 716 m 1,0,1
+ 563 588 563 588 518 467 c 1,2,-1
+ 413 467 l 1,3,-1
+ 407 480 l 1,4,5
+ 457 582 457 582 546 716 c 1,6,-1
+ 622 716 l 1,0,1
+348 716 m 1,7,-1
+ 426 716 l 1,8,9
+ 366 588 366 588 320 467 c 1,10,-1
+ 217 467 l 1,11,-1
+ 212 480 l 1,12,13
+ 260 581 260 581 348 716 c 1,7,-1
+EndSplineSet
+Validated: 1
+EndChar

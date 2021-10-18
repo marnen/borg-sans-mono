@@ -1,0 +1,21 @@
+StartChar: acute
+Encoding: 180 180 118
+Width: 600
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+434 781 m 1,0,-1
+ 560 781 l 1,1,-1
+ 552 749 l 1,2,-1
+ 550 746 l 2,3,4
+ 479 660 479 660 389 594 c 2,5,-1
+ 385 591 l 1,6,-1
+ 307 591 l 1,7,-1
+ 315 626 l 1,8,9
+ 374 693 374 693 429 774 c 2,10,-1
+ 434 781 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

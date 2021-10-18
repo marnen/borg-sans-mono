@@ -1,0 +1,11 @@
+StartChar: Amacron
+Encoding: 256 256 194
+Width: 600
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 36 65 N 1 0 0 1 0 0 3
+Refer: 339 713 N 1 0 0 1 39 165 2
+Validated: 1
+EndChar

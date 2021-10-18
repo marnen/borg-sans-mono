@@ -1,0 +1,22 @@
+StartChar: grave
+Encoding: 96 96 67
+Width: 600
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+515 591 m 1,0,-1
+ 442 591 l 1,1,-1
+ 438 596 l 2,2,3
+ 377 667 377 667 347 751 c 2,4,-1
+ 345 755 l 1,5,-1
+ 351 781 l 1,6,-1
+ 474 781 l 1,7,-1
+ 476 769 l 2,8,9
+ 495 683 495 683 521 625 c 2,10,-1
+ 523 620 l 1,11,-1
+ 515 591 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

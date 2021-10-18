@@ -1,0 +1,17 @@
+StartChar: bar
+Encoding: 124 124 95
+Width: 600
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+261 762 m 1,0,-1
+ 338 762 l 1,1,-1
+ 338 -243 l 1,2,-1
+ 261 -243 l 1,3,-1
+ 261 762 l 1,0,-1
+EndSplineSet
+Validated: 1
+Substitution2: "Single Substitution lookup 8 subtable" bar_greater
+EndChar

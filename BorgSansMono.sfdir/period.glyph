@@ -1,6 +1,6 @@
 StartChar: period
 Encoding: 46 46 17
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -35,14 +35,13 @@ IUP[x]
 IUP[y]
 EndTTInstrs
 LayerCount: 2
-Back
 Fore
 SplineSet
-614 301 m 0,0,1
- 766 301 766 301 766 135 c 256,2,3
- 766 -31 766 -31 614 -31 c 0,4,5
- 463 -31 463 -31 463 135 c 256,6,7
- 463 301 463 301 614 301 c 0,0,1
+300 147 m 256,0,1
+ 374 147 374 147 374 66 c 256,2,3
+ 374 -15 374 -15 300 -15 c 256,4,5
+ 226 -15 226 -15 226 66 c 256,6,7
+ 226 147 226 147 300 147 c 256,0,1
 EndSplineSet
 Validated: 1
 EndChar

@@ -1,0 +1,25 @@
+StartChar: equal
+Encoding: 61 61 32
+Width: 600
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+168 503 m 1,0,-1
+ 647 503 l 1,1,-1
+ 623 401 l 1,2,-1
+ 145 401 l 1,3,-1
+ 168 503 l 1,0,-1
+601 304 m 1,4,-1
+ 578 201 l 1,5,-1
+ 99 201 l 1,6,-1
+ 123 304 l 1,7,-1
+ 601 304 l 1,4,-1
+EndSplineSet
+Validated: 1
+Substitution2: "Single Substitution lookup 10 subtable" arrow_right_double
+Substitution2: "Single Substitution lookup 9 subtable" equal_equal
+Substitution2: "Single Substitution lookup 4 subtable" equal_triple
+Substitution2: "subspace subtable" space
+EndChar

@@ -1,6 +1,6 @@
 StartChar: dotaccent
 Encoding: 729 729 341
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -80,14 +80,13 @@ IUP[x]
 IUP[y]
 EndTTInstrs
 LayerCount: 2
-Back
 Fore
 SplineSet
-614 1509 m 0,0,1
- 721 1509 721 1509 721 1395 c 0,2,3
- 721 1280 721 1280 614 1280 c 0,4,5
- 508 1280 508 1280 508 1395 c 0,6,7
- 508 1509 508 1509 614 1509 c 0,0,1
+300 737 m 256,0,1
+ 352 737 352 737 352 681 c 256,2,3
+ 352 625 352 625 300 625 c 256,4,5
+ 248 625 248 625 248 681 c 256,6,7
+ 248 737 248 737 300 737 c 256,0,1
 EndSplineSet
 Validated: 1
 EndChar

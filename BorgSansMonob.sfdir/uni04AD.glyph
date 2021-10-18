@@ -1,0 +1,24 @@
+StartChar: uni04AD
+Encoding: 1197 1197 1200
+Width: 600
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+350 -186 m 1,0,-1
+ 350 0 l 1,1,-1
+ 263 0 l 1,2,-1
+ 263 432 l 1,3,-1
+ 59 432 l 1,4,-1
+ 59 536 l 1,5,-1
+ 599 536 l 1,6,-1
+ 599 432 l 1,7,-1
+ 395 432 l 1,8,-1
+ 395 91 l 1,9,-1
+ 480 91 l 1,10,-1
+ 480 -186 l 1,11,-1
+ 350 -186 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

@@ -1,0 +1,22 @@
+StartChar: Lambda
+Encoding: 923 923 374
+Width: 600
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+555 0 m 1,0,-1
+ 459 0 l 1,1,-1
+ 430 452 l 2,2,3
+ 425 522 425 522 425 578 c 0,4,5
+ 425 593 425 593 426 606 c 1,6,7
+ 385 516 385 516 352 454 c 2,8,-1
+ 109 0 l 1,9,-1
+ 15 0 l 1,10,-1
+ 407 714 l 1,11,-1
+ 497 714 l 1,12,-1
+ 555 0 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

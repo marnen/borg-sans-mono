@@ -1,0 +1,19 @@
+StartChar: sevensuperior
+Encoding: 65548 -1 883
+Width: 556
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+311 652 m 1,0,-1
+ 326 716 l 1,1,-1
+ 580 716 l 1,2,-1
+ 568 664 l 1,3,-1
+ 348 326 l 1,4,-1
+ 272 326 l 1,5,-1
+ 488 652 l 1,6,-1
+ 311 652 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

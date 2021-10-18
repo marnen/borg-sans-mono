@@ -1,0 +1,24 @@
+StartChar: dagger
+Encoding: 8224 8224 1427
+Width: 658
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+527 587 m 1,0,-1
+ 527 467 l 1,1,-1
+ 358 482 l 1,2,-1
+ 390 -15 l 1,3,-1
+ 228 -15 l 1,4,-1
+ 259 482 l 1,5,-1
+ 103 467 l 1,6,-1
+ 103 587 l 1,7,-1
+ 258 572 l 1,8,-1
+ 226 774 l 1,9,-1
+ 392 774 l 1,10,-1
+ 359 572 l 1,11,-1
+ 527 587 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

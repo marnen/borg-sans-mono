@@ -1,0 +1,24 @@
+StartChar: Sigma
+Encoding: 931 931 381
+Width: 600
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+213 640 m 1,0,-1
+ 230 714 l 1,1,-1
+ 645 714 l 1,2,-1
+ 626 629 l 1,3,-1
+ 315 629 l 1,4,-1
+ 433 374 l 1,5,-1
+ 178 84 l 1,6,-1
+ 526 84 l 1,7,-1
+ 506 0 l 1,8,-1
+ 58 0 l 1,9,-1
+ 76 77 l 1,10,-1
+ 335 374 l 1,11,-1
+ 213 640 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

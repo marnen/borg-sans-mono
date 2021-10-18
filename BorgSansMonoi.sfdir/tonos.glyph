@@ -1,0 +1,20 @@
+StartChar: tonos
+Encoding: 900 900 353
+Width: 600
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+423 766 m 1,0,-1
+ 518 766 l 1,1,-1
+ 515 753 l 2,2,3
+ 513 745 513 745 479 693 c 0,4,5
+ 445 642 445 642 407 601 c 1,6,-1
+ 353 601 l 1,7,-1
+ 357 618 l 1,8,-1
+ 382 670 l 1,9,10
+ 409 725 409 725 423 766 c 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

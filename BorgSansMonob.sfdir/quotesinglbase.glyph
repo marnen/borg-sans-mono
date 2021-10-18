@@ -1,0 +1,21 @@
+StartChar: quotesinglbase
+Encoding: 8218 8218 1422
+Width: 629
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+205 -144 m 1,0,-1
+ 209 -125 l 2,1,2
+ 243 17 243 17 257 118 c 2,3,-1
+ 259 131 l 1,4,-1
+ 377 131 l 1,5,-1
+ 392 107 l 1,6,-1
+ 390 101 l 1,7,8
+ 363 -4 363 -4 303 -135 c 2,9,-1
+ 299 -144 l 1,10,-1
+ 205 -144 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

@@ -1,0 +1,27 @@
+StartChar: asterisk
+Encoding: 42 42 13
+Width: 600
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+507 762 m 1,0,-1
+ 442 571 l 1,1,-1
+ 636 625 l 1,2,-1
+ 625 526 l 1,3,-1
+ 450 512 l 1,4,-1
+ 526 354 l 1,5,-1
+ 427 305 l 1,6,-1
+ 387 477 l 1,7,-1
+ 275 305 l 1,8,-1
+ 198 354 l 1,9,-1
+ 344 512 l 1,10,-1
+ 178 526 l 1,11,-1
+ 214 625 l 1,12,-1
+ 381 571 l 1,13,-1
+ 406 762 l 1,14,-1
+ 507 762 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

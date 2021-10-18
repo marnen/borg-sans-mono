@@ -1,6 +1,6 @@
 StartChar: Wgrave
 Encoding: 7808 7808 707
-Width: 1229
+Width: 600
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -26,9 +26,8 @@ CALL
 SHC[rp1]
 EndTTInstrs
 LayerCount: 2
-Back
 Fore
 Refer: 58 87 N 1 0 0 1 0 0 3
-Refer: 67 96 N 1 0 0 1 -81 338 2
+Refer: 67 96 N 1 0 0 1 -40 165 2
 Validated: 1
 EndChar
