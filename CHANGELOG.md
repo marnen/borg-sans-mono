@@ -4,6 +4,12 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## 0.3.3 / 2021-10-18
+
+* Re-organize ligatures
+* Properly identify weights for style variants
+* Change font names to match OTF guidelines
+
 ## 0.3.2 / 2021-09-26
 
 * Re-add substitutions
