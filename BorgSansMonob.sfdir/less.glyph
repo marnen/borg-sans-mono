@@ -15,7 +15,6 @@ SplineSet
  569 84 l 1,6,-1
  60 319 l 1,0,-1
 EndSplineSet
-Substitution2: "Single Substitution lookup 68 subtable" arrow_left_single
-Substitution2: "<2,2> Cursive lookup 46 nested-substitutions 0 subtable" arrow_left_single
-Substitution2: "Single Substitution lookup 15 subtable" arrow_left_single
+Validated: 1
+Substitution2: "Single Substitution lookup 5 subtable" arrow_left_single
 EndChar

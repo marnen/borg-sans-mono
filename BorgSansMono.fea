@@ -1,58 +1,60 @@
 languagesystem DFLT dflt;
 languagesystem cyrl dflt;
 languagesystem grek dflt;
-languagesystem kana dflt;
 languagesystem latn dflt;
 
 
 # GSUB 
 
 
-lookup caltContextualAlternateslookup0 {
+lookup subspace {
   lookupflag 0;
-    sub \slash_equal  \equal'   by \space;
+    sub \hyphen by \space ;
+    sub \equal by \space ;
+    sub \greater by \space ;
+} subspace;
+
+lookup codeligatures {
+  lookupflag 0;
+    sub \slash_equal  \equal'lookup subspace   ;
     sub  \slash' \equal   by \slash_equal;
-    sub \exclam_equal_equal  \equal' \equal   by \space.equal_triple;
+    sub \exclam_equal_equal \space  \equal'lookup subspace   ;
+    sub \exclam_equal_equal  \equal'lookup subspace  \equal  ;
     sub  \exclam' \equal \equal   by \exclam_equal_equal;
-    sub \space.equal_triple  \equal'   by \space;
-    sub \equal_triple  \equal' \equal   by \space.equal_triple;
+    sub \equal_triple \space  \equal'lookup subspace   ;
+    sub \equal_triple  \equal'lookup subspace  \equal  ;
     sub  \equal' \equal \equal   by \equal_triple;
-    sub \exclam_equal  \equal'   by \space;
-    sub  \exclam' \equal   by \exclam_equal;
-    sub \equal_equal  \equal'   by \space;
-    sub  \equal' \equal   by \equal_equal;
-    sub \arrow_right_single  \greater'   by \space;
-    sub  \hyphen' \greater   by \arrow_right_single;
-    sub \arrow_left_single  \hyphen'   by \space;
+    sub \arrow_left_single  \hyphen'lookup subspace   ;
     sub  \less' \hyphen   by \arrow_left_single;
-    ignore sub \less  \equal' \greater  ;
-    sub \arrow_right_double  \greater'   by \space;
-    sub  \equal' \greater   by \arrow_right_double;
-    sub \bar_greater  \greater'   by \space;
+    sub \arrow_right_single  \greater'lookup subspace   ;
+    sub  \hyphen' \greater   by \arrow_right_single;
+    sub \exclam_equal  \equal'lookup subspace   ;
+    sub  \exclam' \equal   by \exclam_equal;
+    sub \bar_greater  \greater'lookup subspace   ;
     sub  \bar' \greater   by \bar_greater;
-} caltContextualAlternateslookup0;
+    sub \equal_equal  \equal'lookup subspace   ;
+    sub  \equal' \equal   by \equal_equal;
+    sub \arrow_right_double  \greater'lookup subspace   ;
+    sub  \equal' \greater   by \arrow_right_double;
+} codeligatures;
 
 feature calt {
 
  script DFLT;
      language dflt ;
-      lookup caltContextualAlternateslookup0;
+      lookup codeligatures;
 
  script cyrl;
      language dflt ;
-      lookup caltContextualAlternateslookup0;
+      lookup codeligatures;
 
  script grek;
      language dflt ;
-      lookup caltContextualAlternateslookup0;
-
- script kana;
-     language dflt ;
-      lookup caltContextualAlternateslookup0;
+      lookup codeligatures;
 
  script latn;
      language dflt ;
-      lookup caltContextualAlternateslookup0;
+      lookup codeligatures;
 } calt;
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 

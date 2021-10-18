@@ -15,11 +15,6 @@ SplineSet
  415 353 l 1,6,-1
  60 511 l 1,0,-1
 EndSplineSet
-Substitution2: "Single Substitution lookup 71 subtable" space
-Substitution2: "Single Substitution lookup 69 subtable" space
-Substitution2: "Single Substitution lookup 65 subtable" space
-Substitution2: "<2,2> Cursive lookup 49 nested-substitutions 0 subtable" space
-Substitution2: "<2,2> Cursive lookup 40 nested-substitutions 0 subtable" space
-Substitution2: "Single Substitution lookup 16 subtable" space
-Substitution2: "Single Substitution lookup 12 subtable" space
+Validated: 1
+Substitution2: "subspace subtable" space
 EndChar

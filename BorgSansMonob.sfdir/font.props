@@ -1,10 +1,10 @@
 SplineFontDB: 3.2
-FontName: BorgSansMono
-FullName: Borg Sans Mono
+FontName: BorgSansMono-Bold
+FullName: Borg Sans Mono Bold
 FamilyName: Borg Sans Mono
-Weight: Book
+Weight: Bold
 Copyright: Digitized data copyright (c) 2007, Google Corporation.\nSlashed Zero Modification (c) 2009, cosmix.org\nLigatures copyright (c) 2016, Marnen E. Laibow-Koser
-Version: 0.3.2
+Version: 0.3.3
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 49
@@ -15,16 +15,16 @@ sfntRevision: 0x00010000
 LayerCount: 2
 Layer: 0 1 "Back" 1
 Layer: 1 1 "Fore" 0
-XUID: [1021 66 -1879445004 15260216]
+XUID: [1021 66 -1879445004 2555432]
 StyleMap: 0x0040
 FSType: 8
-OS2Version: 3
+OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1168259284
-ModificationTime: 1632675150
+ModificationTime: 1634536716
 PfmFamily: 17
-TTFWeight: 400
+TTFWeight: 700
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
@@ -40,7 +40,7 @@ OS2WinDescent: 200
 OS2WinDOffset: 0
 HheadAscent: 800
 HheadAOffset: 0
-HheadDescent: 200
+HheadDescent: -200
 HheadDOffset: 0
 OS2SubXSize: 700
 OS2SubYSize: 650
@@ -57,8 +57,8 @@ OS2XHeight: 536
 OS2Vendor: '1ASC'
 OS2CodePages: 2000019f.00000000
 OS2UnicodeRanges: e00002ef.4000205b.00000028.00000000
-Lookup: 6 0 0 "'calt' Contextual Alternates lookup 0" { "'calt' Contextual Alternates lookup 0 contextual 0"  "'calt' Contextual Alternates lookup 0 contextual 1"  "'calt' Contextual Alternates lookup 0 contextual 2"  "'calt' Contextual Alternates lookup 0 contextual 3"  "'calt' Contextual Alternates lookup 0 contextual 4"  "'calt' Contextual Alternates lookup 0 contextual 5"  "'calt' Contextual Alternates lookup 0 contextual 6"  "'calt' Contextual Alternates lookup 0 contextual 7"  "'calt' Contextual Alternates lookup 0 contextual 8"  "'calt' Contextual Alternates lookup 0 contextual 9"  "'calt' Contextual Alternates lookup 0 contextual 10"  "'calt' Contextual Alternates lookup 0 contextual 11"  "'calt' Contextual Alternates lookup 0 contextual 12"  "'calt' Contextual Alternates lookup 0 contextual 13"  "'calt' Contextual Alternates lookup 0 contextual 14"  "'calt' Contextual Alternates lookup 0 contextual 15"  "'calt' Contextual Alternates lookup 0 contextual 16"  "'calt' Contextual Alternates lookup 0 contextual 17"  } ['calt' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "Single Substitution lookup 1" { "Single Substitution lookup 1 subtable"  } []
+Lookup: 1 0 0 "subspace" { "subspace subtable"  } []
+Lookup: 6 0 0 "codeligatures" { "codeligatures contextual 0"  "codeligatures contextual 1"  "codeligatures contextual 2"  "codeligatures contextual 3"  "codeligatures contextual 4"  "codeligatures contextual 5"  "codeligatures contextual 6"  "codeligatures contextual 7"  "codeligatures contextual 8"  "codeligatures contextual 9"  "codeligatures contextual 10"  "codeligatures contextual 11"  "codeligatures contextual 12"  "codeligatures contextual 13"  "codeligatures contextual 14"  "codeligatures contextual 15"  "codeligatures contextual 16"  "codeligatures contextual 17"  "codeligatures contextual 18"  "codeligatures contextual 19"  } ['calt' ('latn' <'dflt' > 'grek' <'dflt' > 'cyrl' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 2" { "Single Substitution lookup 2 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 3" { "Single Substitution lookup 3 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 4" { "Single Substitution lookup 4 subtable"  } []
@@ -68,756 +68,148 @@ Lookup: 1 0 0 "Single Substitution lookup 7" { "Single Substitution lookup 7 sub
 Lookup: 1 0 0 "Single Substitution lookup 8" { "Single Substitution lookup 8 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 9" { "Single Substitution lookup 9 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 10" { "Single Substitution lookup 10 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 11" { "Single Substitution lookup 11 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 12" { "Single Substitution lookup 12 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 13" { "Single Substitution lookup 13 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 14" { "Single Substitution lookup 14 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 15" { "Single Substitution lookup 15 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 16" { "Single Substitution lookup 16 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 17" { "Single Substitution lookup 17 subtable"  } []
-Lookup: 254 0 0 "<2,2> Cursive lookup 18" { "<2,2> Cursive lookup 18 subtable"  } [<2,2> ('DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "<2,2> Cursive lookup 18 nested-substitutions 0" { "<2,2> Cursive lookup 18 nested-substitutions 0 subtable"  } []
-Lookup: 254 0 0 "<2,2> Cursive lookup 20" { "<2,2> Cursive lookup 20 subtable"  } [<2,2> ('DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "<2,2> Cursive lookup 20 nested-substitutions 0" { "<2,2> Cursive lookup 20 nested-substitutions 0 subtable"  } []
-Lookup: 254 0 0 "<2,2> Cursive lookup 22" { "<2,2> Cursive lookup 22 subtable"  } [<2,2> ('DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "<2,2> Cursive lookup 22 nested-substitutions 0" { "<2,2> Cursive lookup 22 nested-substitutions 0 subtable"  } []
-Lookup: 254 0 0 "<2,2> Cursive lookup 24" { "<2,2> Cursive lookup 24 subtable"  } [<2,2> ('DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "<2,2> Cursive lookup 24 nested-substitutions 0" { "<2,2> Cursive lookup 24 nested-substitutions 0 subtable"  } []
-Lookup: 254 0 0 "<2,2> Cursive lookup 26" { "<2,2> Cursive lookup 26 subtable"  } [<2,2> ('DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "<2,2> Cursive lookup 26 nested-substitutions 0" { "<2,2> Cursive lookup 26 nested-substitutions 0 subtable"  } []
-Lookup: 254 0 0 "<2,2> Cursive lookup 28" { "<2,2> Cursive lookup 28 subtable"  } [<2,2> ('DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "<2,2> Cursive lookup 28 nested-substitutions 0" { "<2,2> Cursive lookup 28 nested-substitutions 0 subtable"  } []
-Lookup: 254 0 0 "<2,2> Cursive lookup 30" { "<2,2> Cursive lookup 30 subtable"  } [<2,2> ('DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "<2,2> Cursive lookup 30 nested-substitutions 0" { "<2,2> Cursive lookup 30 nested-substitutions 0 subtable"  } []
-Lookup: 254 0 0 "<2,2> Cursive lookup 32" { "<2,2> Cursive lookup 32 subtable"  } [<2,2> ('DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "<2,2> Cursive lookup 32 nested-substitutions 0" { "<2,2> Cursive lookup 32 nested-substitutions 0 subtable"  } []
-Lookup: 254 0 0 "<2,2> Cursive lookup 34" { "<2,2> Cursive lookup 34 subtable"  } [<2,2> ('DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "<2,2> Cursive lookup 34 nested-substitutions 0" { "<2,2> Cursive lookup 34 nested-substitutions 0 subtable"  } []
-Lookup: 254 0 0 "<2,2> Cursive lookup 36" { "<2,2> Cursive lookup 36 subtable"  } [<2,2> ('DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "<2,2> Cursive lookup 36 nested-substitutions 0" { "<2,2> Cursive lookup 36 nested-substitutions 0 subtable"  } []
-Lookup: 254 0 0 "<2,2> Cursive lookup 38" { "<2,2> Cursive lookup 38 subtable"  } [<2,2> ('DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "<2,2> Cursive lookup 38 nested-substitutions 0" { "<2,2> Cursive lookup 38 nested-substitutions 0 subtable"  } []
-Lookup: 254 0 0 "<2,2> Cursive lookup 40" { "<2,2> Cursive lookup 40 subtable"  } [<2,2> ('DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "<2,2> Cursive lookup 40 nested-substitutions 0" { "<2,2> Cursive lookup 40 nested-substitutions 0 subtable"  } []
-Lookup: 254 0 0 "<2,2> Cursive lookup 42" { "<2,2> Cursive lookup 42 subtable"  } [<2,2> ('DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "<2,2> Cursive lookup 42 nested-substitutions 0" { "<2,2> Cursive lookup 42 nested-substitutions 0 subtable"  } []
-Lookup: 254 0 0 "<2,2> Cursive lookup 44" { "<2,2> Cursive lookup 44 subtable"  } [<2,2> ('DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "<2,2> Cursive lookup 44 nested-substitutions 0" { "<2,2> Cursive lookup 44 nested-substitutions 0 subtable"  } []
-Lookup: 254 0 0 "<2,2> Cursive lookup 46" { "<2,2> Cursive lookup 46 subtable"  } [<2,2> ('DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "<2,2> Cursive lookup 46 nested-substitutions 0" { "<2,2> Cursive lookup 46 nested-substitutions 0 subtable"  } []
-Lookup: 254 0 0 "<2,2> Cursive lookup 48" { "<2,2> Cursive lookup 48 subtable"  } [<2,2> ('DFLT' <'dflt' > ) ]
-Lookup: 254 0 0 "<2,2> Cursive lookup 49" { "<2,2> Cursive lookup 49 subtable"  } [<2,2> ('DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "<2,2> Cursive lookup 49 nested-substitutions 0" { "<2,2> Cursive lookup 49 nested-substitutions 0 subtable"  } []
-Lookup: 254 0 0 "<2,2> Cursive lookup 51" { "<2,2> Cursive lookup 51 subtable"  } [<2,2> ('DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "<2,2> Cursive lookup 51 nested-substitutions 0" { "<2,2> Cursive lookup 51 nested-substitutions 0 subtable"  } []
-Lookup: 6 0 0 "caltContextualAlternateslookup0" { "caltContextualAlternateslookup0 contextual 0"  "caltContextualAlternateslookup0 contextual 1"  "caltContextualAlternateslookup0 contextual 2"  "caltContextualAlternateslookup0 contextual 3"  "caltContextualAlternateslookup0 contextual 4"  "caltContextualAlternateslookup0 contextual 5"  "caltContextualAlternateslookup0 contextual 6"  "caltContextualAlternateslookup0 contextual 7"  "caltContextualAlternateslookup0 contextual 8"  "caltContextualAlternateslookup0 contextual 9"  "caltContextualAlternateslookup0 contextual 10"  "caltContextualAlternateslookup0 contextual 11"  "caltContextualAlternateslookup0 contextual 12"  "caltContextualAlternateslookup0 contextual 13"  "caltContextualAlternateslookup0 contextual 14"  "caltContextualAlternateslookup0 contextual 15"  "caltContextualAlternateslookup0 contextual 16"  "caltContextualAlternateslookup0 contextual 17"  "caltContextualAlternateslookup0 contextual 18"  "caltContextualAlternateslookup0 contextual 19"  } ['calt' ('latn' <'dflt' > 'kana' <'dflt' > 'grek' <'dflt' > 'cyrl' <'dflt' > 'DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "Single Substitution lookup 54" { "Single Substitution lookup 54 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 55" { "Single Substitution lookup 55 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 56" { "Single Substitution lookup 56 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 57" { "Single Substitution lookup 57 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 58" { "Single Substitution lookup 58 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 59" { "Single Substitution lookup 59 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 60" { "Single Substitution lookup 60 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 61" { "Single Substitution lookup 61 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 62" { "Single Substitution lookup 62 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 63" { "Single Substitution lookup 63 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 64" { "Single Substitution lookup 64 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 65" { "Single Substitution lookup 65 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 66" { "Single Substitution lookup 66 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 67" { "Single Substitution lookup 67 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 68" { "Single Substitution lookup 68 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 69" { "Single Substitution lookup 69 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 70" { "Single Substitution lookup 70 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 71" { "Single Substitution lookup 71 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 72" { "Single Substitution lookup 72 subtable"  } []
 MarkAttachClasses: 1
 DEI: 91125
-ChainSub2: glyph "caltContextualAlternateslookup0 contextual 19" 0 0 0 1
- String: 3 bar
- BString: 0 
- FString: 7 greater
- 1
-  SeqLookup: 0 "Single Substitution lookup 72"
-EndFPST
-ChainSub2: glyph "caltContextualAlternateslookup0 contextual 18" 0 0 0 1
- String: 7 greater
- BString: 11 bar_greater
- FString: 0 
- 1
-  SeqLookup: 0 "Single Substitution lookup 71"
-EndFPST
-ChainSub2: glyph "caltContextualAlternateslookup0 contextual 17" 0 0 0 1
+ChainSub2: glyph "codeligatures contextual 19" 0 0 0 1
  String: 5 equal
  BString: 0 
  FString: 7 greater
- 1
-  SeqLookup: 0 "Single Substitution lookup 70"
-EndFPST
-ChainSub2: glyph "caltContextualAlternateslookup0 contextual 16" 0 0 0 1
- String: 7 greater
- BString: 18 arrow_right_double
- FString: 0 
- 1
-  SeqLookup: 0 "Single Substitution lookup 69"
-EndFPST
-ChainSub2: glyph "caltContextualAlternateslookup0 contextual 15" 0 0 0 1
- String: 5 equal
- BString: 4 less
- FString: 7 greater
- 0
-EndFPST
-ChainSub2: glyph "caltContextualAlternateslookup0 contextual 14" 0 0 0 1
- String: 4 less
- BString: 0 
- FString: 6 hyphen
- 1
-  SeqLookup: 0 "Single Substitution lookup 68"
-EndFPST
-ChainSub2: glyph "caltContextualAlternateslookup0 contextual 13" 0 0 0 1
- String: 6 hyphen
- BString: 17 arrow_left_single
- FString: 0 
- 1
-  SeqLookup: 0 "Single Substitution lookup 67"
-EndFPST
-ChainSub2: glyph "caltContextualAlternateslookup0 contextual 12" 0 0 0 1
- String: 6 hyphen
- BString: 0 
- FString: 7 greater
- 1
-  SeqLookup: 0 "Single Substitution lookup 66"
-EndFPST
-ChainSub2: glyph "caltContextualAlternateslookup0 contextual 11" 0 0 0 1
- String: 7 greater
- BString: 18 arrow_right_single
- FString: 0 
- 1
-  SeqLookup: 0 "Single Substitution lookup 65"
-EndFPST
-ChainSub2: glyph "caltContextualAlternateslookup0 contextual 10" 0 0 0 1
- String: 5 equal
- BString: 0 
- FString: 5 equal
- 1
-  SeqLookup: 0 "Single Substitution lookup 64"
-EndFPST
-ChainSub2: glyph "caltContextualAlternateslookup0 contextual 9" 0 0 0 1
- String: 5 equal
- BString: 11 equal_equal
- FString: 0 
- 1
-  SeqLookup: 0 "Single Substitution lookup 63"
-EndFPST
-ChainSub2: glyph "caltContextualAlternateslookup0 contextual 8" 0 0 0 1
- String: 6 exclam
- BString: 0 
- FString: 5 equal
- 1
-  SeqLookup: 0 "Single Substitution lookup 62"
-EndFPST
-ChainSub2: glyph "caltContextualAlternateslookup0 contextual 7" 0 0 0 1
- String: 5 equal
- BString: 12 exclam_equal
- FString: 0 
- 1
-  SeqLookup: 0 "Single Substitution lookup 61"
-EndFPST
-ChainSub2: glyph "caltContextualAlternateslookup0 contextual 6" 0 0 0 1
- String: 5 equal
- BString: 0 
- FString: 11 equal equal
- 1
-  SeqLookup: 0 "Single Substitution lookup 60"
-EndFPST
-ChainSub2: glyph "caltContextualAlternateslookup0 contextual 5" 0 0 0 1
- String: 5 equal
- BString: 12 equal_triple
- FString: 5 equal
- 1
-  SeqLookup: 0 "Single Substitution lookup 59"
-EndFPST
-ChainSub2: glyph "caltContextualAlternateslookup0 contextual 4" 0 0 0 1
- String: 5 equal
- BString: 18 space.equal_triple
- FString: 0 
- 1
-  SeqLookup: 0 "Single Substitution lookup 58"
-EndFPST
-ChainSub2: glyph "caltContextualAlternateslookup0 contextual 3" 0 0 0 1
- String: 6 exclam
- BString: 0 
- FString: 11 equal equal
- 1
-  SeqLookup: 0 "Single Substitution lookup 57"
-EndFPST
-ChainSub2: glyph "caltContextualAlternateslookup0 contextual 2" 0 0 0 1
- String: 5 equal
- BString: 18 exclam_equal_equal
- FString: 5 equal
- 1
-  SeqLookup: 0 "Single Substitution lookup 56"
-EndFPST
-ChainSub2: glyph "caltContextualAlternateslookup0 contextual 1" 0 0 0 1
- String: 5 slash
- BString: 0 
- FString: 5 equal
- 1
-  SeqLookup: 0 "Single Substitution lookup 55"
-EndFPST
-ChainSub2: glyph "caltContextualAlternateslookup0 contextual 0" 0 0 0 1
- String: 5 equal
- BString: 11 slash_equal
- FString: 0 
- 1
-  SeqLookup: 0 "Single Substitution lookup 54"
-EndFPST
-ChainSub2: glyph "'calt' Contextual Alternates lookup 0 contextual 17" 0 0 0 1
- String: 5 equal
- BString: 0 
- FString: 7 greater
- 1
-  SeqLookup: 0 "Single Substitution lookup 17"
-EndFPST
-ChainSub2: glyph "'calt' Contextual Alternates lookup 0 contextual 16" 0 0 0 1
- String: 7 greater
- BString: 18 arrow_right_double
- FString: 0 
- 1
-  SeqLookup: 0 "Single Substitution lookup 16"
-EndFPST
-ChainSub2: glyph "'calt' Contextual Alternates lookup 0 contextual 15" 0 0 0 1
- String: 5 equal
- BString: 4 less
- FString: 7 greater
- 0
-EndFPST
-ChainSub2: glyph "'calt' Contextual Alternates lookup 0 contextual 14" 0 0 0 1
- String: 4 less
- BString: 0 
- FString: 6 hyphen
- 1
-  SeqLookup: 0 "Single Substitution lookup 15"
-EndFPST
-ChainSub2: glyph "'calt' Contextual Alternates lookup 0 contextual 13" 0 0 0 1
- String: 6 hyphen
- BString: 17 arrow_left_single
- FString: 0 
- 1
-  SeqLookup: 0 "Single Substitution lookup 14"
-EndFPST
-ChainSub2: glyph "'calt' Contextual Alternates lookup 0 contextual 12" 0 0 0 1
- String: 6 hyphen
- BString: 0 
- FString: 7 greater
- 1
-  SeqLookup: 0 "Single Substitution lookup 13"
-EndFPST
-ChainSub2: glyph "'calt' Contextual Alternates lookup 0 contextual 11" 0 0 0 1
- String: 7 greater
- BString: 18 arrow_right_single
- FString: 0 
- 1
-  SeqLookup: 0 "Single Substitution lookup 12"
-EndFPST
-ChainSub2: glyph "'calt' Contextual Alternates lookup 0 contextual 10" 0 0 0 1
- String: 5 equal
- BString: 0 
- FString: 5 equal
- 1
-  SeqLookup: 0 "Single Substitution lookup 11"
-EndFPST
-ChainSub2: glyph "'calt' Contextual Alternates lookup 0 contextual 9" 0 0 0 1
- String: 5 equal
- BString: 11 equal_equal
- FString: 0 
  1
   SeqLookup: 0 "Single Substitution lookup 10"
 EndFPST
-ChainSub2: glyph "'calt' Contextual Alternates lookup 0 contextual 8" 0 0 0 1
- String: 6 exclam
+ChainSub2: glyph "codeligatures contextual 18" 0 0 0 1
+ String: 7 greater
+ BString: 18 arrow_right_double
+ FString: 0 
+ 1
+  SeqLookup: 0 "subspace"
+EndFPST
+ChainSub2: glyph "codeligatures contextual 17" 0 0 0 1
+ String: 5 equal
  BString: 0 
  FString: 5 equal
  1
   SeqLookup: 0 "Single Substitution lookup 9"
 EndFPST
-ChainSub2: glyph "'calt' Contextual Alternates lookup 0 contextual 7" 0 0 0 1
+ChainSub2: glyph "codeligatures contextual 16" 0 0 0 1
+ String: 5 equal
+ BString: 11 equal_equal
+ FString: 0 
+ 1
+  SeqLookup: 0 "subspace"
+EndFPST
+ChainSub2: glyph "codeligatures contextual 15" 0 0 0 1
+ String: 3 bar
+ BString: 0 
+ FString: 7 greater
+ 1
+  SeqLookup: 0 "Single Substitution lookup 8"
+EndFPST
+ChainSub2: glyph "codeligatures contextual 14" 0 0 0 1
+ String: 7 greater
+ BString: 11 bar_greater
+ FString: 0 
+ 1
+  SeqLookup: 0 "subspace"
+EndFPST
+ChainSub2: glyph "codeligatures contextual 13" 0 0 0 1
+ String: 6 exclam
+ BString: 0 
+ FString: 5 equal
+ 1
+  SeqLookup: 0 "Single Substitution lookup 7"
+EndFPST
+ChainSub2: glyph "codeligatures contextual 12" 0 0 0 1
  String: 5 equal
  BString: 12 exclam_equal
  FString: 0 
  1
-  SeqLookup: 0 "Single Substitution lookup 8"
+  SeqLookup: 0 "subspace"
 EndFPST
-ChainSub2: glyph "'calt' Contextual Alternates lookup 0 contextual 6" 0 0 0 1
- String: 5 equal
+ChainSub2: glyph "codeligatures contextual 11" 0 0 0 1
+ String: 6 hyphen
  BString: 0 
- FString: 11 equal equal
- 1
-  SeqLookup: 0 "Single Substitution lookup 7"
-EndFPST
-ChainSub2: glyph "'calt' Contextual Alternates lookup 0 contextual 5" 0 0 0 1
- String: 5 equal
- BString: 12 equal_triple
- FString: 5 equal
+ FString: 7 greater
  1
   SeqLookup: 0 "Single Substitution lookup 6"
 EndFPST
-ChainSub2: glyph "'calt' Contextual Alternates lookup 0 contextual 4" 0 0 0 1
- String: 5 equal
- BString: 18 space.equal_triple
+ChainSub2: glyph "codeligatures contextual 10" 0 0 0 1
+ String: 7 greater
+ BString: 18 arrow_right_single
  FString: 0 
+ 1
+  SeqLookup: 0 "subspace"
+EndFPST
+ChainSub2: glyph "codeligatures contextual 9" 0 0 0 1
+ String: 4 less
+ BString: 0 
+ FString: 6 hyphen
  1
   SeqLookup: 0 "Single Substitution lookup 5"
 EndFPST
-ChainSub2: glyph "'calt' Contextual Alternates lookup 0 contextual 3" 0 0 0 1
- String: 6 exclam
+ChainSub2: glyph "codeligatures contextual 8" 0 0 0 1
+ String: 6 hyphen
+ BString: 17 arrow_left_single
+ FString: 0 
+ 1
+  SeqLookup: 0 "subspace"
+EndFPST
+ChainSub2: glyph "codeligatures contextual 7" 0 0 0 1
+ String: 5 equal
  BString: 0 
  FString: 11 equal equal
  1
   SeqLookup: 0 "Single Substitution lookup 4"
 EndFPST
-ChainSub2: glyph "'calt' Contextual Alternates lookup 0 contextual 2" 0 0 0 1
+ChainSub2: glyph "codeligatures contextual 6" 0 0 0 1
+ String: 5 equal
+ BString: 12 equal_triple
+ FString: 5 equal
+ 1
+  SeqLookup: 0 "subspace"
+EndFPST
+ChainSub2: glyph "codeligatures contextual 5" 0 0 0 1
+ String: 5 equal
+ BString: 18 space equal_triple
+ FString: 0 
+ 1
+  SeqLookup: 0 "subspace"
+EndFPST
+ChainSub2: glyph "codeligatures contextual 4" 0 0 0 1
+ String: 6 exclam
+ BString: 0 
+ FString: 11 equal equal
+ 1
+  SeqLookup: 0 "Single Substitution lookup 3"
+EndFPST
+ChainSub2: glyph "codeligatures contextual 3" 0 0 0 1
  String: 5 equal
  BString: 18 exclam_equal_equal
  FString: 5 equal
  1
-  SeqLookup: 0 "Single Substitution lookup 3"
+  SeqLookup: 0 "subspace"
 EndFPST
-ChainSub2: glyph "'calt' Contextual Alternates lookup 0 contextual 1" 0 0 0 1
+ChainSub2: glyph "codeligatures contextual 2" 0 0 0 1
+ String: 5 equal
+ BString: 24 space exclam_equal_equal
+ FString: 0 
+ 1
+  SeqLookup: 0 "subspace"
+EndFPST
+ChainSub2: glyph "codeligatures contextual 1" 0 0 0 1
  String: 5 slash
  BString: 0 
  FString: 5 equal
  1
   SeqLookup: 0 "Single Substitution lookup 2"
 EndFPST
-ChainSub2: glyph "'calt' Contextual Alternates lookup 0 contextual 0" 0 0 0 1
+ChainSub2: glyph "codeligatures contextual 0" 0 0 0 1
  String: 5 equal
  BString: 11 slash_equal
  FString: 0 
  1
-  SeqLookup: 0 "Single Substitution lookup 1"
+  SeqLookup: 0 "subspace"
 EndFPST
-MacContext2: "<2,2> Cursive lookup 51 subtable" 0 6 3
-  Class: 5 equal
-  Class: 7 greater
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 1 0 ~ ~ 
- 0 0 ~ ~ 
- 2 32768 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 1 0 ~ ~ 
- 0 0 ~ ~ 
- 2 32768 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 2 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 0 16384 "<2,2> Cursive lookup 51 nested-substitutions 0" ~ 
-EndASM
-MacContext2: "<2,2> Cursive lookup 49 subtable" 0 6 3
-  Class: 7 greater
-  Class: 18 arrow_right_double
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 1 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 2 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 1 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 2 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 2 0 ~ ~ 
- 0 0 ~ ~ 
- 0 16384 ~ "<2,2> Cursive lookup 49 nested-substitutions 0" 
- 0 0 ~ ~ 
-EndASM
-MacContext2: "<2,2> Cursive lookup 48 subtable" 0 7 4
-  Class: 5 equal
-  Class: 4 less
-  Class: 7 greater
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 1 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 2 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 1 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 2 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 2 0 ~ ~ 
- 0 0 ~ ~ 
- 3 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 3 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 0 16384 ~ ~ 
-EndASM
-MacContext2: "<2,2> Cursive lookup 46 subtable" 0 6 3
-  Class: 4 less
-  Class: 6 hyphen
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 1 0 ~ ~ 
- 0 0 ~ ~ 
- 2 32768 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 1 0 ~ ~ 
- 0 0 ~ ~ 
- 2 32768 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 2 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 0 16384 "<2,2> Cursive lookup 46 nested-substitutions 0" ~ 
-EndASM
-MacContext2: "<2,2> Cursive lookup 44 subtable" 0 6 3
-  Class: 6 hyphen
-  Class: 17 arrow_left_single
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 1 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 2 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 1 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 2 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 2 0 ~ ~ 
- 0 0 ~ ~ 
- 0 16384 ~ "<2,2> Cursive lookup 44 nested-substitutions 0" 
- 0 0 ~ ~ 
-EndASM
-MacContext2: "<2,2> Cursive lookup 42 subtable" 0 6 3
-  Class: 6 hyphen
-  Class: 7 greater
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 1 0 ~ ~ 
- 0 0 ~ ~ 
- 2 32768 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 1 0 ~ ~ 
- 0 0 ~ ~ 
- 2 32768 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 2 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 0 16384 "<2,2> Cursive lookup 42 nested-substitutions 0" ~ 
-EndASM
-MacContext2: "<2,2> Cursive lookup 40 subtable" 0 6 3
-  Class: 7 greater
-  Class: 18 arrow_right_single
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 1 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 2 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 1 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 2 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 2 0 ~ ~ 
- 0 0 ~ ~ 
- 0 16384 ~ "<2,2> Cursive lookup 40 nested-substitutions 0" 
- 0 0 ~ ~ 
-EndASM
-MacContext2: "<2,2> Cursive lookup 38 subtable" 0 5 3
-  Class: 5 equal
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 1 0 ~ ~ 
- 0 0 ~ ~ 
- 2 32768 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 1 0 ~ ~ 
- 0 0 ~ ~ 
- 2 32768 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 2 0 ~ ~ 
- 0 0 ~ ~ 
- 0 16384 "<2,2> Cursive lookup 38 nested-substitutions 0" ~ 
-EndASM
-MacContext2: "<2,2> Cursive lookup 36 subtable" 0 6 3
-  Class: 5 equal
-  Class: 11 equal_equal
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 1 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 2 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 1 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 2 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 2 0 ~ ~ 
- 0 0 ~ ~ 
- 0 16384 ~ "<2,2> Cursive lookup 36 nested-substitutions 0" 
- 0 0 ~ ~ 
-EndASM
-MacContext2: "<2,2> Cursive lookup 34 subtable" 0 6 3
-  Class: 6 exclam
-  Class: 5 equal
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 1 0 ~ ~ 
- 0 0 ~ ~ 
- 2 32768 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 1 0 ~ ~ 
- 0 0 ~ ~ 
- 2 32768 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 2 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 0 16384 "<2,2> Cursive lookup 34 nested-substitutions 0" ~ 
-EndASM
-MacContext2: "<2,2> Cursive lookup 32 subtable" 0 6 3
-  Class: 5 equal
-  Class: 12 exclam_equal
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 1 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 2 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 1 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 2 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 2 0 ~ ~ 
- 0 0 ~ ~ 
- 0 16384 ~ "<2,2> Cursive lookup 32 nested-substitutions 0" 
- 0 0 ~ ~ 
-EndASM
-MacContext2: "<2,2> Cursive lookup 30 subtable" 0 5 4
-  Class: 5 equal
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 1 0 ~ ~ 
- 0 0 ~ ~ 
- 2 32768 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 1 0 ~ ~ 
- 0 0 ~ ~ 
- 2 32768 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 2 0 ~ ~ 
- 0 0 ~ ~ 
- 3 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 3 0 ~ ~ 
- 0 0 ~ ~ 
- 0 16384 "<2,2> Cursive lookup 30 nested-substitutions 0" ~ 
-EndASM
-MacContext2: "<2,2> Cursive lookup 28 subtable" 0 6 4
-  Class: 5 equal
-  Class: 12 equal_triple
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 1 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 2 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 1 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 2 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 2 0 ~ ~ 
- 0 0 ~ ~ 
- 3 32768 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 3 0 ~ ~ 
- 0 0 ~ ~ 
- 0 16384 "<2,2> Cursive lookup 28 nested-substitutions 0" ~ 
- 0 0 ~ ~ 
-EndASM
-MacContext2: "<2,2> Cursive lookup 26 subtable" 0 6 3
-  Class: 5 equal
-  Class: 18 space.equal_triple
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 1 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 2 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 1 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 2 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 2 0 ~ ~ 
- 0 0 ~ ~ 
- 0 16384 ~ "<2,2> Cursive lookup 26 nested-substitutions 0" 
- 0 0 ~ ~ 
-EndASM
-MacContext2: "<2,2> Cursive lookup 24 subtable" 0 6 4
-  Class: 6 exclam
-  Class: 5 equal
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 1 0 ~ ~ 
- 0 0 ~ ~ 
- 2 32768 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 1 0 ~ ~ 
- 0 0 ~ ~ 
- 2 32768 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 2 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 3 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 3 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 0 16384 "<2,2> Cursive lookup 24 nested-substitutions 0" ~ 
-EndASM
-MacContext2: "<2,2> Cursive lookup 22 subtable" 0 6 4
-  Class: 5 equal
-  Class: 18 exclam_equal_equal
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 1 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 2 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 1 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 2 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 2 0 ~ ~ 
- 0 0 ~ ~ 
- 3 32768 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 3 0 ~ ~ 
- 0 0 ~ ~ 
- 0 16384 "<2,2> Cursive lookup 22 nested-substitutions 0" ~ 
- 0 0 ~ ~ 
-EndASM
-MacContext2: "<2,2> Cursive lookup 20 subtable" 0 6 3
-  Class: 5 slash
-  Class: 5 equal
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 1 0 ~ ~ 
- 0 0 ~ ~ 
- 2 32768 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 1 0 ~ ~ 
- 0 0 ~ ~ 
- 2 32768 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 2 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 0 16384 "<2,2> Cursive lookup 20 nested-substitutions 0" ~ 
-EndASM
-MacContext2: "<2,2> Cursive lookup 18 subtable" 0 6 3
-  Class: 5 equal
-  Class: 11 slash_equal
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 1 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 2 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 1 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 2 0 ~ ~ 
- 0 0 ~ ~ 
- 0 0 ~ ~ 
- 2 0 ~ ~ 
- 0 0 ~ ~ 
- 0 16384 ~ "<2,2> Cursive lookup 18 nested-substitutions 0" 
- 0 0 ~ ~ 
-EndASM
 MacFeat: 0 0 0
 MacName: 0 0 24 "All Typographic Features"
 MacName: 0 1 24 "Fonctions typographiques"
@@ -3525,7 +2917,7 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "Bold" "FontForge 2.0 : Borg Sans Mono : 27-1-2016" "" "" "" "Droid is a trademark of Google and may be registered in certain jurisdictions." "Ascender Corporation and cosmix.org" "" "Droid Sans is a humanist sans serif typeface designed for user interfaces and electronic communication." "http://www.marnen.org" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the Apache License, Version 2.0" "http://www.apache.org/licenses/LICENSE-2.0"
+LangName: 1033 "" "" "" "" "" "" "" "Droid is a trademark of Google and may be registered in certain jurisdictions." "Ascender Corporation and cosmix.org" "" "Droid Sans is a humanist sans serif typeface designed for user interfaces and electronic communication." "http://www.marnen.org" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the Apache License, Version 2.0" "http://www.apache.org/licenses/LICENSE-2.0" "" "Borg Sans Mono" "Bold" "" "" "" "Borg Sans Mono" "Bold"
 GaspTable: 2 5 2 65535 3 0
 Encoding: UnicodeBmp
 UnicodeInterp: none
@@ -3533,7 +2925,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 65445 15 9
+WinInfo: 52 13 6
 BeginPrivate: 0
 EndPrivate
 EndSplineFont

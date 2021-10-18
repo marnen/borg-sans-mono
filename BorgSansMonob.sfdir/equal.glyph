@@ -17,31 +17,9 @@ SplineSet
  569 201 l 1,7,-1
  60 201 l 1,4,-1
 EndSplineSet
-Substitution2: "Single Substitution lookup 70 subtable" arrow_right_double
-Substitution2: "Single Substitution lookup 64 subtable" equal_equal
-Substitution2: "Single Substitution lookup 63 subtable" space
-Substitution2: "Single Substitution lookup 61 subtable" space
-Substitution2: "Single Substitution lookup 60 subtable" equal_triple
-Substitution2: "Single Substitution lookup 59 subtable" space.equal_triple
-Substitution2: "Single Substitution lookup 58 subtable" space
-Substitution2: "Single Substitution lookup 56 subtable" space.equal_triple
-Substitution2: "Single Substitution lookup 54 subtable" space
-Substitution2: "<2,2> Cursive lookup 51 nested-substitutions 0 subtable" arrow_right_double
-Substitution2: "<2,2> Cursive lookup 38 nested-substitutions 0 subtable" equal_equal
-Substitution2: "<2,2> Cursive lookup 36 nested-substitutions 0 subtable" space
-Substitution2: "<2,2> Cursive lookup 32 nested-substitutions 0 subtable" space
-Substitution2: "<2,2> Cursive lookup 30 nested-substitutions 0 subtable" equal_triple
-Substitution2: "<2,2> Cursive lookup 28 nested-substitutions 0 subtable" space.equal_triple
-Substitution2: "<2,2> Cursive lookup 26 nested-substitutions 0 subtable" space
-Substitution2: "<2,2> Cursive lookup 22 nested-substitutions 0 subtable" space.equal_triple
-Substitution2: "<2,2> Cursive lookup 18 nested-substitutions 0 subtable" space
-Substitution2: "Single Substitution lookup 17 subtable" arrow_right_double
-Substitution2: "Single Substitution lookup 11 subtable" equal_equal
-Substitution2: "Single Substitution lookup 10 subtable" space
-Substitution2: "Single Substitution lookup 8 subtable" space
-Substitution2: "Single Substitution lookup 7 subtable" equal_triple
-Substitution2: "Single Substitution lookup 6 subtable" space.equal_triple
-Substitution2: "Single Substitution lookup 5 subtable" space
-Substitution2: "Single Substitution lookup 3 subtable" space.equal_triple
-Substitution2: "Single Substitution lookup 1 subtable" space
+Validated: 1
+Substitution2: "Single Substitution lookup 10 subtable" arrow_right_double
+Substitution2: "Single Substitution lookup 9 subtable" equal_equal
+Substitution2: "Single Substitution lookup 4 subtable" equal_triple
+Substitution2: "subspace subtable" space
 EndChar

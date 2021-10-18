@@ -84,13 +84,8 @@ SplineSet
  74 216 l 1,4,-1
 EndSplineSet
 Validated: 1
-Substitution2: "Single Substitution lookup 17 subtable" arrow_right_double
-Substitution2: "Single Substitution lookup 11 subtable" equal_equal
-Substitution2: "Single Substitution lookup 10 subtable" space
-Substitution2: "Single Substitution lookup 8 subtable" space
-Substitution2: "Single Substitution lookup 7 subtable" equal_triple
-Substitution2: "Single Substitution lookup 6 subtable" space.equal_triple
-Substitution2: "Single Substitution lookup 5 subtable" space
-Substitution2: "Single Substitution lookup 3 subtable" space.equal_triple
-Substitution2: "Single Substitution lookup 1 subtable" space
+Substitution2: "sub space-1" space
+Substitution2: "lig equal triple-1" equal_triple
+Substitution2: "lig equal equal-1" equal_equal
+Substitution2: "lig arrow right double-1" arrow_right_double
 EndChar
